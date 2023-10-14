@@ -23,14 +23,29 @@ class Schedule:
 
         # Assign the week for the other matches by taking the parallel match
         for team_1 in range(self.n_teams - 1):
+            even_k: int = int(self.n_teams - 5 - (self.n_teams - 6) / 2) if self.n_teams > 6 else 1
+            odd_k: int = 1
+
+            is_even: bool = True
+
             for team_2 in range(team_1 + 2, self.n_teams - 1):
                 if team_1 != 0 or team_2 != self.n_teams - 2:
-                    if team_2 - team_1 < n_teams / 2:
-                        team_1_neighbour = team_1 - 1 if team_1 > 0 else self.n_teams - 2
-                        team_2_neighbour = team_2 + 1 if team_2 < self.n_teams - 2 else 0
+                    if is_even:
+                        team_1_neighbour = team_1 - even_k if team_1 - even_k >= 0\
+                            else self.n_teams - 1 - even_k + team_1
+                        team_2_neighbour = team_2 + even_k if team_2 + even_k <= self.n_teams - 2\
+                            else 0 + even_k - (self.n_teams - 1 - team_2)
+
+                        even_k -= 1
+                        is_even = False
                     else:
-                        team_1_neighbour = team_1 + 1 if team_1 < self.n_teams - 2 else 0
-                        team_2_neighbour = team_2 - 1 if team_2 > 0 else self.n_teams - 2
+                        team_1_neighbour = team_1 + odd_k if team_1 + odd_k <= self.n_teams - 2\
+                            else 0 + odd_k - (self.n_teams - 1 - team_1)
+                        team_2_neighbour = team_2 - odd_k if team_2 - odd_k > 0\
+                            else self.n_teams - 1 - odd_k + team_2
+
+                        odd_k += 1
+                        is_even = True
 
                     if team_1_neighbour < team_2_neighbour:
                         self.matches[Match(team_1, team_2)] = self.matches[Match(team_1_neighbour, team_2_neighbour)]
@@ -39,7 +54,7 @@ class Schedule:
 
         # Assign weeks for the last team matches
         for team in range(self.n_teams - 1):
-            team_weeks =\
+            team_weeks = \
                 [self.matches[match] for match in self.matches.keys() if team in match]
             self.matches[Match(team, self.n_teams - 1)] = \
                 [week for week in range(1, self.n_teams) if week not in team_weeks][0]
@@ -82,6 +97,6 @@ class Schedule:
 
 
 if __name__ == '__main__':
-    schedule = Schedule(6)
+    schedule = Schedule(8)
     schedule.show_as_graph()
     schedule.show_as_ndarray()
