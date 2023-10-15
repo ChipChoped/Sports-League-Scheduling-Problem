@@ -13,13 +13,15 @@ class Schedule:
         super().__init__()
 
         self.n_teams: int = n_teams
-        self.matches: dict = dict()
+        self.matches: np.ndarray = np.array([])
+
+        weeks_matches_init: dict = dict()
 
         # Make a circle of the n_teams - 1 teams and assign the week for each match
         for team_1 in range(self.n_teams - 2):
-            self.matches[Match(team_1, team_1 + 1)] = team_1 + 1
+            weeks_matches_init[Match(team_1, team_1 + 1)] = team_1 + 1
 
-        self.matches[Match(0, n_teams - 2)] = self.n_teams - 1
+        weeks_matches_init[Match(0, n_teams - 2)] = self.n_teams - 1
 
         # Assign the week for the other matches by taking the parallel match
         for team_1 in range(self.n_teams - 1):
@@ -31,72 +33,68 @@ class Schedule:
             for team_2 in range(team_1 + 2, self.n_teams - 1):
                 if team_1 != 0 or team_2 != self.n_teams - 2:
                     if is_even:
-                        team_1_neighbour = team_1 - even_k if team_1 - even_k >= 0\
+                        team_1_neighbour = team_1 - even_k if team_1 - even_k >= 0 \
                             else self.n_teams - 1 - even_k + team_1
-                        team_2_neighbour = team_2 + even_k if team_2 + even_k <= self.n_teams - 2\
+                        team_2_neighbour = team_2 + even_k if team_2 + even_k <= self.n_teams - 2 \
                             else 0 + even_k - (self.n_teams - 1 - team_2)
 
                         even_k -= 1
                         is_even = False
                     else:
-                        team_1_neighbour = team_1 + odd_k if team_1 + odd_k <= self.n_teams - 2\
+                        team_1_neighbour = team_1 + odd_k if team_1 + odd_k <= self.n_teams - 2 \
                             else 0 + odd_k - (self.n_teams - 1 - team_1)
-                        team_2_neighbour = team_2 - odd_k if team_2 - odd_k > 0\
+                        team_2_neighbour = team_2 - odd_k if team_2 - odd_k > 0 \
                             else self.n_teams - 1 - odd_k + team_2
 
                         odd_k += 1
                         is_even = True
 
                     if team_1_neighbour < team_2_neighbour:
-                        self.matches[Match(team_1, team_2)] = self.matches[Match(team_1_neighbour, team_2_neighbour)]
+                        weeks_matches_init[Match(team_1, team_2)] = weeks_matches_init[
+                            Match(team_1_neighbour, team_2_neighbour)]
                     else:
-                        self.matches[Match(team_1, team_2)] = self.matches[Match(team_2_neighbour, team_1_neighbour)]
+                        weeks_matches_init[Match(team_1, team_2)] = weeks_matches_init[
+                            Match(team_2_neighbour, team_1_neighbour)]
 
         # Assign weeks for the last team matches
         for team in range(self.n_teams - 1):
             team_weeks = \
-                [self.matches[match] for match in self.matches.keys() if team in match]
-            self.matches[Match(team, self.n_teams - 1)] = \
+                [weeks_matches_init[match] for match in weeks_matches_init.keys() if team in match]
+            weeks_matches_init[Match(team, self.n_teams - 1)] = \
                 [week for week in range(1, self.n_teams) if week not in team_weeks][0]
 
-        self.matches = dict(sorted(self.matches.items(), key=lambda item: item[1]))
+        weeks_matches_init = dict(sorted(weeks_matches_init.items(), key=lambda item: item[1]))
+        self.matches = np.array(list(weeks_matches_init.keys()))
+        self.matches = self.matches.reshape(self.n_teams - 1, (int(self.n_teams / 2)))
         print(self.matches)
 
     def matches_to_tuples(self):
-        # Convert the matches dictionary to a list of tuples
+        # Return the matches as a list of tuples
 
-        return [match.to_tuple() for match in self.matches.keys()]
+        return [match.to_tuple() for match in self.matches.flatten()]
 
     def show_as_graph(self):
         # Show the schedule as a graph
 
-        schedule: nx.Graph = nx.Graph()
-        schedule.add_edges_from(self.matches_to_tuples())
+        weeks_matches_init_graph: nx.Graph = nx.Graph()
+        weeks_matches_init_graph.add_edges_from(self.matches_to_tuples())
 
-        pos = nx.spring_layout(schedule)
+        pos = nx.spring_layout(weeks_matches_init_graph)
 
-        nx.draw_networkx(schedule, pos, node_shape="s", node_color="none",
+        nx.draw_networkx(weeks_matches_init_graph, pos, node_shape="s", node_color="none",
                          bbox=dict(facecolor="skyblue", edgecolor='none', boxstyle='round,pad=0.2'))
 
         nx.draw_networkx_edge_labels(
-            schedule, pos,
-            edge_labels={match.to_tuple(): self.matches[match] for match in self.matches.keys()},
-            font_color='blue'
+            weeks_matches_init_graph, pos,
+            edge_labels={match.to_tuple(): week + 1
+                         for week in range(0, self.n_teams - 1) for match in self.matches[week]},
+            font_color='red'
         )
 
         plt.axis('off')
         plt.show()
 
-    def show_as_ndarray(self):
-        # Show the schedule as a numpy ndarray
-
-        schedule: np.ndarray = np.array(list(self.matches.keys()))
-        schedule = schedule.reshape(self.n_teams - 1, (int(self.n_teams / 2)))
-
-        print(schedule, schedule.shape)
-
 
 if __name__ == '__main__':
     schedule = Schedule(8)
     schedule.show_as_graph()
-    schedule.show_as_ndarray()
