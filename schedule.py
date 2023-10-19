@@ -6,67 +6,76 @@ from match import Match
 
 
 class Schedule:
-    def __init__(self, n_teams: int):
-        # n_teams: Integer representing the number of teams in the tournament (must be even)
-        # match: Dictionary with the matches of the tournament as key and the week assigned as value
+    def __init__(self, n_teams: int = None):
+        # self.n_teams: Integer representing the number of teams in the tournament (must be even)
+        # self.matches: NdArray of Match objects representing the matches of the tournament where
+        #               the rows respect the week constraint
 
-        super().__init__()
+        self.n_teams: int
+        self.matches: np.ndarray
 
-        self.n_teams: int = n_teams
-        self.matches: np.ndarray = np.array([])
+        if n_teams is not None:
+            self.n_teams = n_teams
+            weeks_matches_init: dict = dict()
 
-        weeks_matches_init: dict = dict()
+            # Make a circle of the n_teams - 1 teams and assign the week for each match
+            for team_1 in range(self.n_teams - 2):
+                weeks_matches_init[Match(team_1, team_1 + 1)] = team_1 + 1
 
-        # Make a circle of the n_teams - 1 teams and assign the week for each match
-        for team_1 in range(self.n_teams - 2):
-            weeks_matches_init[Match(team_1, team_1 + 1)] = team_1 + 1
+            weeks_matches_init[Match(0, n_teams - 2)] = self.n_teams - 1
 
-        weeks_matches_init[Match(0, n_teams - 2)] = self.n_teams - 1
+            # Assign the week for the other matches by taking the parallel match
+            for team_1 in range(self.n_teams - 1):
+                even_k: int = int(self.n_teams - 5 - (self.n_teams - 6) / 2) if self.n_teams > 6 else 1
+                odd_k: int = 1
 
-        # Assign the week for the other matches by taking the parallel match
-        for team_1 in range(self.n_teams - 1):
-            even_k: int = int(self.n_teams - 5 - (self.n_teams - 6) / 2) if self.n_teams > 6 else 1
-            odd_k: int = 1
+                is_even: bool = True
 
-            is_even: bool = True
+                for team_2 in range(team_1 + 2, self.n_teams - 1):
+                    if team_1 != 0 or team_2 != self.n_teams - 2:
+                        if is_even:
+                            team_1_neighbour = team_1 - even_k if team_1 - even_k >= 0 \
+                                else self.n_teams - 1 - even_k + team_1
+                            team_2_neighbour = team_2 + even_k if team_2 + even_k <= self.n_teams - 2 \
+                                else 0 + even_k - (self.n_teams - 1 - team_2)
 
-            for team_2 in range(team_1 + 2, self.n_teams - 1):
-                if team_1 != 0 or team_2 != self.n_teams - 2:
-                    if is_even:
-                        team_1_neighbour = team_1 - even_k if team_1 - even_k >= 0 \
-                            else self.n_teams - 1 - even_k + team_1
-                        team_2_neighbour = team_2 + even_k if team_2 + even_k <= self.n_teams - 2 \
-                            else 0 + even_k - (self.n_teams - 1 - team_2)
+                            even_k -= 1
+                            is_even = False
+                        else:
+                            team_1_neighbour = team_1 + odd_k if team_1 + odd_k <= self.n_teams - 2 \
+                                else 0 + odd_k - (self.n_teams - 1 - team_1)
+                            team_2_neighbour = team_2 - odd_k if team_2 - odd_k > 0 \
+                                else self.n_teams - 1 - odd_k + team_2
 
-                        even_k -= 1
-                        is_even = False
-                    else:
-                        team_1_neighbour = team_1 + odd_k if team_1 + odd_k <= self.n_teams - 2 \
-                            else 0 + odd_k - (self.n_teams - 1 - team_1)
-                        team_2_neighbour = team_2 - odd_k if team_2 - odd_k > 0 \
-                            else self.n_teams - 1 - odd_k + team_2
+                            odd_k += 1
+                            is_even = True
 
-                        odd_k += 1
-                        is_even = True
+                        if team_1_neighbour < team_2_neighbour:
+                            weeks_matches_init[Match(team_1, team_2)] = weeks_matches_init[
+                                Match(team_1_neighbour, team_2_neighbour)]
+                        else:
+                            weeks_matches_init[Match(team_1, team_2)] = weeks_matches_init[
+                                Match(team_2_neighbour, team_1_neighbour)]
 
-                    if team_1_neighbour < team_2_neighbour:
-                        weeks_matches_init[Match(team_1, team_2)] = weeks_matches_init[
-                            Match(team_1_neighbour, team_2_neighbour)]
-                    else:
-                        weeks_matches_init[Match(team_1, team_2)] = weeks_matches_init[
-                            Match(team_2_neighbour, team_1_neighbour)]
+            # Assign weeks for the last team matches
+            for team in range(self.n_teams - 1):
+                team_weeks = \
+                    [weeks_matches_init[match] for match in weeks_matches_init.keys() if team in match]
+                weeks_matches_init[Match(team, self.n_teams - 1)] = \
+                    [week for week in range(1, self.n_teams) if week not in team_weeks][0]
 
-        # Assign weeks for the last team matches
-        for team in range(self.n_teams - 1):
-            team_weeks = \
-                [weeks_matches_init[match] for match in weeks_matches_init.keys() if team in match]
-            weeks_matches_init[Match(team, self.n_teams - 1)] = \
-                [week for week in range(1, self.n_teams) if week not in team_weeks][0]
+            weeks_matches_init = dict(sorted(weeks_matches_init.items(), key=lambda item: item[1]))
+            self.matches = np.array(list(weeks_matches_init.keys()))
+            self.matches = self.matches.reshape(self.n_teams - 1, (int(self.n_teams / 2)))
 
-        weeks_matches_init = dict(sorted(weeks_matches_init.items(), key=lambda item: item[1]))
-        self.matches = np.array(list(weeks_matches_init.keys()))
-        self.matches = self.matches.reshape(self.n_teams - 1, (int(self.n_teams / 2)))
-        print(self.matches)
+    def deepcopy(self):
+        # Return a deep copy of the schedule
+
+        schedule_copy: Schedule = Schedule()
+        schedule_copy.n_teams = self.n_teams
+        schedule_copy.matches = self.matches.copy()
+
+        return schedule_copy
 
     def matches_to_tuples(self):
         # Return the matches as a list of tuples
