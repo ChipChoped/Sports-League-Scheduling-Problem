@@ -21,10 +21,12 @@ class Match(object):
     def to_tuple(self):
         return self.team_1, self.team_2
 
+    # Check for each team if it is in conflict with the other match
+    def teams_conflict(self, match: object) -> tuple[bool, bool]:
+        return self.team_1 == match.team_1 or self.team_1 == match.team_2, \
+               self.team_2 == match.team_1 or self.team_2 == match.team_2
+
     # Check if two matches have at least a team in common and so are in conflict
     def conflict(self, match: object) -> bool:
-        if self.team_1 == match.team_1 or self.team_1 == match.team_2 \
-                or self.team_2 == match.team_1 or self.team_2 == match.team_2:
-            return True
-        else:
-            return False
+        return self.team_1 == match.team_1 or self.team_1 == match.team_2 \
+                or self.team_2 == match.team_1 or self.team_2 == match.team_2
