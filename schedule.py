@@ -7,8 +7,9 @@ from match import Match
 
 class Schedule:
     def __init__(self, n_teams: int = None):
-        # n_teams: Integer representing the number of teams in the tournament (must be even)
-        # match: Dictionary with the matches of the tournament as key and the week assigned as value
+        # self.n_teams: Integer representing the number of teams in the tournament (must be even)
+        # self.matches: NdArray of Match objects representing the matches of the tournament where
+        #               the rows respect the week constraint
 
         self.n_teams: int
         self.matches: np.ndarray
