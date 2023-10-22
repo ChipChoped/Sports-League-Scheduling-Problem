@@ -1,4 +1,4 @@
-# Round Robin Scheduling
+# Sports League Scheduling Problem
 
 ## Problem description
 
@@ -22,4 +22,4 @@
 
 - We first initialize a graph where an edge is a team, an edge is a match and its label the week number
 - Swap two matches if at least one of them is conflicting with the model (only matches on the same week)
-- Tabou list to prevent to swap two matches that have been swapped recently
+- Tabou list to prevent from swapping two matches that have been swapped recently
