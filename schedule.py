@@ -1,4 +1,3 @@
-import networkx as nx
 import numpy as np
 from matplotlib import pyplot as plt
 
