@@ -1,6 +1,4 @@
 import sys
-from typing import Tuple, Set
-
 import numpy as np
 
 from match import Match
@@ -58,19 +56,27 @@ def find_matches_in_conflict(schedule: Schedule) -> set[tuple[Match, Match]]:
 
 def get_swappable_matches(matches_in_conflict: set[tuple[Match, Match]], tabu_list: list[tuple[Match, Match]]) \
         -> set[tuple[Match, Match]]:
+    swappable_matches: set[tuple[Match, Match]] = matches_in_conflict.copy()
+
     for match_1, match_2 in tabu_list:
-        if (match_1, match_2) in matches_in_conflict:
-            matches_in_conflict.remove((match_1, match_2))
-        elif (match_2, match_1) in matches_in_conflict:
-            matches_in_conflict.remove((match_2, match_1))
+        if (match_1, match_2) in swappable_matches:
+            swappable_matches.remove((match_1, match_2))
+        elif (match_2, match_1) in swappable_matches:
+            swappable_matches.remove((match_2, match_1))
 
-    return matches_in_conflict
+    return swappable_matches
 
 
-def best_neighbour_schedule(schedule: Schedule, swappable_matches: set[tuple[Match, Match]],
+def best_neighbour_schedule(schedule: Schedule, matches_in_conflict: set[tuple[Match, Match]],
                             tabu_list: list[tuple[Match, Match]]) \
         -> tuple[tuple[Match, Match], Schedule, set[tuple[Match, Match]], set[tuple[Match, Match]]]:
-    updated_swappable_matches: set[tuple[Match, Match]] = get_swappable_matches(swappable_matches, tabu_list)
+    updated_swappable_matches: set[tuple[Match, Match]] = get_swappable_matches(matches_in_conflict, tabu_list)
+
+    while len(updated_swappable_matches) == 0:
+        tabu_list.pop(0)
+        tabu_list.append((Match(0, 0), Match(0, 0)))
+
+        updated_swappable_matches = get_swappable_matches(matches_in_conflict, tabu_list)
 
     best_swap = next(iter(updated_swappable_matches))
 
@@ -113,6 +119,23 @@ def best_neighbour_schedule(schedule: Schedule, swappable_matches: set[tuple[Mat
     return best_swap, best_neighbour, best_neighbour_matches_in_conflict, best_neighbour_swappable_matches
 
 
+def evaluate_neighbour_schedule(schedule: Schedule) -> int:
+    conflicts: int = 0
+
+    for period in schedule.matches.T:
+        for team in range(schedule.n_teams):
+            c: int = 0
+
+            for match in period:
+                if team in match:
+                    c += 1
+
+            if c > 2:
+                conflicts += c - 2
+
+    return conflicts
+
+
 def tabu_search(init_schedule: Schedule, tabu_list_length: int, max_iterations: int) -> Schedule:
     tabu_list: list[tuple[Match, Match]] = list()  # List of tabu matches
     schedule: Schedule = init_schedule.deepcopy()  # Copy of the initial schedule
@@ -139,9 +162,8 @@ def tabu_search(init_schedule: Schedule, tabu_list_length: int, max_iterations: 
 
     # Perform the tabu search until the schedule is valid and the max number of iterations is reached
     while not schedule_is_valid and iteration < max_iterations:
-
         swap, schedule, matches_in_conflict, swappable_matches = \
-            best_neighbour_schedule(schedule, swappable_matches, tabu_list)
+            best_neighbour_schedule(schedule, matches_in_conflict, tabu_list)
 
         if len(matches_in_conflict) == 0:
             schedule_is_valid = True
@@ -156,7 +178,8 @@ def tabu_search(init_schedule: Schedule, tabu_list_length: int, max_iterations: 
         print("c =", len(matches_in_conflict), matches_in_conflict)
         print("s =", len(swappable_matches), swappable_matches)
         print("m =", swap)
-        print(schedule.matches)
+        print("e =", evaluate_neighbour_schedule(schedule))
+        # print(schedule.matches)
         print("")
 
         iteration += 1
@@ -175,11 +198,19 @@ def main(argv):
     # with the weeks as rows and the periods as columns
     schedule: Schedule = Schedule(n_teams)
 
-    valid_schedule = tabu_search(schedule, int((n_teams / 2) ** 2), max_iterations)
+    valid_schedule = tabu_search(schedule, int(n_teams), max_iterations)
 
     print(schedule.matches, np.shape(schedule.matches))
     print("")
     print(valid_schedule.matches, np.shape(valid_schedule.matches))
+
+    tuples = valid_schedule.matches_to_tuples()
+
+    for j in range(0, n_teams - 1):
+        for i in range(0, int(n_teams / 2)):
+            print(tuples[j * int(n_teams / 2) + i], end=' ')
+
+        print("")
 
 
 if __name__ == '__main__':
