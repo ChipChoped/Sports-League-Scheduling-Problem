@@ -1,0 +1,105 @@
+Number of teams: 12
+Tabu list length: 48
+
+Test n° 1
+Number of successes: 1
+Success rate: 100.0 %
+Total number of iterations: 851
+Average number of iterations: 851
+Average number of iterations_: 851
+Total time: 16.462 s
+Average time: 16.462 s
+
+Test n° 2
+Number of successes: 2
+Success rate: 100.0 %
+Total number of iterations: 1700
+Average number of iterations: 850
+Average number of iterations_: 850
+Total time: 32.643 s
+Average time: 16.322 s
+
+Test n° 3
+Number of successes: 3
+Success rate: 100.0 %
+Total number of iterations: 2551
+Average number of iterations: 850
+Average number of iterations_: 850
+Total time: 49.022 s
+Average time: 16.341 s
+
+Test n° 4
+Number of successes: 4
+Success rate: 100.0 %
+Total number of iterations: 3402
+Average number of iterations: 850
+Average number of iterations_: 850
+Total time: 65.254 s
+Average time: 16.314 s
+
+Test n° 5
+Number of successes: 5
+Success rate: 100.0 %
+Total number of iterations: 4253
+Average number of iterations: 850
+Average number of iterations_: 850
+Total time: 81.675 s
+Average time: 16.335 s
+
+Test n° 6
+Number of successes: 6
+Success rate: 100.0 %
+Total number of iterations: 5104
+Average number of iterations: 850
+Average number of iterations_: 850
+Total time: 97.945 s
+Average time: 16.324 s
+
+Test n° 7
+Number of successes: 7
+Success rate: 100.0 %
+Total number of iterations: 5623
+Average number of iterations: 803
+Average number of iterations_: 803
+Total time: 108.883 s
+Average time: 15.555 s
+
+Test n° 8
+Number of successes: 8
+Success rate: 100.0 %
+Total number of iterations: 6472
+Average number of iterations: 809
+Average number of iterations_: 809
+Total time: 125.052 s
+Average time: 15.631 s
+
+Test n° 9
+Number of successes: 9
+Success rate: 100.0 %
+Total number of iterations: 7323
+Average number of iterations: 813
+Average number of iterations_: 813
+Total time: 141.433 s
+Average time: 15.715 s
+
+Test n° 10
+Number of successes: 10
+Success rate: 100.0 %
+Total number of iterations: 8174
+Average number of iterations: 817
+Average number of iterations_: 817
+Total time: 157.71 s
+Average time: 15.771 s
+
+Number of teams: 12
+Tabu list length: 48
+Maximum number of iterations: 5000
+Number of tests: 10
+Number of successes: 10
+Success rate: 100.0 %
+Total number of iterations: 8174
+Average number of iterations: 817
+Average number of iterations_: 1
+Total time: 157.71 s
+Average time: 15.771 s
+

@@ -1,0 +1,8014 @@
+Number of teams: 6
+Tabu list length: 24
+
+Test n° 1
+Number of successes: 1
+Success rate: 100.0 %
+Total number of iterations: 12
+Average number of iterations: 12
+Total time: 0.013 s
+Average time: 0.0 s
+
+Test n° 2
+Number of successes: 2
+Success rate: 100.0 %
+Total number of iterations: 24
+Average number of iterations: 12
+Total time: 0.025 s
+Average time: 0.0 s
+
+Test n° 3
+Number of successes: 3
+Success rate: 100.0 %
+Total number of iterations: 36
+Average number of iterations: 12
+Total time: 0.038 s
+Average time: 0.0 s
+
+Test n° 4
+Number of successes: 4
+Success rate: 100.0 %
+Total number of iterations: 48
+Average number of iterations: 12
+Total time: 0.05 s
+Average time: 0.0 s
+
+Test n° 5
+Number of successes: 5
+Success rate: 100.0 %
+Total number of iterations: 60
+Average number of iterations: 12
+Total time: 0.063 s
+Average time: 0.0 s
+
+Test n° 6
+Number of successes: 6
+Success rate: 100.0 %
+Total number of iterations: 72
+Average number of iterations: 12
+Total time: 0.076 s
+Average time: 0.0 s
+
+Test n° 7
+Number of successes: 7
+Success rate: 100.0 %
+Total number of iterations: 84
+Average number of iterations: 12
+Total time: 0.088 s
+Average time: 0.0 s
+
+Test n° 8
+Number of successes: 8
+Success rate: 100.0 %
+Total number of iterations: 96
+Average number of iterations: 12
+Total time: 0.101 s
+Average time: 0.0 s
+
+Test n° 9
+Number of successes: 9
+Success rate: 100.0 %
+Total number of iterations: 108
+Average number of iterations: 12
+Total time: 0.114 s
+Average time: 0.0 s
+
+Test n° 10
+Number of successes: 10
+Success rate: 100.0 %
+Total number of iterations: 120
+Average number of iterations: 12
+Total time: 0.126 s
+Average time: 0.0 s
+
+Test n° 11
+Number of successes: 11
+Success rate: 100.0 %
+Total number of iterations: 132
+Average number of iterations: 12
+Total time: 0.139 s
+Average time: 0.0 s
+
+Test n° 12
+Number of successes: 12
+Success rate: 100.0 %
+Total number of iterations: 144
+Average number of iterations: 12
+Total time: 0.152 s
+Average time: 0.0 s
+
+Test n° 13
+Number of successes: 13
+Success rate: 100.0 %
+Total number of iterations: 156
+Average number of iterations: 12
+Total time: 0.164 s
+Average time: 0.0 s
+
+Test n° 14
+Number of successes: 14
+Success rate: 100.0 %
+Total number of iterations: 168
+Average number of iterations: 12
+Total time: 0.177 s
+Average time: 0.0 s
+
+Test n° 15
+Number of successes: 15
+Success rate: 100.0 %
+Total number of iterations: 180
+Average number of iterations: 12
+Total time: 0.189 s
+Average time: 0.0 s
+
+Test n° 16
+Number of successes: 16
+Success rate: 100.0 %
+Total number of iterations: 192
+Average number of iterations: 12
+Total time: 0.202 s
+Average time: 0.0 s
+
+Test n° 17
+Number of successes: 17
+Success rate: 100.0 %
+Total number of iterations: 204
+Average number of iterations: 12
+Total time: 0.214 s
+Average time: 0.0 s
+
+Test n° 18
+Number of successes: 18
+Success rate: 100.0 %
+Total number of iterations: 216
+Average number of iterations: 12
+Total time: 0.226 s
+Average time: 0.0 s
+
+Test n° 19
+Number of successes: 19
+Success rate: 100.0 %
+Total number of iterations: 228
+Average number of iterations: 12
+Total time: 0.239 s
+Average time: 0.0 s
+
+Test n° 20
+Number of successes: 20
+Success rate: 100.0 %
+Total number of iterations: 240
+Average number of iterations: 12
+Total time: 0.252 s
+Average time: 0.0 s
+
+Test n° 21
+Number of successes: 21
+Success rate: 100.0 %
+Total number of iterations: 252
+Average number of iterations: 12
+Total time: 0.264 s
+Average time: 0.0 s
+
+Test n° 22
+Number of successes: 22
+Success rate: 100.0 %
+Total number of iterations: 264
+Average number of iterations: 12
+Total time: 0.277 s
+Average time: 0.0 s
+
+Test n° 23
+Number of successes: 23
+Success rate: 100.0 %
+Total number of iterations: 276
+Average number of iterations: 12
+Total time: 0.29 s
+Average time: 0.0 s
+
+Test n° 24
+Number of successes: 24
+Success rate: 100.0 %
+Total number of iterations: 288
+Average number of iterations: 12
+Total time: 0.302 s
+Average time: 0.0 s
+
+Test n° 25
+Number of successes: 25
+Success rate: 100.0 %
+Total number of iterations: 300
+Average number of iterations: 12
+Total time: 0.315 s
+Average time: 0.0 s
+
+Test n° 26
+Number of successes: 26
+Success rate: 100.0 %
+Total number of iterations: 312
+Average number of iterations: 12
+Total time: 0.327 s
+Average time: 0.0 s
+
+Test n° 27
+Number of successes: 27
+Success rate: 100.0 %
+Total number of iterations: 324
+Average number of iterations: 12
+Total time: 0.34 s
+Average time: 0.0 s
+
+Test n° 28
+Number of successes: 28
+Success rate: 100.0 %
+Total number of iterations: 336
+Average number of iterations: 12
+Total time: 0.353 s
+Average time: 0.0 s
+
+Test n° 29
+Number of successes: 29
+Success rate: 100.0 %
+Total number of iterations: 348
+Average number of iterations: 12
+Total time: 0.366 s
+Average time: 0.0 s
+
+Test n° 30
+Number of successes: 30
+Success rate: 100.0 %
+Total number of iterations: 360
+Average number of iterations: 12
+Total time: 0.378 s
+Average time: 0.0 s
+
+Test n° 31
+Number of successes: 31
+Success rate: 100.0 %
+Total number of iterations: 372
+Average number of iterations: 12
+Total time: 0.391 s
+Average time: 0.0 s
+
+Test n° 32
+Number of successes: 32
+Success rate: 100.0 %
+Total number of iterations: 384
+Average number of iterations: 12
+Total time: 0.404 s
+Average time: 0.0 s
+
+Test n° 33
+Number of successes: 33
+Success rate: 100.0 %
+Total number of iterations: 396
+Average number of iterations: 12
+Total time: 0.418 s
+Average time: 0.0 s
+
+Test n° 34
+Number of successes: 34
+Success rate: 100.0 %
+Total number of iterations: 408
+Average number of iterations: 12
+Total time: 0.43 s
+Average time: 0.0 s
+
+Test n° 35
+Number of successes: 35
+Success rate: 100.0 %
+Total number of iterations: 420
+Average number of iterations: 12
+Total time: 0.443 s
+Average time: 0.0 s
+
+Test n° 36
+Number of successes: 36
+Success rate: 100.0 %
+Total number of iterations: 432
+Average number of iterations: 12
+Total time: 0.456 s
+Average time: 0.0 s
+
+Test n° 37
+Number of successes: 37
+Success rate: 100.0 %
+Total number of iterations: 444
+Average number of iterations: 12
+Total time: 0.468 s
+Average time: 0.0 s
+
+Test n° 38
+Number of successes: 38
+Success rate: 100.0 %
+Total number of iterations: 456
+Average number of iterations: 12
+Total time: 0.481 s
+Average time: 0.0 s
+
+Test n° 39
+Number of successes: 39
+Success rate: 100.0 %
+Total number of iterations: 468
+Average number of iterations: 12
+Total time: 0.494 s
+Average time: 0.0 s
+
+Test n° 40
+Number of successes: 40
+Success rate: 100.0 %
+Total number of iterations: 480
+Average number of iterations: 12
+Total time: 0.507 s
+Average time: 0.001 s
+
+Test n° 41
+Number of successes: 41
+Success rate: 100.0 %
+Total number of iterations: 492
+Average number of iterations: 12
+Total time: 0.522 s
+Average time: 0.001 s
+
+Test n° 42
+Number of successes: 42
+Success rate: 100.0 %
+Total number of iterations: 504
+Average number of iterations: 12
+Total time: 0.535 s
+Average time: 0.001 s
+
+Test n° 43
+Number of successes: 43
+Success rate: 100.0 %
+Total number of iterations: 516
+Average number of iterations: 12
+Total time: 0.547 s
+Average time: 0.001 s
+
+Test n° 44
+Number of successes: 44
+Success rate: 100.0 %
+Total number of iterations: 528
+Average number of iterations: 12
+Total time: 0.56 s
+Average time: 0.001 s
+
+Test n° 45
+Number of successes: 45
+Success rate: 100.0 %
+Total number of iterations: 540
+Average number of iterations: 12
+Total time: 0.572 s
+Average time: 0.001 s
+
+Test n° 46
+Number of successes: 46
+Success rate: 100.0 %
+Total number of iterations: 552
+Average number of iterations: 12
+Total time: 0.584 s
+Average time: 0.001 s
+
+Test n° 47
+Number of successes: 47
+Success rate: 100.0 %
+Total number of iterations: 564
+Average number of iterations: 12
+Total time: 0.597 s
+Average time: 0.001 s
+
+Test n° 48
+Number of successes: 48
+Success rate: 100.0 %
+Total number of iterations: 576
+Average number of iterations: 12
+Total time: 0.609 s
+Average time: 0.001 s
+
+Test n° 49
+Number of successes: 49
+Success rate: 100.0 %
+Total number of iterations: 588
+Average number of iterations: 12
+Total time: 0.621 s
+Average time: 0.001 s
+
+Test n° 50
+Number of successes: 50
+Success rate: 100.0 %
+Total number of iterations: 600
+Average number of iterations: 12
+Total time: 0.634 s
+Average time: 0.001 s
+
+Test n° 51
+Number of successes: 51
+Success rate: 100.0 %
+Total number of iterations: 612
+Average number of iterations: 12
+Total time: 0.646 s
+Average time: 0.001 s
+
+Test n° 52
+Number of successes: 52
+Success rate: 100.0 %
+Total number of iterations: 624
+Average number of iterations: 12
+Total time: 0.659 s
+Average time: 0.001 s
+
+Test n° 53
+Number of successes: 53
+Success rate: 100.0 %
+Total number of iterations: 636
+Average number of iterations: 12
+Total time: 0.672 s
+Average time: 0.001 s
+
+Test n° 54
+Number of successes: 54
+Success rate: 100.0 %
+Total number of iterations: 648
+Average number of iterations: 12
+Total time: 0.685 s
+Average time: 0.001 s
+
+Test n° 55
+Number of successes: 55
+Success rate: 100.0 %
+Total number of iterations: 660
+Average number of iterations: 12
+Total time: 0.698 s
+Average time: 0.001 s
+
+Test n° 56
+Number of successes: 56
+Success rate: 100.0 %
+Total number of iterations: 672
+Average number of iterations: 12
+Total time: 0.711 s
+Average time: 0.001 s
+
+Test n° 57
+Number of successes: 57
+Success rate: 100.0 %
+Total number of iterations: 684
+Average number of iterations: 12
+Total time: 0.724 s
+Average time: 0.001 s
+
+Test n° 58
+Number of successes: 58
+Success rate: 100.0 %
+Total number of iterations: 696
+Average number of iterations: 12
+Total time: 0.737 s
+Average time: 0.001 s
+
+Test n° 59
+Number of successes: 59
+Success rate: 100.0 %
+Total number of iterations: 708
+Average number of iterations: 12
+Total time: 0.749 s
+Average time: 0.001 s
+
+Test n° 60
+Number of successes: 60
+Success rate: 100.0 %
+Total number of iterations: 720
+Average number of iterations: 12
+Total time: 0.762 s
+Average time: 0.001 s
+
+Test n° 61
+Number of successes: 61
+Success rate: 100.0 %
+Total number of iterations: 732
+Average number of iterations: 12
+Total time: 0.774 s
+Average time: 0.001 s
+
+Test n° 62
+Number of successes: 62
+Success rate: 100.0 %
+Total number of iterations: 744
+Average number of iterations: 12
+Total time: 0.787 s
+Average time: 0.001 s
+
+Test n° 63
+Number of successes: 63
+Success rate: 100.0 %
+Total number of iterations: 756
+Average number of iterations: 12
+Total time: 0.799 s
+Average time: 0.001 s
+
+Test n° 64
+Number of successes: 64
+Success rate: 100.0 %
+Total number of iterations: 768
+Average number of iterations: 12
+Total time: 0.812 s
+Average time: 0.001 s
+
+Test n° 65
+Number of successes: 65
+Success rate: 100.0 %
+Total number of iterations: 780
+Average number of iterations: 12
+Total time: 0.824 s
+Average time: 0.001 s
+
+Test n° 66
+Number of successes: 66
+Success rate: 100.0 %
+Total number of iterations: 792
+Average number of iterations: 12
+Total time: 0.836 s
+Average time: 0.001 s
+
+Test n° 67
+Number of successes: 67
+Success rate: 100.0 %
+Total number of iterations: 804
+Average number of iterations: 12
+Total time: 0.85 s
+Average time: 0.001 s
+
+Test n° 68
+Number of successes: 68
+Success rate: 100.0 %
+Total number of iterations: 816
+Average number of iterations: 12
+Total time: 0.863 s
+Average time: 0.001 s
+
+Test n° 69
+Number of successes: 69
+Success rate: 100.0 %
+Total number of iterations: 828
+Average number of iterations: 12
+Total time: 0.876 s
+Average time: 0.001 s
+
+Test n° 70
+Number of successes: 70
+Success rate: 100.0 %
+Total number of iterations: 840
+Average number of iterations: 12
+Total time: 0.889 s
+Average time: 0.001 s
+
+Test n° 71
+Number of successes: 71
+Success rate: 100.0 %
+Total number of iterations: 852
+Average number of iterations: 12
+Total time: 0.902 s
+Average time: 0.001 s
+
+Test n° 72
+Number of successes: 72
+Success rate: 100.0 %
+Total number of iterations: 864
+Average number of iterations: 12
+Total time: 0.915 s
+Average time: 0.001 s
+
+Test n° 73
+Number of successes: 73
+Success rate: 100.0 %
+Total number of iterations: 876
+Average number of iterations: 12
+Total time: 0.927 s
+Average time: 0.001 s
+
+Test n° 74
+Number of successes: 74
+Success rate: 100.0 %
+Total number of iterations: 888
+Average number of iterations: 12
+Total time: 0.939 s
+Average time: 0.001 s
+
+Test n° 75
+Number of successes: 75
+Success rate: 100.0 %
+Total number of iterations: 900
+Average number of iterations: 12
+Total time: 0.952 s
+Average time: 0.001 s
+
+Test n° 76
+Number of successes: 76
+Success rate: 100.0 %
+Total number of iterations: 912
+Average number of iterations: 12
+Total time: 0.964 s
+Average time: 0.001 s
+
+Test n° 77
+Number of successes: 77
+Success rate: 100.0 %
+Total number of iterations: 924
+Average number of iterations: 12
+Total time: 0.977 s
+Average time: 0.001 s
+
+Test n° 78
+Number of successes: 78
+Success rate: 100.0 %
+Total number of iterations: 936
+Average number of iterations: 12
+Total time: 0.989 s
+Average time: 0.001 s
+
+Test n° 79
+Number of successes: 79
+Success rate: 100.0 %
+Total number of iterations: 948
+Average number of iterations: 12
+Total time: 1.001 s
+Average time: 0.001 s
+
+Test n° 80
+Number of successes: 80
+Success rate: 100.0 %
+Total number of iterations: 960
+Average number of iterations: 12
+Total time: 1.014 s
+Average time: 0.001 s
+
+Test n° 81
+Number of successes: 81
+Success rate: 100.0 %
+Total number of iterations: 972
+Average number of iterations: 12
+Total time: 1.027 s
+Average time: 0.001 s
+
+Test n° 82
+Number of successes: 82
+Success rate: 100.0 %
+Total number of iterations: 984
+Average number of iterations: 12
+Total time: 1.039 s
+Average time: 0.001 s
+
+Test n° 83
+Number of successes: 83
+Success rate: 100.0 %
+Total number of iterations: 996
+Average number of iterations: 12
+Total time: 1.052 s
+Average time: 0.001 s
+
+Test n° 84
+Number of successes: 84
+Success rate: 100.0 %
+Total number of iterations: 1008
+Average number of iterations: 12
+Total time: 1.065 s
+Average time: 0.001 s
+
+Test n° 85
+Number of successes: 85
+Success rate: 100.0 %
+Total number of iterations: 1020
+Average number of iterations: 12
+Total time: 1.078 s
+Average time: 0.001 s
+
+Test n° 86
+Number of successes: 86
+Success rate: 100.0 %
+Total number of iterations: 1032
+Average number of iterations: 12
+Total time: 1.092 s
+Average time: 0.001 s
+
+Test n° 87
+Number of successes: 87
+Success rate: 100.0 %
+Total number of iterations: 1044
+Average number of iterations: 12
+Total time: 1.105 s
+Average time: 0.001 s
+
+Test n° 88
+Number of successes: 88
+Success rate: 100.0 %
+Total number of iterations: 1056
+Average number of iterations: 12
+Total time: 1.118 s
+Average time: 0.001 s
+
+Test n° 89
+Number of successes: 89
+Success rate: 100.0 %
+Total number of iterations: 1068
+Average number of iterations: 12
+Total time: 1.131 s
+Average time: 0.001 s
+
+Test n° 90
+Number of successes: 90
+Success rate: 100.0 %
+Total number of iterations: 1080
+Average number of iterations: 12
+Total time: 1.144 s
+Average time: 0.001 s
+
+Test n° 91
+Number of successes: 91
+Success rate: 100.0 %
+Total number of iterations: 1092
+Average number of iterations: 12
+Total time: 1.157 s
+Average time: 0.001 s
+
+Test n° 92
+Number of successes: 92
+Success rate: 100.0 %
+Total number of iterations: 1104
+Average number of iterations: 12
+Total time: 1.169 s
+Average time: 0.001 s
+
+Test n° 93
+Number of successes: 93
+Success rate: 100.0 %
+Total number of iterations: 1116
+Average number of iterations: 12
+Total time: 1.183 s
+Average time: 0.001 s
+
+Test n° 94
+Number of successes: 94
+Success rate: 100.0 %
+Total number of iterations: 1128
+Average number of iterations: 12
+Total time: 1.196 s
+Average time: 0.001 s
+
+Test n° 95
+Number of successes: 95
+Success rate: 100.0 %
+Total number of iterations: 1140
+Average number of iterations: 12
+Total time: 1.208 s
+Average time: 0.001 s
+
+Test n° 96
+Number of successes: 96
+Success rate: 100.0 %
+Total number of iterations: 1152
+Average number of iterations: 12
+Total time: 1.22 s
+Average time: 0.001 s
+
+Test n° 97
+Number of successes: 97
+Success rate: 100.0 %
+Total number of iterations: 1164
+Average number of iterations: 12
+Total time: 1.233 s
+Average time: 0.001 s
+
+Test n° 98
+Number of successes: 98
+Success rate: 100.0 %
+Total number of iterations: 1176
+Average number of iterations: 12
+Total time: 1.246 s
+Average time: 0.001 s
+
+Test n° 99
+Number of successes: 99
+Success rate: 100.0 %
+Total number of iterations: 1188
+Average number of iterations: 12
+Total time: 1.258 s
+Average time: 0.001 s
+
+Test n° 100
+Number of successes: 100
+Success rate: 100.0 %
+Total number of iterations: 1200
+Average number of iterations: 12
+Total time: 1.27 s
+Average time: 0.001 s
+
+Test n° 101
+Number of successes: 101
+Success rate: 100.0 %
+Total number of iterations: 1212
+Average number of iterations: 12
+Total time: 1.283 s
+Average time: 0.001 s
+
+Test n° 102
+Number of successes: 102
+Success rate: 100.0 %
+Total number of iterations: 1224
+Average number of iterations: 12
+Total time: 1.296 s
+Average time: 0.001 s
+
+Test n° 103
+Number of successes: 103
+Success rate: 100.0 %
+Total number of iterations: 1236
+Average number of iterations: 12
+Total time: 1.308 s
+Average time: 0.001 s
+
+Test n° 104
+Number of successes: 104
+Success rate: 100.0 %
+Total number of iterations: 1248
+Average number of iterations: 12
+Total time: 1.321 s
+Average time: 0.001 s
+
+Test n° 105
+Number of successes: 105
+Success rate: 100.0 %
+Total number of iterations: 1260
+Average number of iterations: 12
+Total time: 1.333 s
+Average time: 0.001 s
+
+Test n° 106
+Number of successes: 106
+Success rate: 100.0 %
+Total number of iterations: 1272
+Average number of iterations: 12
+Total time: 1.345 s
+Average time: 0.001 s
+
+Test n° 107
+Number of successes: 107
+Success rate: 100.0 %
+Total number of iterations: 1284
+Average number of iterations: 12
+Total time: 1.358 s
+Average time: 0.001 s
+
+Test n° 108
+Number of successes: 108
+Success rate: 100.0 %
+Total number of iterations: 1296
+Average number of iterations: 12
+Total time: 1.37 s
+Average time: 0.001 s
+
+Test n° 109
+Number of successes: 109
+Success rate: 100.0 %
+Total number of iterations: 1308
+Average number of iterations: 12
+Total time: 1.382 s
+Average time: 0.001 s
+
+Test n° 110
+Number of successes: 110
+Success rate: 100.0 %
+Total number of iterations: 1320
+Average number of iterations: 12
+Total time: 1.395 s
+Average time: 0.001 s
+
+Test n° 111
+Number of successes: 111
+Success rate: 100.0 %
+Total number of iterations: 1332
+Average number of iterations: 12
+Total time: 1.408 s
+Average time: 0.001 s
+
+Test n° 112
+Number of successes: 112
+Success rate: 100.0 %
+Total number of iterations: 1344
+Average number of iterations: 12
+Total time: 1.42 s
+Average time: 0.001 s
+
+Test n° 113
+Number of successes: 113
+Success rate: 100.0 %
+Total number of iterations: 1356
+Average number of iterations: 12
+Total time: 1.433 s
+Average time: 0.001 s
+
+Test n° 114
+Number of successes: 114
+Success rate: 100.0 %
+Total number of iterations: 1368
+Average number of iterations: 12
+Total time: 1.446 s
+Average time: 0.001 s
+
+Test n° 115
+Number of successes: 115
+Success rate: 100.0 %
+Total number of iterations: 1380
+Average number of iterations: 12
+Total time: 1.459 s
+Average time: 0.001 s
+
+Test n° 116
+Number of successes: 116
+Success rate: 100.0 %
+Total number of iterations: 1392
+Average number of iterations: 12
+Total time: 1.471 s
+Average time: 0.001 s
+
+Test n° 117
+Number of successes: 117
+Success rate: 100.0 %
+Total number of iterations: 1404
+Average number of iterations: 12
+Total time: 1.484 s
+Average time: 0.001 s
+
+Test n° 118
+Number of successes: 118
+Success rate: 100.0 %
+Total number of iterations: 1416
+Average number of iterations: 12
+Total time: 1.497 s
+Average time: 0.001 s
+
+Test n° 119
+Number of successes: 119
+Success rate: 100.0 %
+Total number of iterations: 1428
+Average number of iterations: 12
+Total time: 1.51 s
+Average time: 0.002 s
+
+Test n° 120
+Number of successes: 120
+Success rate: 100.0 %
+Total number of iterations: 1440
+Average number of iterations: 12
+Total time: 1.522 s
+Average time: 0.002 s
+
+Test n° 121
+Number of successes: 121
+Success rate: 100.0 %
+Total number of iterations: 1452
+Average number of iterations: 12
+Total time: 1.536 s
+Average time: 0.002 s
+
+Test n° 122
+Number of successes: 122
+Success rate: 100.0 %
+Total number of iterations: 1464
+Average number of iterations: 12
+Total time: 1.549 s
+Average time: 0.002 s
+
+Test n° 123
+Number of successes: 123
+Success rate: 100.0 %
+Total number of iterations: 1476
+Average number of iterations: 12
+Total time: 1.562 s
+Average time: 0.002 s
+
+Test n° 124
+Number of successes: 124
+Success rate: 100.0 %
+Total number of iterations: 1488
+Average number of iterations: 12
+Total time: 1.574 s
+Average time: 0.002 s
+
+Test n° 125
+Number of successes: 125
+Success rate: 100.0 %
+Total number of iterations: 1500
+Average number of iterations: 12
+Total time: 1.587 s
+Average time: 0.002 s
+
+Test n° 126
+Number of successes: 126
+Success rate: 100.0 %
+Total number of iterations: 1512
+Average number of iterations: 12
+Total time: 1.599 s
+Average time: 0.002 s
+
+Test n° 127
+Number of successes: 127
+Success rate: 100.0 %
+Total number of iterations: 1524
+Average number of iterations: 12
+Total time: 1.613 s
+Average time: 0.002 s
+
+Test n° 128
+Number of successes: 128
+Success rate: 100.0 %
+Total number of iterations: 1536
+Average number of iterations: 12
+Total time: 1.626 s
+Average time: 0.002 s
+
+Test n° 129
+Number of successes: 129
+Success rate: 100.0 %
+Total number of iterations: 1548
+Average number of iterations: 12
+Total time: 1.638 s
+Average time: 0.002 s
+
+Test n° 130
+Number of successes: 130
+Success rate: 100.0 %
+Total number of iterations: 1560
+Average number of iterations: 12
+Total time: 1.651 s
+Average time: 0.002 s
+
+Test n° 131
+Number of successes: 131
+Success rate: 100.0 %
+Total number of iterations: 1572
+Average number of iterations: 12
+Total time: 1.665 s
+Average time: 0.002 s
+
+Test n° 132
+Number of successes: 132
+Success rate: 100.0 %
+Total number of iterations: 1584
+Average number of iterations: 12
+Total time: 1.677 s
+Average time: 0.002 s
+
+Test n° 133
+Number of successes: 133
+Success rate: 100.0 %
+Total number of iterations: 1596
+Average number of iterations: 12
+Total time: 1.69 s
+Average time: 0.002 s
+
+Test n° 134
+Number of successes: 134
+Success rate: 100.0 %
+Total number of iterations: 1608
+Average number of iterations: 12
+Total time: 1.703 s
+Average time: 0.002 s
+
+Test n° 135
+Number of successes: 135
+Success rate: 100.0 %
+Total number of iterations: 1620
+Average number of iterations: 12
+Total time: 1.715 s
+Average time: 0.002 s
+
+Test n° 136
+Number of successes: 136
+Success rate: 100.0 %
+Total number of iterations: 1632
+Average number of iterations: 12
+Total time: 1.727 s
+Average time: 0.002 s
+
+Test n° 137
+Number of successes: 137
+Success rate: 100.0 %
+Total number of iterations: 1644
+Average number of iterations: 12
+Total time: 1.74 s
+Average time: 0.002 s
+
+Test n° 138
+Number of successes: 138
+Success rate: 100.0 %
+Total number of iterations: 1656
+Average number of iterations: 12
+Total time: 1.752 s
+Average time: 0.002 s
+
+Test n° 139
+Number of successes: 139
+Success rate: 100.0 %
+Total number of iterations: 1668
+Average number of iterations: 12
+Total time: 1.765 s
+Average time: 0.002 s
+
+Test n° 140
+Number of successes: 140
+Success rate: 100.0 %
+Total number of iterations: 1680
+Average number of iterations: 12
+Total time: 1.777 s
+Average time: 0.002 s
+
+Test n° 141
+Number of successes: 141
+Success rate: 100.0 %
+Total number of iterations: 1692
+Average number of iterations: 12
+Total time: 1.79 s
+Average time: 0.002 s
+
+Test n° 142
+Number of successes: 142
+Success rate: 100.0 %
+Total number of iterations: 1704
+Average number of iterations: 12
+Total time: 1.803 s
+Average time: 0.002 s
+
+Test n° 143
+Number of successes: 143
+Success rate: 100.0 %
+Total number of iterations: 1716
+Average number of iterations: 12
+Total time: 1.815 s
+Average time: 0.002 s
+
+Test n° 144
+Number of successes: 144
+Success rate: 100.0 %
+Total number of iterations: 1728
+Average number of iterations: 12
+Total time: 1.827 s
+Average time: 0.002 s
+
+Test n° 145
+Number of successes: 145
+Success rate: 100.0 %
+Total number of iterations: 1740
+Average number of iterations: 12
+Total time: 1.84 s
+Average time: 0.002 s
+
+Test n° 146
+Number of successes: 146
+Success rate: 100.0 %
+Total number of iterations: 1752
+Average number of iterations: 12
+Total time: 1.853 s
+Average time: 0.002 s
+
+Test n° 147
+Number of successes: 147
+Success rate: 100.0 %
+Total number of iterations: 1764
+Average number of iterations: 12
+Total time: 1.865 s
+Average time: 0.002 s
+
+Test n° 148
+Number of successes: 148
+Success rate: 100.0 %
+Total number of iterations: 1776
+Average number of iterations: 12
+Total time: 1.878 s
+Average time: 0.002 s
+
+Test n° 149
+Number of successes: 149
+Success rate: 100.0 %
+Total number of iterations: 1788
+Average number of iterations: 12
+Total time: 1.89 s
+Average time: 0.002 s
+
+Test n° 150
+Number of successes: 150
+Success rate: 100.0 %
+Total number of iterations: 1800
+Average number of iterations: 12
+Total time: 1.903 s
+Average time: 0.002 s
+
+Test n° 151
+Number of successes: 151
+Success rate: 100.0 %
+Total number of iterations: 1812
+Average number of iterations: 12
+Total time: 1.916 s
+Average time: 0.002 s
+
+Test n° 152
+Number of successes: 152
+Success rate: 100.0 %
+Total number of iterations: 1824
+Average number of iterations: 12
+Total time: 1.929 s
+Average time: 0.002 s
+
+Test n° 153
+Number of successes: 153
+Success rate: 100.0 %
+Total number of iterations: 1836
+Average number of iterations: 12
+Total time: 1.942 s
+Average time: 0.002 s
+
+Test n° 154
+Number of successes: 154
+Success rate: 100.0 %
+Total number of iterations: 1848
+Average number of iterations: 12
+Total time: 1.956 s
+Average time: 0.002 s
+
+Test n° 155
+Number of successes: 155
+Success rate: 100.0 %
+Total number of iterations: 1860
+Average number of iterations: 12
+Total time: 1.968 s
+Average time: 0.002 s
+
+Test n° 156
+Number of successes: 156
+Success rate: 100.0 %
+Total number of iterations: 1872
+Average number of iterations: 12
+Total time: 1.982 s
+Average time: 0.002 s
+
+Test n° 157
+Number of successes: 157
+Success rate: 100.0 %
+Total number of iterations: 1884
+Average number of iterations: 12
+Total time: 1.994 s
+Average time: 0.002 s
+
+Test n° 158
+Number of successes: 158
+Success rate: 100.0 %
+Total number of iterations: 1896
+Average number of iterations: 12
+Total time: 2.007 s
+Average time: 0.002 s
+
+Test n° 159
+Number of successes: 159
+Success rate: 100.0 %
+Total number of iterations: 1908
+Average number of iterations: 12
+Total time: 2.019 s
+Average time: 0.002 s
+
+Test n° 160
+Number of successes: 160
+Success rate: 100.0 %
+Total number of iterations: 1920
+Average number of iterations: 12
+Total time: 2.031 s
+Average time: 0.002 s
+
+Test n° 161
+Number of successes: 161
+Success rate: 100.0 %
+Total number of iterations: 1932
+Average number of iterations: 12
+Total time: 2.044 s
+Average time: 0.002 s
+
+Test n° 162
+Number of successes: 162
+Success rate: 100.0 %
+Total number of iterations: 1944
+Average number of iterations: 12
+Total time: 2.057 s
+Average time: 0.002 s
+
+Test n° 163
+Number of successes: 163
+Success rate: 100.0 %
+Total number of iterations: 1956
+Average number of iterations: 12
+Total time: 2.069 s
+Average time: 0.002 s
+
+Test n° 164
+Number of successes: 164
+Success rate: 100.0 %
+Total number of iterations: 1968
+Average number of iterations: 12
+Total time: 2.082 s
+Average time: 0.002 s
+
+Test n° 165
+Number of successes: 165
+Success rate: 100.0 %
+Total number of iterations: 1980
+Average number of iterations: 12
+Total time: 2.094 s
+Average time: 0.002 s
+
+Test n° 166
+Number of successes: 166
+Success rate: 100.0 %
+Total number of iterations: 1992
+Average number of iterations: 12
+Total time: 2.107 s
+Average time: 0.002 s
+
+Test n° 167
+Number of successes: 167
+Success rate: 100.0 %
+Total number of iterations: 2004
+Average number of iterations: 12
+Total time: 2.12 s
+Average time: 0.002 s
+
+Test n° 168
+Number of successes: 168
+Success rate: 100.0 %
+Total number of iterations: 2016
+Average number of iterations: 12
+Total time: 2.133 s
+Average time: 0.002 s
+
+Test n° 169
+Number of successes: 169
+Success rate: 100.0 %
+Total number of iterations: 2028
+Average number of iterations: 12
+Total time: 2.146 s
+Average time: 0.002 s
+
+Test n° 170
+Number of successes: 170
+Success rate: 100.0 %
+Total number of iterations: 2040
+Average number of iterations: 12
+Total time: 2.16 s
+Average time: 0.002 s
+
+Test n° 171
+Number of successes: 171
+Success rate: 100.0 %
+Total number of iterations: 2052
+Average number of iterations: 12
+Total time: 2.173 s
+Average time: 0.002 s
+
+Test n° 172
+Number of successes: 172
+Success rate: 100.0 %
+Total number of iterations: 2064
+Average number of iterations: 12
+Total time: 2.185 s
+Average time: 0.002 s
+
+Test n° 173
+Number of successes: 173
+Success rate: 100.0 %
+Total number of iterations: 2076
+Average number of iterations: 12
+Total time: 2.197 s
+Average time: 0.002 s
+
+Test n° 174
+Number of successes: 174
+Success rate: 100.0 %
+Total number of iterations: 2088
+Average number of iterations: 12
+Total time: 2.21 s
+Average time: 0.002 s
+
+Test n° 175
+Number of successes: 175
+Success rate: 100.0 %
+Total number of iterations: 2100
+Average number of iterations: 12
+Total time: 2.222 s
+Average time: 0.002 s
+
+Test n° 176
+Number of successes: 176
+Success rate: 100.0 %
+Total number of iterations: 2112
+Average number of iterations: 12
+Total time: 2.235 s
+Average time: 0.002 s
+
+Test n° 177
+Number of successes: 177
+Success rate: 100.0 %
+Total number of iterations: 2124
+Average number of iterations: 12
+Total time: 2.247 s
+Average time: 0.002 s
+
+Test n° 178
+Number of successes: 178
+Success rate: 100.0 %
+Total number of iterations: 2136
+Average number of iterations: 12
+Total time: 2.26 s
+Average time: 0.002 s
+
+Test n° 179
+Number of successes: 179
+Success rate: 100.0 %
+Total number of iterations: 2148
+Average number of iterations: 12
+Total time: 2.272 s
+Average time: 0.002 s
+
+Test n° 180
+Number of successes: 180
+Success rate: 100.0 %
+Total number of iterations: 2160
+Average number of iterations: 12
+Total time: 2.285 s
+Average time: 0.002 s
+
+Test n° 181
+Number of successes: 181
+Success rate: 100.0 %
+Total number of iterations: 2172
+Average number of iterations: 12
+Total time: 2.298 s
+Average time: 0.002 s
+
+Test n° 182
+Number of successes: 182
+Success rate: 100.0 %
+Total number of iterations: 2184
+Average number of iterations: 12
+Total time: 2.311 s
+Average time: 0.002 s
+
+Test n° 183
+Number of successes: 183
+Success rate: 100.0 %
+Total number of iterations: 2196
+Average number of iterations: 12
+Total time: 2.324 s
+Average time: 0.002 s
+
+Test n° 184
+Number of successes: 184
+Success rate: 100.0 %
+Total number of iterations: 2208
+Average number of iterations: 12
+Total time: 2.336 s
+Average time: 0.002 s
+
+Test n° 185
+Number of successes: 185
+Success rate: 100.0 %
+Total number of iterations: 2220
+Average number of iterations: 12
+Total time: 2.348 s
+Average time: 0.002 s
+
+Test n° 186
+Number of successes: 186
+Success rate: 100.0 %
+Total number of iterations: 2232
+Average number of iterations: 12
+Total time: 2.361 s
+Average time: 0.002 s
+
+Test n° 187
+Number of successes: 187
+Success rate: 100.0 %
+Total number of iterations: 2244
+Average number of iterations: 12
+Total time: 2.374 s
+Average time: 0.002 s
+
+Test n° 188
+Number of successes: 188
+Success rate: 100.0 %
+Total number of iterations: 2256
+Average number of iterations: 12
+Total time: 2.387 s
+Average time: 0.002 s
+
+Test n° 189
+Number of successes: 189
+Success rate: 100.0 %
+Total number of iterations: 2268
+Average number of iterations: 12
+Total time: 2.4 s
+Average time: 0.002 s
+
+Test n° 190
+Number of successes: 190
+Success rate: 100.0 %
+Total number of iterations: 2280
+Average number of iterations: 12
+Total time: 2.413 s
+Average time: 0.002 s
+
+Test n° 191
+Number of successes: 191
+Success rate: 100.0 %
+Total number of iterations: 2292
+Average number of iterations: 12
+Total time: 2.426 s
+Average time: 0.002 s
+
+Test n° 192
+Number of successes: 192
+Success rate: 100.0 %
+Total number of iterations: 2304
+Average number of iterations: 12
+Total time: 2.439 s
+Average time: 0.002 s
+
+Test n° 193
+Number of successes: 193
+Success rate: 100.0 %
+Total number of iterations: 2316
+Average number of iterations: 12
+Total time: 2.451 s
+Average time: 0.002 s
+
+Test n° 194
+Number of successes: 194
+Success rate: 100.0 %
+Total number of iterations: 2328
+Average number of iterations: 12
+Total time: 2.465 s
+Average time: 0.002 s
+
+Test n° 195
+Number of successes: 195
+Success rate: 100.0 %
+Total number of iterations: 2340
+Average number of iterations: 12
+Total time: 2.477 s
+Average time: 0.002 s
+
+Test n° 196
+Number of successes: 196
+Success rate: 100.0 %
+Total number of iterations: 2352
+Average number of iterations: 12
+Total time: 2.49 s
+Average time: 0.002 s
+
+Test n° 197
+Number of successes: 197
+Success rate: 100.0 %
+Total number of iterations: 2364
+Average number of iterations: 12
+Total time: 2.502 s
+Average time: 0.003 s
+
+Test n° 198
+Number of successes: 198
+Success rate: 100.0 %
+Total number of iterations: 2376
+Average number of iterations: 12
+Total time: 2.514 s
+Average time: 0.003 s
+
+Test n° 199
+Number of successes: 199
+Success rate: 100.0 %
+Total number of iterations: 2388
+Average number of iterations: 12
+Total time: 2.528 s
+Average time: 0.003 s
+
+Test n° 200
+Number of successes: 200
+Success rate: 100.0 %
+Total number of iterations: 2400
+Average number of iterations: 12
+Total time: 2.54 s
+Average time: 0.003 s
+
+Test n° 201
+Number of successes: 201
+Success rate: 100.0 %
+Total number of iterations: 2412
+Average number of iterations: 12
+Total time: 2.553 s
+Average time: 0.003 s
+
+Test n° 202
+Number of successes: 202
+Success rate: 100.0 %
+Total number of iterations: 2424
+Average number of iterations: 12
+Total time: 2.566 s
+Average time: 0.003 s
+
+Test n° 203
+Number of successes: 203
+Success rate: 100.0 %
+Total number of iterations: 2436
+Average number of iterations: 12
+Total time: 2.578 s
+Average time: 0.003 s
+
+Test n° 204
+Number of successes: 204
+Success rate: 100.0 %
+Total number of iterations: 2448
+Average number of iterations: 12
+Total time: 2.591 s
+Average time: 0.003 s
+
+Test n° 205
+Number of successes: 205
+Success rate: 100.0 %
+Total number of iterations: 2460
+Average number of iterations: 12
+Total time: 2.603 s
+Average time: 0.003 s
+
+Test n° 206
+Number of successes: 206
+Success rate: 100.0 %
+Total number of iterations: 2472
+Average number of iterations: 12
+Total time: 2.615 s
+Average time: 0.003 s
+
+Test n° 207
+Number of successes: 207
+Success rate: 100.0 %
+Total number of iterations: 2484
+Average number of iterations: 12
+Total time: 2.628 s
+Average time: 0.003 s
+
+Test n° 208
+Number of successes: 208
+Success rate: 100.0 %
+Total number of iterations: 2496
+Average number of iterations: 12
+Total time: 2.641 s
+Average time: 0.003 s
+
+Test n° 209
+Number of successes: 209
+Success rate: 100.0 %
+Total number of iterations: 2508
+Average number of iterations: 12
+Total time: 2.654 s
+Average time: 0.003 s
+
+Test n° 210
+Number of successes: 210
+Success rate: 100.0 %
+Total number of iterations: 2520
+Average number of iterations: 12
+Total time: 2.666 s
+Average time: 0.003 s
+
+Test n° 211
+Number of successes: 211
+Success rate: 100.0 %
+Total number of iterations: 2532
+Average number of iterations: 12
+Total time: 2.679 s
+Average time: 0.003 s
+
+Test n° 212
+Number of successes: 212
+Success rate: 100.0 %
+Total number of iterations: 2544
+Average number of iterations: 12
+Total time: 2.691 s
+Average time: 0.003 s
+
+Test n° 213
+Number of successes: 213
+Success rate: 100.0 %
+Total number of iterations: 2556
+Average number of iterations: 12
+Total time: 2.703 s
+Average time: 0.003 s
+
+Test n° 214
+Number of successes: 214
+Success rate: 100.0 %
+Total number of iterations: 2568
+Average number of iterations: 12
+Total time: 2.715 s
+Average time: 0.003 s
+
+Test n° 215
+Number of successes: 215
+Success rate: 100.0 %
+Total number of iterations: 2580
+Average number of iterations: 12
+Total time: 2.727 s
+Average time: 0.003 s
+
+Test n° 216
+Number of successes: 216
+Success rate: 100.0 %
+Total number of iterations: 2592
+Average number of iterations: 12
+Total time: 2.74 s
+Average time: 0.003 s
+
+Test n° 217
+Number of successes: 217
+Success rate: 100.0 %
+Total number of iterations: 2604
+Average number of iterations: 12
+Total time: 2.752 s
+Average time: 0.003 s
+
+Test n° 218
+Number of successes: 218
+Success rate: 100.0 %
+Total number of iterations: 2616
+Average number of iterations: 12
+Total time: 2.764 s
+Average time: 0.003 s
+
+Test n° 219
+Number of successes: 219
+Success rate: 100.0 %
+Total number of iterations: 2628
+Average number of iterations: 12
+Total time: 2.777 s
+Average time: 0.003 s
+
+Test n° 220
+Number of successes: 220
+Success rate: 100.0 %
+Total number of iterations: 2640
+Average number of iterations: 12
+Total time: 2.79 s
+Average time: 0.003 s
+
+Test n° 221
+Number of successes: 221
+Success rate: 100.0 %
+Total number of iterations: 2652
+Average number of iterations: 12
+Total time: 2.802 s
+Average time: 0.003 s
+
+Test n° 222
+Number of successes: 222
+Success rate: 100.0 %
+Total number of iterations: 2664
+Average number of iterations: 12
+Total time: 2.814 s
+Average time: 0.003 s
+
+Test n° 223
+Number of successes: 223
+Success rate: 100.0 %
+Total number of iterations: 2676
+Average number of iterations: 12
+Total time: 2.827 s
+Average time: 0.003 s
+
+Test n° 224
+Number of successes: 224
+Success rate: 100.0 %
+Total number of iterations: 2688
+Average number of iterations: 12
+Total time: 2.839 s
+Average time: 0.003 s
+
+Test n° 225
+Number of successes: 225
+Success rate: 100.0 %
+Total number of iterations: 2700
+Average number of iterations: 12
+Total time: 2.851 s
+Average time: 0.003 s
+
+Test n° 226
+Number of successes: 226
+Success rate: 100.0 %
+Total number of iterations: 2712
+Average number of iterations: 12
+Total time: 2.864 s
+Average time: 0.003 s
+
+Test n° 227
+Number of successes: 227
+Success rate: 100.0 %
+Total number of iterations: 2724
+Average number of iterations: 12
+Total time: 2.876 s
+Average time: 0.003 s
+
+Test n° 228
+Number of successes: 228
+Success rate: 100.0 %
+Total number of iterations: 2736
+Average number of iterations: 12
+Total time: 2.888 s
+Average time: 0.003 s
+
+Test n° 229
+Number of successes: 229
+Success rate: 100.0 %
+Total number of iterations: 2748
+Average number of iterations: 12
+Total time: 2.901 s
+Average time: 0.003 s
+
+Test n° 230
+Number of successes: 230
+Success rate: 100.0 %
+Total number of iterations: 2760
+Average number of iterations: 12
+Total time: 2.913 s
+Average time: 0.003 s
+
+Test n° 231
+Number of successes: 231
+Success rate: 100.0 %
+Total number of iterations: 2772
+Average number of iterations: 12
+Total time: 2.925 s
+Average time: 0.003 s
+
+Test n° 232
+Number of successes: 232
+Success rate: 100.0 %
+Total number of iterations: 2784
+Average number of iterations: 12
+Total time: 2.937 s
+Average time: 0.003 s
+
+Test n° 233
+Number of successes: 233
+Success rate: 100.0 %
+Total number of iterations: 2796
+Average number of iterations: 12
+Total time: 2.95 s
+Average time: 0.003 s
+
+Test n° 234
+Number of successes: 234
+Success rate: 100.0 %
+Total number of iterations: 2808
+Average number of iterations: 12
+Total time: 2.962 s
+Average time: 0.003 s
+
+Test n° 235
+Number of successes: 235
+Success rate: 100.0 %
+Total number of iterations: 2820
+Average number of iterations: 12
+Total time: 2.974 s
+Average time: 0.003 s
+
+Test n° 236
+Number of successes: 236
+Success rate: 100.0 %
+Total number of iterations: 2832
+Average number of iterations: 12
+Total time: 2.987 s
+Average time: 0.003 s
+
+Test n° 237
+Number of successes: 237
+Success rate: 100.0 %
+Total number of iterations: 2844
+Average number of iterations: 12
+Total time: 2.999 s
+Average time: 0.003 s
+
+Test n° 238
+Number of successes: 238
+Success rate: 100.0 %
+Total number of iterations: 2856
+Average number of iterations: 12
+Total time: 3.012 s
+Average time: 0.003 s
+
+Test n° 239
+Number of successes: 239
+Success rate: 100.0 %
+Total number of iterations: 2868
+Average number of iterations: 12
+Total time: 3.025 s
+Average time: 0.003 s
+
+Test n° 240
+Number of successes: 240
+Success rate: 100.0 %
+Total number of iterations: 2880
+Average number of iterations: 12
+Total time: 3.038 s
+Average time: 0.003 s
+
+Test n° 241
+Number of successes: 241
+Success rate: 100.0 %
+Total number of iterations: 2892
+Average number of iterations: 12
+Total time: 3.05 s
+Average time: 0.003 s
+
+Test n° 242
+Number of successes: 242
+Success rate: 100.0 %
+Total number of iterations: 2904
+Average number of iterations: 12
+Total time: 3.063 s
+Average time: 0.003 s
+
+Test n° 243
+Number of successes: 243
+Success rate: 100.0 %
+Total number of iterations: 2916
+Average number of iterations: 12
+Total time: 3.076 s
+Average time: 0.003 s
+
+Test n° 244
+Number of successes: 244
+Success rate: 100.0 %
+Total number of iterations: 2928
+Average number of iterations: 12
+Total time: 3.088 s
+Average time: 0.003 s
+
+Test n° 245
+Number of successes: 245
+Success rate: 100.0 %
+Total number of iterations: 2940
+Average number of iterations: 12
+Total time: 3.101 s
+Average time: 0.003 s
+
+Test n° 246
+Number of successes: 246
+Success rate: 100.0 %
+Total number of iterations: 2952
+Average number of iterations: 12
+Total time: 3.114 s
+Average time: 0.003 s
+
+Test n° 247
+Number of successes: 247
+Success rate: 100.0 %
+Total number of iterations: 2964
+Average number of iterations: 12
+Total time: 3.127 s
+Average time: 0.003 s
+
+Test n° 248
+Number of successes: 248
+Success rate: 100.0 %
+Total number of iterations: 2976
+Average number of iterations: 12
+Total time: 3.14 s
+Average time: 0.003 s
+
+Test n° 249
+Number of successes: 249
+Success rate: 100.0 %
+Total number of iterations: 2988
+Average number of iterations: 12
+Total time: 3.153 s
+Average time: 0.003 s
+
+Test n° 250
+Number of successes: 250
+Success rate: 100.0 %
+Total number of iterations: 3000
+Average number of iterations: 12
+Total time: 3.165 s
+Average time: 0.003 s
+
+Test n° 251
+Number of successes: 251
+Success rate: 100.0 %
+Total number of iterations: 3012
+Average number of iterations: 12
+Total time: 3.178 s
+Average time: 0.003 s
+
+Test n° 252
+Number of successes: 252
+Success rate: 100.0 %
+Total number of iterations: 3024
+Average number of iterations: 12
+Total time: 3.19 s
+Average time: 0.003 s
+
+Test n° 253
+Number of successes: 253
+Success rate: 100.0 %
+Total number of iterations: 3036
+Average number of iterations: 12
+Total time: 3.203 s
+Average time: 0.003 s
+
+Test n° 254
+Number of successes: 254
+Success rate: 100.0 %
+Total number of iterations: 3048
+Average number of iterations: 12
+Total time: 3.215 s
+Average time: 0.003 s
+
+Test n° 255
+Number of successes: 255
+Success rate: 100.0 %
+Total number of iterations: 3060
+Average number of iterations: 12
+Total time: 3.228 s
+Average time: 0.003 s
+
+Test n° 256
+Number of successes: 256
+Success rate: 100.0 %
+Total number of iterations: 3072
+Average number of iterations: 12
+Total time: 3.24 s
+Average time: 0.003 s
+
+Test n° 257
+Number of successes: 257
+Success rate: 100.0 %
+Total number of iterations: 3084
+Average number of iterations: 12
+Total time: 3.253 s
+Average time: 0.003 s
+
+Test n° 258
+Number of successes: 258
+Success rate: 100.0 %
+Total number of iterations: 3096
+Average number of iterations: 12
+Total time: 3.266 s
+Average time: 0.003 s
+
+Test n° 259
+Number of successes: 259
+Success rate: 100.0 %
+Total number of iterations: 3108
+Average number of iterations: 12
+Total time: 3.278 s
+Average time: 0.003 s
+
+Test n° 260
+Number of successes: 260
+Success rate: 100.0 %
+Total number of iterations: 3120
+Average number of iterations: 12
+Total time: 3.29 s
+Average time: 0.003 s
+
+Test n° 261
+Number of successes: 261
+Success rate: 100.0 %
+Total number of iterations: 3132
+Average number of iterations: 12
+Total time: 3.302 s
+Average time: 0.003 s
+
+Test n° 262
+Number of successes: 262
+Success rate: 100.0 %
+Total number of iterations: 3144
+Average number of iterations: 12
+Total time: 3.314 s
+Average time: 0.003 s
+
+Test n° 263
+Number of successes: 263
+Success rate: 100.0 %
+Total number of iterations: 3156
+Average number of iterations: 12
+Total time: 3.327 s
+Average time: 0.003 s
+
+Test n° 264
+Number of successes: 264
+Success rate: 100.0 %
+Total number of iterations: 3168
+Average number of iterations: 12
+Total time: 3.339 s
+Average time: 0.003 s
+
+Test n° 265
+Number of successes: 265
+Success rate: 100.0 %
+Total number of iterations: 3180
+Average number of iterations: 12
+Total time: 3.352 s
+Average time: 0.003 s
+
+Test n° 266
+Number of successes: 266
+Success rate: 100.0 %
+Total number of iterations: 3192
+Average number of iterations: 12
+Total time: 3.365 s
+Average time: 0.003 s
+
+Test n° 267
+Number of successes: 267
+Success rate: 100.0 %
+Total number of iterations: 3204
+Average number of iterations: 12
+Total time: 3.376 s
+Average time: 0.003 s
+
+Test n° 268
+Number of successes: 268
+Success rate: 100.0 %
+Total number of iterations: 3216
+Average number of iterations: 12
+Total time: 3.389 s
+Average time: 0.003 s
+
+Test n° 269
+Number of successes: 269
+Success rate: 100.0 %
+Total number of iterations: 3228
+Average number of iterations: 12
+Total time: 3.401 s
+Average time: 0.003 s
+
+Test n° 270
+Number of successes: 270
+Success rate: 100.0 %
+Total number of iterations: 3240
+Average number of iterations: 12
+Total time: 3.413 s
+Average time: 0.003 s
+
+Test n° 271
+Number of successes: 271
+Success rate: 100.0 %
+Total number of iterations: 3252
+Average number of iterations: 12
+Total time: 3.425 s
+Average time: 0.003 s
+
+Test n° 272
+Number of successes: 272
+Success rate: 100.0 %
+Total number of iterations: 3264
+Average number of iterations: 12
+Total time: 3.438 s
+Average time: 0.003 s
+
+Test n° 273
+Number of successes: 273
+Success rate: 100.0 %
+Total number of iterations: 3276
+Average number of iterations: 12
+Total time: 3.45 s
+Average time: 0.003 s
+
+Test n° 274
+Number of successes: 274
+Success rate: 100.0 %
+Total number of iterations: 3288
+Average number of iterations: 12
+Total time: 3.462 s
+Average time: 0.003 s
+
+Test n° 275
+Number of successes: 275
+Success rate: 100.0 %
+Total number of iterations: 3300
+Average number of iterations: 12
+Total time: 3.475 s
+Average time: 0.003 s
+
+Test n° 276
+Number of successes: 276
+Success rate: 100.0 %
+Total number of iterations: 3312
+Average number of iterations: 12
+Total time: 3.487 s
+Average time: 0.003 s
+
+Test n° 277
+Number of successes: 277
+Success rate: 100.0 %
+Total number of iterations: 3324
+Average number of iterations: 12
+Total time: 3.501 s
+Average time: 0.004 s
+
+Test n° 278
+Number of successes: 278
+Success rate: 100.0 %
+Total number of iterations: 3336
+Average number of iterations: 12
+Total time: 3.514 s
+Average time: 0.004 s
+
+Test n° 279
+Number of successes: 279
+Success rate: 100.0 %
+Total number of iterations: 3348
+Average number of iterations: 12
+Total time: 3.526 s
+Average time: 0.004 s
+
+Test n° 280
+Number of successes: 280
+Success rate: 100.0 %
+Total number of iterations: 3360
+Average number of iterations: 12
+Total time: 3.539 s
+Average time: 0.004 s
+
+Test n° 281
+Number of successes: 281
+Success rate: 100.0 %
+Total number of iterations: 3372
+Average number of iterations: 12
+Total time: 3.552 s
+Average time: 0.004 s
+
+Test n° 282
+Number of successes: 282
+Success rate: 100.0 %
+Total number of iterations: 3384
+Average number of iterations: 12
+Total time: 3.565 s
+Average time: 0.004 s
+
+Test n° 283
+Number of successes: 283
+Success rate: 100.0 %
+Total number of iterations: 3396
+Average number of iterations: 12
+Total time: 3.579 s
+Average time: 0.004 s
+
+Test n° 284
+Number of successes: 284
+Success rate: 100.0 %
+Total number of iterations: 3408
+Average number of iterations: 12
+Total time: 3.592 s
+Average time: 0.004 s
+
+Test n° 285
+Number of successes: 285
+Success rate: 100.0 %
+Total number of iterations: 3420
+Average number of iterations: 12
+Total time: 3.605 s
+Average time: 0.004 s
+
+Test n° 286
+Number of successes: 286
+Success rate: 100.0 %
+Total number of iterations: 3432
+Average number of iterations: 12
+Total time: 3.618 s
+Average time: 0.004 s
+
+Test n° 287
+Number of successes: 287
+Success rate: 100.0 %
+Total number of iterations: 3444
+Average number of iterations: 12
+Total time: 3.631 s
+Average time: 0.004 s
+
+Test n° 288
+Number of successes: 288
+Success rate: 100.0 %
+Total number of iterations: 3456
+Average number of iterations: 12
+Total time: 3.644 s
+Average time: 0.004 s
+
+Test n° 289
+Number of successes: 289
+Success rate: 100.0 %
+Total number of iterations: 3468
+Average number of iterations: 12
+Total time: 3.657 s
+Average time: 0.004 s
+
+Test n° 290
+Number of successes: 290
+Success rate: 100.0 %
+Total number of iterations: 3480
+Average number of iterations: 12
+Total time: 3.672 s
+Average time: 0.004 s
+
+Test n° 291
+Number of successes: 291
+Success rate: 100.0 %
+Total number of iterations: 3492
+Average number of iterations: 12
+Total time: 3.684 s
+Average time: 0.004 s
+
+Test n° 292
+Number of successes: 292
+Success rate: 100.0 %
+Total number of iterations: 3504
+Average number of iterations: 12
+Total time: 3.698 s
+Average time: 0.004 s
+
+Test n° 293
+Number of successes: 293
+Success rate: 100.0 %
+Total number of iterations: 3516
+Average number of iterations: 12
+Total time: 3.711 s
+Average time: 0.004 s
+
+Test n° 294
+Number of successes: 294
+Success rate: 100.0 %
+Total number of iterations: 3528
+Average number of iterations: 12
+Total time: 3.724 s
+Average time: 0.004 s
+
+Test n° 295
+Number of successes: 295
+Success rate: 100.0 %
+Total number of iterations: 3540
+Average number of iterations: 12
+Total time: 3.737 s
+Average time: 0.004 s
+
+Test n° 296
+Number of successes: 296
+Success rate: 100.0 %
+Total number of iterations: 3552
+Average number of iterations: 12
+Total time: 3.75 s
+Average time: 0.004 s
+
+Test n° 297
+Number of successes: 297
+Success rate: 100.0 %
+Total number of iterations: 3564
+Average number of iterations: 12
+Total time: 3.764 s
+Average time: 0.004 s
+
+Test n° 298
+Number of successes: 298
+Success rate: 100.0 %
+Total number of iterations: 3576
+Average number of iterations: 12
+Total time: 3.777 s
+Average time: 0.004 s
+
+Test n° 299
+Number of successes: 299
+Success rate: 100.0 %
+Total number of iterations: 3588
+Average number of iterations: 12
+Total time: 3.79 s
+Average time: 0.004 s
+
+Test n° 300
+Number of successes: 300
+Success rate: 100.0 %
+Total number of iterations: 3600
+Average number of iterations: 12
+Total time: 3.803 s
+Average time: 0.004 s
+
+Test n° 301
+Number of successes: 301
+Success rate: 100.0 %
+Total number of iterations: 3612
+Average number of iterations: 12
+Total time: 3.816 s
+Average time: 0.004 s
+
+Test n° 302
+Number of successes: 302
+Success rate: 100.0 %
+Total number of iterations: 3624
+Average number of iterations: 12
+Total time: 3.829 s
+Average time: 0.004 s
+
+Test n° 303
+Number of successes: 303
+Success rate: 100.0 %
+Total number of iterations: 3636
+Average number of iterations: 12
+Total time: 3.842 s
+Average time: 0.004 s
+
+Test n° 304
+Number of successes: 304
+Success rate: 100.0 %
+Total number of iterations: 3648
+Average number of iterations: 12
+Total time: 3.855 s
+Average time: 0.004 s
+
+Test n° 305
+Number of successes: 305
+Success rate: 100.0 %
+Total number of iterations: 3660
+Average number of iterations: 12
+Total time: 3.867 s
+Average time: 0.004 s
+
+Test n° 306
+Number of successes: 306
+Success rate: 100.0 %
+Total number of iterations: 3672
+Average number of iterations: 12
+Total time: 3.879 s
+Average time: 0.004 s
+
+Test n° 307
+Number of successes: 307
+Success rate: 100.0 %
+Total number of iterations: 3684
+Average number of iterations: 12
+Total time: 3.892 s
+Average time: 0.004 s
+
+Test n° 308
+Number of successes: 308
+Success rate: 100.0 %
+Total number of iterations: 3696
+Average number of iterations: 12
+Total time: 3.904 s
+Average time: 0.004 s
+
+Test n° 309
+Number of successes: 309
+Success rate: 100.0 %
+Total number of iterations: 3708
+Average number of iterations: 12
+Total time: 3.916 s
+Average time: 0.004 s
+
+Test n° 310
+Number of successes: 310
+Success rate: 100.0 %
+Total number of iterations: 3720
+Average number of iterations: 12
+Total time: 3.928 s
+Average time: 0.004 s
+
+Test n° 311
+Number of successes: 311
+Success rate: 100.0 %
+Total number of iterations: 3732
+Average number of iterations: 12
+Total time: 3.941 s
+Average time: 0.004 s
+
+Test n° 312
+Number of successes: 312
+Success rate: 100.0 %
+Total number of iterations: 3744
+Average number of iterations: 12
+Total time: 3.954 s
+Average time: 0.004 s
+
+Test n° 313
+Number of successes: 313
+Success rate: 100.0 %
+Total number of iterations: 3756
+Average number of iterations: 12
+Total time: 3.966 s
+Average time: 0.004 s
+
+Test n° 314
+Number of successes: 314
+Success rate: 100.0 %
+Total number of iterations: 3768
+Average number of iterations: 12
+Total time: 3.978 s
+Average time: 0.004 s
+
+Test n° 315
+Number of successes: 315
+Success rate: 100.0 %
+Total number of iterations: 3780
+Average number of iterations: 12
+Total time: 3.991 s
+Average time: 0.004 s
+
+Test n° 316
+Number of successes: 316
+Success rate: 100.0 %
+Total number of iterations: 3792
+Average number of iterations: 12
+Total time: 4.003 s
+Average time: 0.004 s
+
+Test n° 317
+Number of successes: 317
+Success rate: 100.0 %
+Total number of iterations: 3804
+Average number of iterations: 12
+Total time: 4.016 s
+Average time: 0.004 s
+
+Test n° 318
+Number of successes: 318
+Success rate: 100.0 %
+Total number of iterations: 3816
+Average number of iterations: 12
+Total time: 4.03 s
+Average time: 0.004 s
+
+Test n° 319
+Number of successes: 319
+Success rate: 100.0 %
+Total number of iterations: 3828
+Average number of iterations: 12
+Total time: 4.043 s
+Average time: 0.004 s
+
+Test n° 320
+Number of successes: 320
+Success rate: 100.0 %
+Total number of iterations: 3840
+Average number of iterations: 12
+Total time: 4.055 s
+Average time: 0.004 s
+
+Test n° 321
+Number of successes: 321
+Success rate: 100.0 %
+Total number of iterations: 3852
+Average number of iterations: 12
+Total time: 4.067 s
+Average time: 0.004 s
+
+Test n° 322
+Number of successes: 322
+Success rate: 100.0 %
+Total number of iterations: 3864
+Average number of iterations: 12
+Total time: 4.081 s
+Average time: 0.004 s
+
+Test n° 323
+Number of successes: 323
+Success rate: 100.0 %
+Total number of iterations: 3876
+Average number of iterations: 12
+Total time: 4.094 s
+Average time: 0.004 s
+
+Test n° 324
+Number of successes: 324
+Success rate: 100.0 %
+Total number of iterations: 3888
+Average number of iterations: 12
+Total time: 4.107 s
+Average time: 0.004 s
+
+Test n° 325
+Number of successes: 325
+Success rate: 100.0 %
+Total number of iterations: 3900
+Average number of iterations: 12
+Total time: 4.119 s
+Average time: 0.004 s
+
+Test n° 326
+Number of successes: 326
+Success rate: 100.0 %
+Total number of iterations: 3912
+Average number of iterations: 12
+Total time: 4.132 s
+Average time: 0.004 s
+
+Test n° 327
+Number of successes: 327
+Success rate: 100.0 %
+Total number of iterations: 3924
+Average number of iterations: 12
+Total time: 4.145 s
+Average time: 0.004 s
+
+Test n° 328
+Number of successes: 328
+Success rate: 100.0 %
+Total number of iterations: 3936
+Average number of iterations: 12
+Total time: 4.158 s
+Average time: 0.004 s
+
+Test n° 329
+Number of successes: 329
+Success rate: 100.0 %
+Total number of iterations: 3948
+Average number of iterations: 12
+Total time: 4.17 s
+Average time: 0.004 s
+
+Test n° 330
+Number of successes: 330
+Success rate: 100.0 %
+Total number of iterations: 3960
+Average number of iterations: 12
+Total time: 4.182 s
+Average time: 0.004 s
+
+Test n° 331
+Number of successes: 331
+Success rate: 100.0 %
+Total number of iterations: 3972
+Average number of iterations: 12
+Total time: 4.195 s
+Average time: 0.004 s
+
+Test n° 332
+Number of successes: 332
+Success rate: 100.0 %
+Total number of iterations: 3984
+Average number of iterations: 12
+Total time: 4.208 s
+Average time: 0.004 s
+
+Test n° 333
+Number of successes: 333
+Success rate: 100.0 %
+Total number of iterations: 3996
+Average number of iterations: 12
+Total time: 4.221 s
+Average time: 0.004 s
+
+Test n° 334
+Number of successes: 334
+Success rate: 100.0 %
+Total number of iterations: 4008
+Average number of iterations: 12
+Total time: 4.234 s
+Average time: 0.004 s
+
+Test n° 335
+Number of successes: 335
+Success rate: 100.0 %
+Total number of iterations: 4020
+Average number of iterations: 12
+Total time: 4.248 s
+Average time: 0.004 s
+
+Test n° 336
+Number of successes: 336
+Success rate: 100.0 %
+Total number of iterations: 4032
+Average number of iterations: 12
+Total time: 4.261 s
+Average time: 0.004 s
+
+Test n° 337
+Number of successes: 337
+Success rate: 100.0 %
+Total number of iterations: 4044
+Average number of iterations: 12
+Total time: 4.275 s
+Average time: 0.004 s
+
+Test n° 338
+Number of successes: 338
+Success rate: 100.0 %
+Total number of iterations: 4056
+Average number of iterations: 12
+Total time: 4.287 s
+Average time: 0.004 s
+
+Test n° 339
+Number of successes: 339
+Success rate: 100.0 %
+Total number of iterations: 4068
+Average number of iterations: 12
+Total time: 4.3 s
+Average time: 0.004 s
+
+Test n° 340
+Number of successes: 340
+Success rate: 100.0 %
+Total number of iterations: 4080
+Average number of iterations: 12
+Total time: 4.321 s
+Average time: 0.004 s
+
+Test n° 341
+Number of successes: 341
+Success rate: 100.0 %
+Total number of iterations: 4092
+Average number of iterations: 12
+Total time: 4.335 s
+Average time: 0.004 s
+
+Test n° 342
+Number of successes: 342
+Success rate: 100.0 %
+Total number of iterations: 4104
+Average number of iterations: 12
+Total time: 4.347 s
+Average time: 0.004 s
+
+Test n° 343
+Number of successes: 343
+Success rate: 100.0 %
+Total number of iterations: 4116
+Average number of iterations: 12
+Total time: 4.36 s
+Average time: 0.004 s
+
+Test n° 344
+Number of successes: 344
+Success rate: 100.0 %
+Total number of iterations: 4128
+Average number of iterations: 12
+Total time: 4.372 s
+Average time: 0.004 s
+
+Test n° 345
+Number of successes: 345
+Success rate: 100.0 %
+Total number of iterations: 4140
+Average number of iterations: 12
+Total time: 4.385 s
+Average time: 0.004 s
+
+Test n° 346
+Number of successes: 346
+Success rate: 100.0 %
+Total number of iterations: 4152
+Average number of iterations: 12
+Total time: 4.398 s
+Average time: 0.004 s
+
+Test n° 347
+Number of successes: 347
+Success rate: 100.0 %
+Total number of iterations: 4164
+Average number of iterations: 12
+Total time: 4.41 s
+Average time: 0.004 s
+
+Test n° 348
+Number of successes: 348
+Success rate: 100.0 %
+Total number of iterations: 4176
+Average number of iterations: 12
+Total time: 4.422 s
+Average time: 0.004 s
+
+Test n° 349
+Number of successes: 349
+Success rate: 100.0 %
+Total number of iterations: 4188
+Average number of iterations: 12
+Total time: 4.436 s
+Average time: 0.004 s
+
+Test n° 350
+Number of successes: 350
+Success rate: 100.0 %
+Total number of iterations: 4200
+Average number of iterations: 12
+Total time: 4.448 s
+Average time: 0.004 s
+
+Test n° 351
+Number of successes: 351
+Success rate: 100.0 %
+Total number of iterations: 4212
+Average number of iterations: 12
+Total time: 4.46 s
+Average time: 0.004 s
+
+Test n° 352
+Number of successes: 352
+Success rate: 100.0 %
+Total number of iterations: 4224
+Average number of iterations: 12
+Total time: 4.473 s
+Average time: 0.004 s
+
+Test n° 353
+Number of successes: 353
+Success rate: 100.0 %
+Total number of iterations: 4236
+Average number of iterations: 12
+Total time: 4.486 s
+Average time: 0.004 s
+
+Test n° 354
+Number of successes: 354
+Success rate: 100.0 %
+Total number of iterations: 4248
+Average number of iterations: 12
+Total time: 4.498 s
+Average time: 0.004 s
+
+Test n° 355
+Number of successes: 355
+Success rate: 100.0 %
+Total number of iterations: 4260
+Average number of iterations: 12
+Total time: 4.511 s
+Average time: 0.005 s
+
+Test n° 356
+Number of successes: 356
+Success rate: 100.0 %
+Total number of iterations: 4272
+Average number of iterations: 12
+Total time: 4.523 s
+Average time: 0.005 s
+
+Test n° 357
+Number of successes: 357
+Success rate: 100.0 %
+Total number of iterations: 4284
+Average number of iterations: 12
+Total time: 4.535 s
+Average time: 0.005 s
+
+Test n° 358
+Number of successes: 358
+Success rate: 100.0 %
+Total number of iterations: 4296
+Average number of iterations: 12
+Total time: 4.548 s
+Average time: 0.005 s
+
+Test n° 359
+Number of successes: 359
+Success rate: 100.0 %
+Total number of iterations: 4308
+Average number of iterations: 12
+Total time: 4.56 s
+Average time: 0.005 s
+
+Test n° 360
+Number of successes: 360
+Success rate: 100.0 %
+Total number of iterations: 4320
+Average number of iterations: 12
+Total time: 4.573 s
+Average time: 0.005 s
+
+Test n° 361
+Number of successes: 361
+Success rate: 100.0 %
+Total number of iterations: 4332
+Average number of iterations: 12
+Total time: 4.587 s
+Average time: 0.005 s
+
+Test n° 362
+Number of successes: 362
+Success rate: 100.0 %
+Total number of iterations: 4344
+Average number of iterations: 12
+Total time: 4.6 s
+Average time: 0.005 s
+
+Test n° 363
+Number of successes: 363
+Success rate: 100.0 %
+Total number of iterations: 4356
+Average number of iterations: 12
+Total time: 4.612 s
+Average time: 0.005 s
+
+Test n° 364
+Number of successes: 364
+Success rate: 100.0 %
+Total number of iterations: 4368
+Average number of iterations: 12
+Total time: 4.625 s
+Average time: 0.005 s
+
+Test n° 365
+Number of successes: 365
+Success rate: 100.0 %
+Total number of iterations: 4380
+Average number of iterations: 12
+Total time: 4.637 s
+Average time: 0.005 s
+
+Test n° 366
+Number of successes: 366
+Success rate: 100.0 %
+Total number of iterations: 4392
+Average number of iterations: 12
+Total time: 4.65 s
+Average time: 0.005 s
+
+Test n° 367
+Number of successes: 367
+Success rate: 100.0 %
+Total number of iterations: 4404
+Average number of iterations: 12
+Total time: 4.662 s
+Average time: 0.005 s
+
+Test n° 368
+Number of successes: 368
+Success rate: 100.0 %
+Total number of iterations: 4416
+Average number of iterations: 12
+Total time: 4.674 s
+Average time: 0.005 s
+
+Test n° 369
+Number of successes: 369
+Success rate: 100.0 %
+Total number of iterations: 4428
+Average number of iterations: 12
+Total time: 4.687 s
+Average time: 0.005 s
+
+Test n° 370
+Number of successes: 370
+Success rate: 100.0 %
+Total number of iterations: 4440
+Average number of iterations: 12
+Total time: 4.699 s
+Average time: 0.005 s
+
+Test n° 371
+Number of successes: 371
+Success rate: 100.0 %
+Total number of iterations: 4452
+Average number of iterations: 12
+Total time: 4.711 s
+Average time: 0.005 s
+
+Test n° 372
+Number of successes: 372
+Success rate: 100.0 %
+Total number of iterations: 4464
+Average number of iterations: 12
+Total time: 4.724 s
+Average time: 0.005 s
+
+Test n° 373
+Number of successes: 373
+Success rate: 100.0 %
+Total number of iterations: 4476
+Average number of iterations: 12
+Total time: 4.737 s
+Average time: 0.005 s
+
+Test n° 374
+Number of successes: 374
+Success rate: 100.0 %
+Total number of iterations: 4488
+Average number of iterations: 12
+Total time: 4.75 s
+Average time: 0.005 s
+
+Test n° 375
+Number of successes: 375
+Success rate: 100.0 %
+Total number of iterations: 4500
+Average number of iterations: 12
+Total time: 4.763 s
+Average time: 0.005 s
+
+Test n° 376
+Number of successes: 376
+Success rate: 100.0 %
+Total number of iterations: 4512
+Average number of iterations: 12
+Total time: 4.776 s
+Average time: 0.005 s
+
+Test n° 377
+Number of successes: 377
+Success rate: 100.0 %
+Total number of iterations: 4524
+Average number of iterations: 12
+Total time: 4.789 s
+Average time: 0.005 s
+
+Test n° 378
+Number of successes: 378
+Success rate: 100.0 %
+Total number of iterations: 4536
+Average number of iterations: 12
+Total time: 4.801 s
+Average time: 0.005 s
+
+Test n° 379
+Number of successes: 379
+Success rate: 100.0 %
+Total number of iterations: 4548
+Average number of iterations: 12
+Total time: 4.814 s
+Average time: 0.005 s
+
+Test n° 380
+Number of successes: 380
+Success rate: 100.0 %
+Total number of iterations: 4560
+Average number of iterations: 12
+Total time: 4.827 s
+Average time: 0.005 s
+
+Test n° 381
+Number of successes: 381
+Success rate: 100.0 %
+Total number of iterations: 4572
+Average number of iterations: 12
+Total time: 4.839 s
+Average time: 0.005 s
+
+Test n° 382
+Number of successes: 382
+Success rate: 100.0 %
+Total number of iterations: 4584
+Average number of iterations: 12
+Total time: 4.852 s
+Average time: 0.005 s
+
+Test n° 383
+Number of successes: 383
+Success rate: 100.0 %
+Total number of iterations: 4596
+Average number of iterations: 12
+Total time: 4.865 s
+Average time: 0.005 s
+
+Test n° 384
+Number of successes: 384
+Success rate: 100.0 %
+Total number of iterations: 4608
+Average number of iterations: 12
+Total time: 4.877 s
+Average time: 0.005 s
+
+Test n° 385
+Number of successes: 385
+Success rate: 100.0 %
+Total number of iterations: 4620
+Average number of iterations: 12
+Total time: 4.889 s
+Average time: 0.005 s
+
+Test n° 386
+Number of successes: 386
+Success rate: 100.0 %
+Total number of iterations: 4632
+Average number of iterations: 12
+Total time: 4.901 s
+Average time: 0.005 s
+
+Test n° 387
+Number of successes: 387
+Success rate: 100.0 %
+Total number of iterations: 4644
+Average number of iterations: 12
+Total time: 4.915 s
+Average time: 0.005 s
+
+Test n° 388
+Number of successes: 388
+Success rate: 100.0 %
+Total number of iterations: 4656
+Average number of iterations: 12
+Total time: 4.927 s
+Average time: 0.005 s
+
+Test n° 389
+Number of successes: 389
+Success rate: 100.0 %
+Total number of iterations: 4668
+Average number of iterations: 12
+Total time: 4.939 s
+Average time: 0.005 s
+
+Test n° 390
+Number of successes: 390
+Success rate: 100.0 %
+Total number of iterations: 4680
+Average number of iterations: 12
+Total time: 4.952 s
+Average time: 0.005 s
+
+Test n° 391
+Number of successes: 391
+Success rate: 100.0 %
+Total number of iterations: 4692
+Average number of iterations: 12
+Total time: 4.965 s
+Average time: 0.005 s
+
+Test n° 392
+Number of successes: 392
+Success rate: 100.0 %
+Total number of iterations: 4704
+Average number of iterations: 12
+Total time: 4.978 s
+Average time: 0.005 s
+
+Test n° 393
+Number of successes: 393
+Success rate: 100.0 %
+Total number of iterations: 4716
+Average number of iterations: 12
+Total time: 4.991 s
+Average time: 0.005 s
+
+Test n° 394
+Number of successes: 394
+Success rate: 100.0 %
+Total number of iterations: 4728
+Average number of iterations: 12
+Total time: 5.003 s
+Average time: 0.005 s
+
+Test n° 395
+Number of successes: 395
+Success rate: 100.0 %
+Total number of iterations: 4740
+Average number of iterations: 12
+Total time: 5.015 s
+Average time: 0.005 s
+
+Test n° 396
+Number of successes: 396
+Success rate: 100.0 %
+Total number of iterations: 4752
+Average number of iterations: 12
+Total time: 5.028 s
+Average time: 0.005 s
+
+Test n° 397
+Number of successes: 397
+Success rate: 100.0 %
+Total number of iterations: 4764
+Average number of iterations: 12
+Total time: 5.041 s
+Average time: 0.005 s
+
+Test n° 398
+Number of successes: 398
+Success rate: 100.0 %
+Total number of iterations: 4776
+Average number of iterations: 12
+Total time: 5.054 s
+Average time: 0.005 s
+
+Test n° 399
+Number of successes: 399
+Success rate: 100.0 %
+Total number of iterations: 4788
+Average number of iterations: 12
+Total time: 5.066 s
+Average time: 0.005 s
+
+Test n° 400
+Number of successes: 400
+Success rate: 100.0 %
+Total number of iterations: 4800
+Average number of iterations: 12
+Total time: 5.079 s
+Average time: 0.005 s
+
+Test n° 401
+Number of successes: 401
+Success rate: 100.0 %
+Total number of iterations: 4812
+Average number of iterations: 12
+Total time: 5.092 s
+Average time: 0.005 s
+
+Test n° 402
+Number of successes: 402
+Success rate: 100.0 %
+Total number of iterations: 4824
+Average number of iterations: 12
+Total time: 5.106 s
+Average time: 0.005 s
+
+Test n° 403
+Number of successes: 403
+Success rate: 100.0 %
+Total number of iterations: 4836
+Average number of iterations: 12
+Total time: 5.118 s
+Average time: 0.005 s
+
+Test n° 404
+Number of successes: 404
+Success rate: 100.0 %
+Total number of iterations: 4848
+Average number of iterations: 12
+Total time: 5.131 s
+Average time: 0.005 s
+
+Test n° 405
+Number of successes: 405
+Success rate: 100.0 %
+Total number of iterations: 4860
+Average number of iterations: 12
+Total time: 5.144 s
+Average time: 0.005 s
+
+Test n° 406
+Number of successes: 406
+Success rate: 100.0 %
+Total number of iterations: 4872
+Average number of iterations: 12
+Total time: 5.156 s
+Average time: 0.005 s
+
+Test n° 407
+Number of successes: 407
+Success rate: 100.0 %
+Total number of iterations: 4884
+Average number of iterations: 12
+Total time: 5.169 s
+Average time: 0.005 s
+
+Test n° 408
+Number of successes: 408
+Success rate: 100.0 %
+Total number of iterations: 4896
+Average number of iterations: 12
+Total time: 5.181 s
+Average time: 0.005 s
+
+Test n° 409
+Number of successes: 409
+Success rate: 100.0 %
+Total number of iterations: 4908
+Average number of iterations: 12
+Total time: 5.193 s
+Average time: 0.005 s
+
+Test n° 410
+Number of successes: 410
+Success rate: 100.0 %
+Total number of iterations: 4920
+Average number of iterations: 12
+Total time: 5.205 s
+Average time: 0.005 s
+
+Test n° 411
+Number of successes: 411
+Success rate: 100.0 %
+Total number of iterations: 4932
+Average number of iterations: 12
+Total time: 5.218 s
+Average time: 0.005 s
+
+Test n° 412
+Number of successes: 412
+Success rate: 100.0 %
+Total number of iterations: 4944
+Average number of iterations: 12
+Total time: 5.23 s
+Average time: 0.005 s
+
+Test n° 413
+Number of successes: 413
+Success rate: 100.0 %
+Total number of iterations: 4956
+Average number of iterations: 12
+Total time: 5.243 s
+Average time: 0.005 s
+
+Test n° 414
+Number of successes: 414
+Success rate: 100.0 %
+Total number of iterations: 4968
+Average number of iterations: 12
+Total time: 5.256 s
+Average time: 0.005 s
+
+Test n° 415
+Number of successes: 415
+Success rate: 100.0 %
+Total number of iterations: 4980
+Average number of iterations: 12
+Total time: 5.268 s
+Average time: 0.005 s
+
+Test n° 416
+Number of successes: 416
+Success rate: 100.0 %
+Total number of iterations: 4992
+Average number of iterations: 12
+Total time: 5.28 s
+Average time: 0.005 s
+
+Test n° 417
+Number of successes: 417
+Success rate: 100.0 %
+Total number of iterations: 5004
+Average number of iterations: 12
+Total time: 5.292 s
+Average time: 0.005 s
+
+Test n° 418
+Number of successes: 418
+Success rate: 100.0 %
+Total number of iterations: 5016
+Average number of iterations: 12
+Total time: 5.305 s
+Average time: 0.005 s
+
+Test n° 419
+Number of successes: 419
+Success rate: 100.0 %
+Total number of iterations: 5028
+Average number of iterations: 12
+Total time: 5.317 s
+Average time: 0.005 s
+
+Test n° 420
+Number of successes: 420
+Success rate: 100.0 %
+Total number of iterations: 5040
+Average number of iterations: 12
+Total time: 5.329 s
+Average time: 0.005 s
+
+Test n° 421
+Number of successes: 421
+Success rate: 100.0 %
+Total number of iterations: 5052
+Average number of iterations: 12
+Total time: 5.341 s
+Average time: 0.005 s
+
+Test n° 422
+Number of successes: 422
+Success rate: 100.0 %
+Total number of iterations: 5064
+Average number of iterations: 12
+Total time: 5.354 s
+Average time: 0.005 s
+
+Test n° 423
+Number of successes: 423
+Success rate: 100.0 %
+Total number of iterations: 5076
+Average number of iterations: 12
+Total time: 5.366 s
+Average time: 0.005 s
+
+Test n° 424
+Number of successes: 424
+Success rate: 100.0 %
+Total number of iterations: 5088
+Average number of iterations: 12
+Total time: 5.379 s
+Average time: 0.005 s
+
+Test n° 425
+Number of successes: 425
+Success rate: 100.0 %
+Total number of iterations: 5100
+Average number of iterations: 12
+Total time: 5.392 s
+Average time: 0.005 s
+
+Test n° 426
+Number of successes: 426
+Success rate: 100.0 %
+Total number of iterations: 5112
+Average number of iterations: 12
+Total time: 5.404 s
+Average time: 0.005 s
+
+Test n° 427
+Number of successes: 427
+Success rate: 100.0 %
+Total number of iterations: 5124
+Average number of iterations: 12
+Total time: 5.417 s
+Average time: 0.005 s
+
+Test n° 428
+Number of successes: 428
+Success rate: 100.0 %
+Total number of iterations: 5136
+Average number of iterations: 12
+Total time: 5.43 s
+Average time: 0.005 s
+
+Test n° 429
+Number of successes: 429
+Success rate: 100.0 %
+Total number of iterations: 5148
+Average number of iterations: 12
+Total time: 5.442 s
+Average time: 0.005 s
+
+Test n° 430
+Number of successes: 430
+Success rate: 100.0 %
+Total number of iterations: 5160
+Average number of iterations: 12
+Total time: 5.454 s
+Average time: 0.005 s
+
+Test n° 431
+Number of successes: 431
+Success rate: 100.0 %
+Total number of iterations: 5172
+Average number of iterations: 12
+Total time: 5.467 s
+Average time: 0.005 s
+
+Test n° 432
+Number of successes: 432
+Success rate: 100.0 %
+Total number of iterations: 5184
+Average number of iterations: 12
+Total time: 5.48 s
+Average time: 0.005 s
+
+Test n° 433
+Number of successes: 433
+Success rate: 100.0 %
+Total number of iterations: 5196
+Average number of iterations: 12
+Total time: 5.492 s
+Average time: 0.005 s
+
+Test n° 434
+Number of successes: 434
+Success rate: 100.0 %
+Total number of iterations: 5208
+Average number of iterations: 12
+Total time: 5.504 s
+Average time: 0.006 s
+
+Test n° 435
+Number of successes: 435
+Success rate: 100.0 %
+Total number of iterations: 5220
+Average number of iterations: 12
+Total time: 5.517 s
+Average time: 0.006 s
+
+Test n° 436
+Number of successes: 436
+Success rate: 100.0 %
+Total number of iterations: 5232
+Average number of iterations: 12
+Total time: 5.529 s
+Average time: 0.006 s
+
+Test n° 437
+Number of successes: 437
+Success rate: 100.0 %
+Total number of iterations: 5244
+Average number of iterations: 12
+Total time: 5.542 s
+Average time: 0.006 s
+
+Test n° 438
+Number of successes: 438
+Success rate: 100.0 %
+Total number of iterations: 5256
+Average number of iterations: 12
+Total time: 5.555 s
+Average time: 0.006 s
+
+Test n° 439
+Number of successes: 439
+Success rate: 100.0 %
+Total number of iterations: 5268
+Average number of iterations: 12
+Total time: 5.567 s
+Average time: 0.006 s
+
+Test n° 440
+Number of successes: 440
+Success rate: 100.0 %
+Total number of iterations: 5280
+Average number of iterations: 12
+Total time: 5.579 s
+Average time: 0.006 s
+
+Test n° 441
+Number of successes: 441
+Success rate: 100.0 %
+Total number of iterations: 5292
+Average number of iterations: 12
+Total time: 5.592 s
+Average time: 0.006 s
+
+Test n° 442
+Number of successes: 442
+Success rate: 100.0 %
+Total number of iterations: 5304
+Average number of iterations: 12
+Total time: 5.605 s
+Average time: 0.006 s
+
+Test n° 443
+Number of successes: 443
+Success rate: 100.0 %
+Total number of iterations: 5316
+Average number of iterations: 12
+Total time: 5.618 s
+Average time: 0.006 s
+
+Test n° 444
+Number of successes: 444
+Success rate: 100.0 %
+Total number of iterations: 5328
+Average number of iterations: 12
+Total time: 5.632 s
+Average time: 0.006 s
+
+Test n° 445
+Number of successes: 445
+Success rate: 100.0 %
+Total number of iterations: 5340
+Average number of iterations: 12
+Total time: 5.644 s
+Average time: 0.006 s
+
+Test n° 446
+Number of successes: 446
+Success rate: 100.0 %
+Total number of iterations: 5352
+Average number of iterations: 12
+Total time: 5.657 s
+Average time: 0.006 s
+
+Test n° 447
+Number of successes: 447
+Success rate: 100.0 %
+Total number of iterations: 5364
+Average number of iterations: 12
+Total time: 5.669 s
+Average time: 0.006 s
+
+Test n° 448
+Number of successes: 448
+Success rate: 100.0 %
+Total number of iterations: 5376
+Average number of iterations: 12
+Total time: 5.682 s
+Average time: 0.006 s
+
+Test n° 449
+Number of successes: 449
+Success rate: 100.0 %
+Total number of iterations: 5388
+Average number of iterations: 12
+Total time: 5.695 s
+Average time: 0.006 s
+
+Test n° 450
+Number of successes: 450
+Success rate: 100.0 %
+Total number of iterations: 5400
+Average number of iterations: 12
+Total time: 5.708 s
+Average time: 0.006 s
+
+Test n° 451
+Number of successes: 451
+Success rate: 100.0 %
+Total number of iterations: 5412
+Average number of iterations: 12
+Total time: 5.721 s
+Average time: 0.006 s
+
+Test n° 452
+Number of successes: 452
+Success rate: 100.0 %
+Total number of iterations: 5424
+Average number of iterations: 12
+Total time: 5.734 s
+Average time: 0.006 s
+
+Test n° 453
+Number of successes: 453
+Success rate: 100.0 %
+Total number of iterations: 5436
+Average number of iterations: 12
+Total time: 5.746 s
+Average time: 0.006 s
+
+Test n° 454
+Number of successes: 454
+Success rate: 100.0 %
+Total number of iterations: 5448
+Average number of iterations: 12
+Total time: 5.759 s
+Average time: 0.006 s
+
+Test n° 455
+Number of successes: 455
+Success rate: 100.0 %
+Total number of iterations: 5460
+Average number of iterations: 12
+Total time: 5.772 s
+Average time: 0.006 s
+
+Test n° 456
+Number of successes: 456
+Success rate: 100.0 %
+Total number of iterations: 5472
+Average number of iterations: 12
+Total time: 5.784 s
+Average time: 0.006 s
+
+Test n° 457
+Number of successes: 457
+Success rate: 100.0 %
+Total number of iterations: 5484
+Average number of iterations: 12
+Total time: 5.797 s
+Average time: 0.006 s
+
+Test n° 458
+Number of successes: 458
+Success rate: 100.0 %
+Total number of iterations: 5496
+Average number of iterations: 12
+Total time: 5.809 s
+Average time: 0.006 s
+
+Test n° 459
+Number of successes: 459
+Success rate: 100.0 %
+Total number of iterations: 5508
+Average number of iterations: 12
+Total time: 5.821 s
+Average time: 0.006 s
+
+Test n° 460
+Number of successes: 460
+Success rate: 100.0 %
+Total number of iterations: 5520
+Average number of iterations: 12
+Total time: 5.834 s
+Average time: 0.006 s
+
+Test n° 461
+Number of successes: 461
+Success rate: 100.0 %
+Total number of iterations: 5532
+Average number of iterations: 12
+Total time: 5.846 s
+Average time: 0.006 s
+
+Test n° 462
+Number of successes: 462
+Success rate: 100.0 %
+Total number of iterations: 5544
+Average number of iterations: 12
+Total time: 5.859 s
+Average time: 0.006 s
+
+Test n° 463
+Number of successes: 463
+Success rate: 100.0 %
+Total number of iterations: 5556
+Average number of iterations: 12
+Total time: 5.871 s
+Average time: 0.006 s
+
+Test n° 464
+Number of successes: 464
+Success rate: 100.0 %
+Total number of iterations: 5568
+Average number of iterations: 12
+Total time: 5.884 s
+Average time: 0.006 s
+
+Test n° 465
+Number of successes: 465
+Success rate: 100.0 %
+Total number of iterations: 5580
+Average number of iterations: 12
+Total time: 5.896 s
+Average time: 0.006 s
+
+Test n° 466
+Number of successes: 466
+Success rate: 100.0 %
+Total number of iterations: 5592
+Average number of iterations: 12
+Total time: 5.908 s
+Average time: 0.006 s
+
+Test n° 467
+Number of successes: 467
+Success rate: 100.0 %
+Total number of iterations: 5604
+Average number of iterations: 12
+Total time: 5.922 s
+Average time: 0.006 s
+
+Test n° 468
+Number of successes: 468
+Success rate: 100.0 %
+Total number of iterations: 5616
+Average number of iterations: 12
+Total time: 5.935 s
+Average time: 0.006 s
+
+Test n° 469
+Number of successes: 469
+Success rate: 100.0 %
+Total number of iterations: 5628
+Average number of iterations: 12
+Total time: 5.947 s
+Average time: 0.006 s
+
+Test n° 470
+Number of successes: 470
+Success rate: 100.0 %
+Total number of iterations: 5640
+Average number of iterations: 12
+Total time: 5.96 s
+Average time: 0.006 s
+
+Test n° 471
+Number of successes: 471
+Success rate: 100.0 %
+Total number of iterations: 5652
+Average number of iterations: 12
+Total time: 5.973 s
+Average time: 0.006 s
+
+Test n° 472
+Number of successes: 472
+Success rate: 100.0 %
+Total number of iterations: 5664
+Average number of iterations: 12
+Total time: 5.986 s
+Average time: 0.006 s
+
+Test n° 473
+Number of successes: 473
+Success rate: 100.0 %
+Total number of iterations: 5676
+Average number of iterations: 12
+Total time: 5.999 s
+Average time: 0.006 s
+
+Test n° 474
+Number of successes: 474
+Success rate: 100.0 %
+Total number of iterations: 5688
+Average number of iterations: 12
+Total time: 6.011 s
+Average time: 0.006 s
+
+Test n° 475
+Number of successes: 475
+Success rate: 100.0 %
+Total number of iterations: 5700
+Average number of iterations: 12
+Total time: 6.024 s
+Average time: 0.006 s
+
+Test n° 476
+Number of successes: 476
+Success rate: 100.0 %
+Total number of iterations: 5712
+Average number of iterations: 12
+Total time: 6.037 s
+Average time: 0.006 s
+
+Test n° 477
+Number of successes: 477
+Success rate: 100.0 %
+Total number of iterations: 5724
+Average number of iterations: 12
+Total time: 6.049 s
+Average time: 0.006 s
+
+Test n° 478
+Number of successes: 478
+Success rate: 100.0 %
+Total number of iterations: 5736
+Average number of iterations: 12
+Total time: 6.061 s
+Average time: 0.006 s
+
+Test n° 479
+Number of successes: 479
+Success rate: 100.0 %
+Total number of iterations: 5748
+Average number of iterations: 12
+Total time: 6.074 s
+Average time: 0.006 s
+
+Test n° 480
+Number of successes: 480
+Success rate: 100.0 %
+Total number of iterations: 5760
+Average number of iterations: 12
+Total time: 6.087 s
+Average time: 0.006 s
+
+Test n° 481
+Number of successes: 481
+Success rate: 100.0 %
+Total number of iterations: 5772
+Average number of iterations: 12
+Total time: 6.1 s
+Average time: 0.006 s
+
+Test n° 482
+Number of successes: 482
+Success rate: 100.0 %
+Total number of iterations: 5784
+Average number of iterations: 12
+Total time: 6.113 s
+Average time: 0.006 s
+
+Test n° 483
+Number of successes: 483
+Success rate: 100.0 %
+Total number of iterations: 5796
+Average number of iterations: 12
+Total time: 6.126 s
+Average time: 0.006 s
+
+Test n° 484
+Number of successes: 484
+Success rate: 100.0 %
+Total number of iterations: 5808
+Average number of iterations: 12
+Total time: 6.139 s
+Average time: 0.006 s
+
+Test n° 485
+Number of successes: 485
+Success rate: 100.0 %
+Total number of iterations: 5820
+Average number of iterations: 12
+Total time: 6.152 s
+Average time: 0.006 s
+
+Test n° 486
+Number of successes: 486
+Success rate: 100.0 %
+Total number of iterations: 5832
+Average number of iterations: 12
+Total time: 6.164 s
+Average time: 0.006 s
+
+Test n° 487
+Number of successes: 487
+Success rate: 100.0 %
+Total number of iterations: 5844
+Average number of iterations: 12
+Total time: 6.177 s
+Average time: 0.006 s
+
+Test n° 488
+Number of successes: 488
+Success rate: 100.0 %
+Total number of iterations: 5856
+Average number of iterations: 12
+Total time: 6.19 s
+Average time: 0.006 s
+
+Test n° 489
+Number of successes: 489
+Success rate: 100.0 %
+Total number of iterations: 5868
+Average number of iterations: 12
+Total time: 6.203 s
+Average time: 0.006 s
+
+Test n° 490
+Number of successes: 490
+Success rate: 100.0 %
+Total number of iterations: 5880
+Average number of iterations: 12
+Total time: 6.216 s
+Average time: 0.006 s
+
+Test n° 491
+Number of successes: 491
+Success rate: 100.0 %
+Total number of iterations: 5892
+Average number of iterations: 12
+Total time: 6.228 s
+Average time: 0.006 s
+
+Test n° 492
+Number of successes: 492
+Success rate: 100.0 %
+Total number of iterations: 5904
+Average number of iterations: 12
+Total time: 6.242 s
+Average time: 0.006 s
+
+Test n° 493
+Number of successes: 493
+Success rate: 100.0 %
+Total number of iterations: 5916
+Average number of iterations: 12
+Total time: 6.254 s
+Average time: 0.006 s
+
+Test n° 494
+Number of successes: 494
+Success rate: 100.0 %
+Total number of iterations: 5928
+Average number of iterations: 12
+Total time: 6.267 s
+Average time: 0.006 s
+
+Test n° 495
+Number of successes: 495
+Success rate: 100.0 %
+Total number of iterations: 5940
+Average number of iterations: 12
+Total time: 6.28 s
+Average time: 0.006 s
+
+Test n° 496
+Number of successes: 496
+Success rate: 100.0 %
+Total number of iterations: 5952
+Average number of iterations: 12
+Total time: 6.292 s
+Average time: 0.006 s
+
+Test n° 497
+Number of successes: 497
+Success rate: 100.0 %
+Total number of iterations: 5964
+Average number of iterations: 12
+Total time: 6.305 s
+Average time: 0.006 s
+
+Test n° 498
+Number of successes: 498
+Success rate: 100.0 %
+Total number of iterations: 5976
+Average number of iterations: 12
+Total time: 6.317 s
+Average time: 0.006 s
+
+Test n° 499
+Number of successes: 499
+Success rate: 100.0 %
+Total number of iterations: 5988
+Average number of iterations: 12
+Total time: 6.331 s
+Average time: 0.006 s
+
+Test n° 500
+Number of successes: 500
+Success rate: 100.0 %
+Total number of iterations: 6000
+Average number of iterations: 12
+Total time: 6.343 s
+Average time: 0.006 s
+
+Test n° 501
+Number of successes: 501
+Success rate: 100.0 %
+Total number of iterations: 6012
+Average number of iterations: 12
+Total time: 6.356 s
+Average time: 0.006 s
+
+Test n° 502
+Number of successes: 502
+Success rate: 100.0 %
+Total number of iterations: 6024
+Average number of iterations: 12
+Total time: 6.368 s
+Average time: 0.006 s
+
+Test n° 503
+Number of successes: 503
+Success rate: 100.0 %
+Total number of iterations: 6036
+Average number of iterations: 12
+Total time: 6.381 s
+Average time: 0.006 s
+
+Test n° 504
+Number of successes: 504
+Success rate: 100.0 %
+Total number of iterations: 6048
+Average number of iterations: 12
+Total time: 6.393 s
+Average time: 0.006 s
+
+Test n° 505
+Number of successes: 505
+Success rate: 100.0 %
+Total number of iterations: 6060
+Average number of iterations: 12
+Total time: 6.406 s
+Average time: 0.006 s
+
+Test n° 506
+Number of successes: 506
+Success rate: 100.0 %
+Total number of iterations: 6072
+Average number of iterations: 12
+Total time: 6.419 s
+Average time: 0.006 s
+
+Test n° 507
+Number of successes: 507
+Success rate: 100.0 %
+Total number of iterations: 6084
+Average number of iterations: 12
+Total time: 6.431 s
+Average time: 0.006 s
+
+Test n° 508
+Number of successes: 508
+Success rate: 100.0 %
+Total number of iterations: 6096
+Average number of iterations: 12
+Total time: 6.444 s
+Average time: 0.006 s
+
+Test n° 509
+Number of successes: 509
+Success rate: 100.0 %
+Total number of iterations: 6108
+Average number of iterations: 12
+Total time: 6.457 s
+Average time: 0.006 s
+
+Test n° 510
+Number of successes: 510
+Success rate: 100.0 %
+Total number of iterations: 6120
+Average number of iterations: 12
+Total time: 6.47 s
+Average time: 0.006 s
+
+Test n° 511
+Number of successes: 511
+Success rate: 100.0 %
+Total number of iterations: 6132
+Average number of iterations: 12
+Total time: 6.482 s
+Average time: 0.006 s
+
+Test n° 512
+Number of successes: 512
+Success rate: 100.0 %
+Total number of iterations: 6144
+Average number of iterations: 12
+Total time: 6.494 s
+Average time: 0.006 s
+
+Test n° 513
+Number of successes: 513
+Success rate: 100.0 %
+Total number of iterations: 6156
+Average number of iterations: 12
+Total time: 6.507 s
+Average time: 0.007 s
+
+Test n° 514
+Number of successes: 514
+Success rate: 100.0 %
+Total number of iterations: 6168
+Average number of iterations: 12
+Total time: 6.52 s
+Average time: 0.007 s
+
+Test n° 515
+Number of successes: 515
+Success rate: 100.0 %
+Total number of iterations: 6180
+Average number of iterations: 12
+Total time: 6.532 s
+Average time: 0.007 s
+
+Test n° 516
+Number of successes: 516
+Success rate: 100.0 %
+Total number of iterations: 6192
+Average number of iterations: 12
+Total time: 6.544 s
+Average time: 0.007 s
+
+Test n° 517
+Number of successes: 517
+Success rate: 100.0 %
+Total number of iterations: 6204
+Average number of iterations: 12
+Total time: 6.556 s
+Average time: 0.007 s
+
+Test n° 518
+Number of successes: 518
+Success rate: 100.0 %
+Total number of iterations: 6216
+Average number of iterations: 12
+Total time: 6.569 s
+Average time: 0.007 s
+
+Test n° 519
+Number of successes: 519
+Success rate: 100.0 %
+Total number of iterations: 6228
+Average number of iterations: 12
+Total time: 6.582 s
+Average time: 0.007 s
+
+Test n° 520
+Number of successes: 520
+Success rate: 100.0 %
+Total number of iterations: 6240
+Average number of iterations: 12
+Total time: 6.594 s
+Average time: 0.007 s
+
+Test n° 521
+Number of successes: 521
+Success rate: 100.0 %
+Total number of iterations: 6252
+Average number of iterations: 12
+Total time: 6.607 s
+Average time: 0.007 s
+
+Test n° 522
+Number of successes: 522
+Success rate: 100.0 %
+Total number of iterations: 6264
+Average number of iterations: 12
+Total time: 6.62 s
+Average time: 0.007 s
+
+Test n° 523
+Number of successes: 523
+Success rate: 100.0 %
+Total number of iterations: 6276
+Average number of iterations: 12
+Total time: 6.633 s
+Average time: 0.007 s
+
+Test n° 524
+Number of successes: 524
+Success rate: 100.0 %
+Total number of iterations: 6288
+Average number of iterations: 12
+Total time: 6.645 s
+Average time: 0.007 s
+
+Test n° 525
+Number of successes: 525
+Success rate: 100.0 %
+Total number of iterations: 6300
+Average number of iterations: 12
+Total time: 6.659 s
+Average time: 0.007 s
+
+Test n° 526
+Number of successes: 526
+Success rate: 100.0 %
+Total number of iterations: 6312
+Average number of iterations: 12
+Total time: 6.671 s
+Average time: 0.007 s
+
+Test n° 527
+Number of successes: 527
+Success rate: 100.0 %
+Total number of iterations: 6324
+Average number of iterations: 12
+Total time: 6.684 s
+Average time: 0.007 s
+
+Test n° 528
+Number of successes: 528
+Success rate: 100.0 %
+Total number of iterations: 6336
+Average number of iterations: 12
+Total time: 6.696 s
+Average time: 0.007 s
+
+Test n° 529
+Number of successes: 529
+Success rate: 100.0 %
+Total number of iterations: 6348
+Average number of iterations: 12
+Total time: 6.709 s
+Average time: 0.007 s
+
+Test n° 530
+Number of successes: 530
+Success rate: 100.0 %
+Total number of iterations: 6360
+Average number of iterations: 12
+Total time: 6.722 s
+Average time: 0.007 s
+
+Test n° 531
+Number of successes: 531
+Success rate: 100.0 %
+Total number of iterations: 6372
+Average number of iterations: 12
+Total time: 6.734 s
+Average time: 0.007 s
+
+Test n° 532
+Number of successes: 532
+Success rate: 100.0 %
+Total number of iterations: 6384
+Average number of iterations: 12
+Total time: 6.747 s
+Average time: 0.007 s
+
+Test n° 533
+Number of successes: 533
+Success rate: 100.0 %
+Total number of iterations: 6396
+Average number of iterations: 12
+Total time: 6.759 s
+Average time: 0.007 s
+
+Test n° 534
+Number of successes: 534
+Success rate: 100.0 %
+Total number of iterations: 6408
+Average number of iterations: 12
+Total time: 6.771 s
+Average time: 0.007 s
+
+Test n° 535
+Number of successes: 535
+Success rate: 100.0 %
+Total number of iterations: 6420
+Average number of iterations: 12
+Total time: 6.785 s
+Average time: 0.007 s
+
+Test n° 536
+Number of successes: 536
+Success rate: 100.0 %
+Total number of iterations: 6432
+Average number of iterations: 12
+Total time: 6.798 s
+Average time: 0.007 s
+
+Test n° 537
+Number of successes: 537
+Success rate: 100.0 %
+Total number of iterations: 6444
+Average number of iterations: 12
+Total time: 6.81 s
+Average time: 0.007 s
+
+Test n° 538
+Number of successes: 538
+Success rate: 100.0 %
+Total number of iterations: 6456
+Average number of iterations: 12
+Total time: 6.823 s
+Average time: 0.007 s
+
+Test n° 539
+Number of successes: 539
+Success rate: 100.0 %
+Total number of iterations: 6468
+Average number of iterations: 12
+Total time: 6.837 s
+Average time: 0.007 s
+
+Test n° 540
+Number of successes: 540
+Success rate: 100.0 %
+Total number of iterations: 6480
+Average number of iterations: 12
+Total time: 6.849 s
+Average time: 0.007 s
+
+Test n° 541
+Number of successes: 541
+Success rate: 100.0 %
+Total number of iterations: 6492
+Average number of iterations: 12
+Total time: 6.862 s
+Average time: 0.007 s
+
+Test n° 542
+Number of successes: 542
+Success rate: 100.0 %
+Total number of iterations: 6504
+Average number of iterations: 12
+Total time: 6.874 s
+Average time: 0.007 s
+
+Test n° 543
+Number of successes: 543
+Success rate: 100.0 %
+Total number of iterations: 6516
+Average number of iterations: 12
+Total time: 6.887 s
+Average time: 0.007 s
+
+Test n° 544
+Number of successes: 544
+Success rate: 100.0 %
+Total number of iterations: 6528
+Average number of iterations: 12
+Total time: 6.899 s
+Average time: 0.007 s
+
+Test n° 545
+Number of successes: 545
+Success rate: 100.0 %
+Total number of iterations: 6540
+Average number of iterations: 12
+Total time: 6.912 s
+Average time: 0.007 s
+
+Test n° 546
+Number of successes: 546
+Success rate: 100.0 %
+Total number of iterations: 6552
+Average number of iterations: 12
+Total time: 6.925 s
+Average time: 0.007 s
+
+Test n° 547
+Number of successes: 547
+Success rate: 100.0 %
+Total number of iterations: 6564
+Average number of iterations: 12
+Total time: 6.937 s
+Average time: 0.007 s
+
+Test n° 548
+Number of successes: 548
+Success rate: 100.0 %
+Total number of iterations: 6576
+Average number of iterations: 12
+Total time: 6.95 s
+Average time: 0.007 s
+
+Test n° 549
+Number of successes: 549
+Success rate: 100.0 %
+Total number of iterations: 6588
+Average number of iterations: 12
+Total time: 6.963 s
+Average time: 0.007 s
+
+Test n° 550
+Number of successes: 550
+Success rate: 100.0 %
+Total number of iterations: 6600
+Average number of iterations: 12
+Total time: 6.975 s
+Average time: 0.007 s
+
+Test n° 551
+Number of successes: 551
+Success rate: 100.0 %
+Total number of iterations: 6612
+Average number of iterations: 12
+Total time: 6.989 s
+Average time: 0.007 s
+
+Test n° 552
+Number of successes: 552
+Success rate: 100.0 %
+Total number of iterations: 6624
+Average number of iterations: 12
+Total time: 7.002 s
+Average time: 0.007 s
+
+Test n° 553
+Number of successes: 553
+Success rate: 100.0 %
+Total number of iterations: 6636
+Average number of iterations: 12
+Total time: 7.016 s
+Average time: 0.007 s
+
+Test n° 554
+Number of successes: 554
+Success rate: 100.0 %
+Total number of iterations: 6648
+Average number of iterations: 12
+Total time: 7.028 s
+Average time: 0.007 s
+
+Test n° 555
+Number of successes: 555
+Success rate: 100.0 %
+Total number of iterations: 6660
+Average number of iterations: 12
+Total time: 7.04 s
+Average time: 0.007 s
+
+Test n° 556
+Number of successes: 556
+Success rate: 100.0 %
+Total number of iterations: 6672
+Average number of iterations: 12
+Total time: 7.053 s
+Average time: 0.007 s
+
+Test n° 557
+Number of successes: 557
+Success rate: 100.0 %
+Total number of iterations: 6684
+Average number of iterations: 12
+Total time: 7.066 s
+Average time: 0.007 s
+
+Test n° 558
+Number of successes: 558
+Success rate: 100.0 %
+Total number of iterations: 6696
+Average number of iterations: 12
+Total time: 7.079 s
+Average time: 0.007 s
+
+Test n° 559
+Number of successes: 559
+Success rate: 100.0 %
+Total number of iterations: 6708
+Average number of iterations: 12
+Total time: 7.092 s
+Average time: 0.007 s
+
+Test n° 560
+Number of successes: 560
+Success rate: 100.0 %
+Total number of iterations: 6720
+Average number of iterations: 12
+Total time: 7.105 s
+Average time: 0.007 s
+
+Test n° 561
+Number of successes: 561
+Success rate: 100.0 %
+Total number of iterations: 6732
+Average number of iterations: 12
+Total time: 7.118 s
+Average time: 0.007 s
+
+Test n° 562
+Number of successes: 562
+Success rate: 100.0 %
+Total number of iterations: 6744
+Average number of iterations: 12
+Total time: 7.13 s
+Average time: 0.007 s
+
+Test n° 563
+Number of successes: 563
+Success rate: 100.0 %
+Total number of iterations: 6756
+Average number of iterations: 12
+Total time: 7.143 s
+Average time: 0.007 s
+
+Test n° 564
+Number of successes: 564
+Success rate: 100.0 %
+Total number of iterations: 6768
+Average number of iterations: 12
+Total time: 7.156 s
+Average time: 0.007 s
+
+Test n° 565
+Number of successes: 565
+Success rate: 100.0 %
+Total number of iterations: 6780
+Average number of iterations: 12
+Total time: 7.168 s
+Average time: 0.007 s
+
+Test n° 566
+Number of successes: 566
+Success rate: 100.0 %
+Total number of iterations: 6792
+Average number of iterations: 12
+Total time: 7.18 s
+Average time: 0.007 s
+
+Test n° 567
+Number of successes: 567
+Success rate: 100.0 %
+Total number of iterations: 6804
+Average number of iterations: 12
+Total time: 7.193 s
+Average time: 0.007 s
+
+Test n° 568
+Number of successes: 568
+Success rate: 100.0 %
+Total number of iterations: 6816
+Average number of iterations: 12
+Total time: 7.205 s
+Average time: 0.007 s
+
+Test n° 569
+Number of successes: 569
+Success rate: 100.0 %
+Total number of iterations: 6828
+Average number of iterations: 12
+Total time: 7.218 s
+Average time: 0.007 s
+
+Test n° 570
+Number of successes: 570
+Success rate: 100.0 %
+Total number of iterations: 6840
+Average number of iterations: 12
+Total time: 7.231 s
+Average time: 0.007 s
+
+Test n° 571
+Number of successes: 571
+Success rate: 100.0 %
+Total number of iterations: 6852
+Average number of iterations: 12
+Total time: 7.243 s
+Average time: 0.007 s
+
+Test n° 572
+Number of successes: 572
+Success rate: 100.0 %
+Total number of iterations: 6864
+Average number of iterations: 12
+Total time: 7.256 s
+Average time: 0.007 s
+
+Test n° 573
+Number of successes: 573
+Success rate: 100.0 %
+Total number of iterations: 6876
+Average number of iterations: 12
+Total time: 7.268 s
+Average time: 0.007 s
+
+Test n° 574
+Number of successes: 574
+Success rate: 100.0 %
+Total number of iterations: 6888
+Average number of iterations: 12
+Total time: 7.281 s
+Average time: 0.007 s
+
+Test n° 575
+Number of successes: 575
+Success rate: 100.0 %
+Total number of iterations: 6900
+Average number of iterations: 12
+Total time: 7.293 s
+Average time: 0.007 s
+
+Test n° 576
+Number of successes: 576
+Success rate: 100.0 %
+Total number of iterations: 6912
+Average number of iterations: 12
+Total time: 7.307 s
+Average time: 0.007 s
+
+Test n° 577
+Number of successes: 577
+Success rate: 100.0 %
+Total number of iterations: 6924
+Average number of iterations: 12
+Total time: 7.321 s
+Average time: 0.007 s
+
+Test n° 578
+Number of successes: 578
+Success rate: 100.0 %
+Total number of iterations: 6936
+Average number of iterations: 12
+Total time: 7.334 s
+Average time: 0.007 s
+
+Test n° 579
+Number of successes: 579
+Success rate: 100.0 %
+Total number of iterations: 6948
+Average number of iterations: 12
+Total time: 7.347 s
+Average time: 0.007 s
+
+Test n° 580
+Number of successes: 580
+Success rate: 100.0 %
+Total number of iterations: 6960
+Average number of iterations: 12
+Total time: 7.36 s
+Average time: 0.007 s
+
+Test n° 581
+Number of successes: 581
+Success rate: 100.0 %
+Total number of iterations: 6972
+Average number of iterations: 12
+Total time: 7.372 s
+Average time: 0.007 s
+
+Test n° 582
+Number of successes: 582
+Success rate: 100.0 %
+Total number of iterations: 6984
+Average number of iterations: 12
+Total time: 7.385 s
+Average time: 0.007 s
+
+Test n° 583
+Number of successes: 583
+Success rate: 100.0 %
+Total number of iterations: 6996
+Average number of iterations: 12
+Total time: 7.397 s
+Average time: 0.007 s
+
+Test n° 584
+Number of successes: 584
+Success rate: 100.0 %
+Total number of iterations: 7008
+Average number of iterations: 12
+Total time: 7.41 s
+Average time: 0.007 s
+
+Test n° 585
+Number of successes: 585
+Success rate: 100.0 %
+Total number of iterations: 7020
+Average number of iterations: 12
+Total time: 7.423 s
+Average time: 0.007 s
+
+Test n° 586
+Number of successes: 586
+Success rate: 100.0 %
+Total number of iterations: 7032
+Average number of iterations: 12
+Total time: 7.435 s
+Average time: 0.007 s
+
+Test n° 587
+Number of successes: 587
+Success rate: 100.0 %
+Total number of iterations: 7044
+Average number of iterations: 12
+Total time: 7.448 s
+Average time: 0.007 s
+
+Test n° 588
+Number of successes: 588
+Success rate: 100.0 %
+Total number of iterations: 7056
+Average number of iterations: 12
+Total time: 7.461 s
+Average time: 0.007 s
+
+Test n° 589
+Number of successes: 589
+Success rate: 100.0 %
+Total number of iterations: 7068
+Average number of iterations: 12
+Total time: 7.473 s
+Average time: 0.007 s
+
+Test n° 590
+Number of successes: 590
+Success rate: 100.0 %
+Total number of iterations: 7080
+Average number of iterations: 12
+Total time: 7.485 s
+Average time: 0.007 s
+
+Test n° 591
+Number of successes: 591
+Success rate: 100.0 %
+Total number of iterations: 7092
+Average number of iterations: 12
+Total time: 7.498 s
+Average time: 0.007 s
+
+Test n° 592
+Number of successes: 592
+Success rate: 100.0 %
+Total number of iterations: 7104
+Average number of iterations: 12
+Total time: 7.51 s
+Average time: 0.008 s
+
+Test n° 593
+Number of successes: 593
+Success rate: 100.0 %
+Total number of iterations: 7116
+Average number of iterations: 12
+Total time: 7.523 s
+Average time: 0.008 s
+
+Test n° 594
+Number of successes: 594
+Success rate: 100.0 %
+Total number of iterations: 7128
+Average number of iterations: 12
+Total time: 7.536 s
+Average time: 0.008 s
+
+Test n° 595
+Number of successes: 595
+Success rate: 100.0 %
+Total number of iterations: 7140
+Average number of iterations: 12
+Total time: 7.549 s
+Average time: 0.008 s
+
+Test n° 596
+Number of successes: 596
+Success rate: 100.0 %
+Total number of iterations: 7152
+Average number of iterations: 12
+Total time: 7.561 s
+Average time: 0.008 s
+
+Test n° 597
+Number of successes: 597
+Success rate: 100.0 %
+Total number of iterations: 7164
+Average number of iterations: 12
+Total time: 7.574 s
+Average time: 0.008 s
+
+Test n° 598
+Number of successes: 598
+Success rate: 100.0 %
+Total number of iterations: 7176
+Average number of iterations: 12
+Total time: 7.587 s
+Average time: 0.008 s
+
+Test n° 599
+Number of successes: 599
+Success rate: 100.0 %
+Total number of iterations: 7188
+Average number of iterations: 12
+Total time: 7.6 s
+Average time: 0.008 s
+
+Test n° 600
+Number of successes: 600
+Success rate: 100.0 %
+Total number of iterations: 7200
+Average number of iterations: 12
+Total time: 7.612 s
+Average time: 0.008 s
+
+Test n° 601
+Number of successes: 601
+Success rate: 100.0 %
+Total number of iterations: 7212
+Average number of iterations: 12
+Total time: 7.625 s
+Average time: 0.008 s
+
+Test n° 602
+Number of successes: 602
+Success rate: 100.0 %
+Total number of iterations: 7224
+Average number of iterations: 12
+Total time: 7.638 s
+Average time: 0.008 s
+
+Test n° 603
+Number of successes: 603
+Success rate: 100.0 %
+Total number of iterations: 7236
+Average number of iterations: 12
+Total time: 7.651 s
+Average time: 0.008 s
+
+Test n° 604
+Number of successes: 604
+Success rate: 100.0 %
+Total number of iterations: 7248
+Average number of iterations: 12
+Total time: 7.664 s
+Average time: 0.008 s
+
+Test n° 605
+Number of successes: 605
+Success rate: 100.0 %
+Total number of iterations: 7260
+Average number of iterations: 12
+Total time: 7.676 s
+Average time: 0.008 s
+
+Test n° 606
+Number of successes: 606
+Success rate: 100.0 %
+Total number of iterations: 7272
+Average number of iterations: 12
+Total time: 7.688 s
+Average time: 0.008 s
+
+Test n° 607
+Number of successes: 607
+Success rate: 100.0 %
+Total number of iterations: 7284
+Average number of iterations: 12
+Total time: 7.701 s
+Average time: 0.008 s
+
+Test n° 608
+Number of successes: 608
+Success rate: 100.0 %
+Total number of iterations: 7296
+Average number of iterations: 12
+Total time: 7.714 s
+Average time: 0.008 s
+
+Test n° 609
+Number of successes: 609
+Success rate: 100.0 %
+Total number of iterations: 7308
+Average number of iterations: 12
+Total time: 7.726 s
+Average time: 0.008 s
+
+Test n° 610
+Number of successes: 610
+Success rate: 100.0 %
+Total number of iterations: 7320
+Average number of iterations: 12
+Total time: 7.738 s
+Average time: 0.008 s
+
+Test n° 611
+Number of successes: 611
+Success rate: 100.0 %
+Total number of iterations: 7332
+Average number of iterations: 12
+Total time: 7.75 s
+Average time: 0.008 s
+
+Test n° 612
+Number of successes: 612
+Success rate: 100.0 %
+Total number of iterations: 7344
+Average number of iterations: 12
+Total time: 7.763 s
+Average time: 0.008 s
+
+Test n° 613
+Number of successes: 613
+Success rate: 100.0 %
+Total number of iterations: 7356
+Average number of iterations: 12
+Total time: 7.776 s
+Average time: 0.008 s
+
+Test n° 614
+Number of successes: 614
+Success rate: 100.0 %
+Total number of iterations: 7368
+Average number of iterations: 12
+Total time: 7.788 s
+Average time: 0.008 s
+
+Test n° 615
+Number of successes: 615
+Success rate: 100.0 %
+Total number of iterations: 7380
+Average number of iterations: 12
+Total time: 7.801 s
+Average time: 0.008 s
+
+Test n° 616
+Number of successes: 616
+Success rate: 100.0 %
+Total number of iterations: 7392
+Average number of iterations: 12
+Total time: 7.813 s
+Average time: 0.008 s
+
+Test n° 617
+Number of successes: 617
+Success rate: 100.0 %
+Total number of iterations: 7404
+Average number of iterations: 12
+Total time: 7.826 s
+Average time: 0.008 s
+
+Test n° 618
+Number of successes: 618
+Success rate: 100.0 %
+Total number of iterations: 7416
+Average number of iterations: 12
+Total time: 7.839 s
+Average time: 0.008 s
+
+Test n° 619
+Number of successes: 619
+Success rate: 100.0 %
+Total number of iterations: 7428
+Average number of iterations: 12
+Total time: 7.852 s
+Average time: 0.008 s
+
+Test n° 620
+Number of successes: 620
+Success rate: 100.0 %
+Total number of iterations: 7440
+Average number of iterations: 12
+Total time: 7.865 s
+Average time: 0.008 s
+
+Test n° 621
+Number of successes: 621
+Success rate: 100.0 %
+Total number of iterations: 7452
+Average number of iterations: 12
+Total time: 7.877 s
+Average time: 0.008 s
+
+Test n° 622
+Number of successes: 622
+Success rate: 100.0 %
+Total number of iterations: 7464
+Average number of iterations: 12
+Total time: 7.89 s
+Average time: 0.008 s
+
+Test n° 623
+Number of successes: 623
+Success rate: 100.0 %
+Total number of iterations: 7476
+Average number of iterations: 12
+Total time: 7.903 s
+Average time: 0.008 s
+
+Test n° 624
+Number of successes: 624
+Success rate: 100.0 %
+Total number of iterations: 7488
+Average number of iterations: 12
+Total time: 7.915 s
+Average time: 0.008 s
+
+Test n° 625
+Number of successes: 625
+Success rate: 100.0 %
+Total number of iterations: 7500
+Average number of iterations: 12
+Total time: 7.928 s
+Average time: 0.008 s
+
+Test n° 626
+Number of successes: 626
+Success rate: 100.0 %
+Total number of iterations: 7512
+Average number of iterations: 12
+Total time: 7.941 s
+Average time: 0.008 s
+
+Test n° 627
+Number of successes: 627
+Success rate: 100.0 %
+Total number of iterations: 7524
+Average number of iterations: 12
+Total time: 7.954 s
+Average time: 0.008 s
+
+Test n° 628
+Number of successes: 628
+Success rate: 100.0 %
+Total number of iterations: 7536
+Average number of iterations: 12
+Total time: 7.966 s
+Average time: 0.008 s
+
+Test n° 629
+Number of successes: 629
+Success rate: 100.0 %
+Total number of iterations: 7548
+Average number of iterations: 12
+Total time: 7.978 s
+Average time: 0.008 s
+
+Test n° 630
+Number of successes: 630
+Success rate: 100.0 %
+Total number of iterations: 7560
+Average number of iterations: 12
+Total time: 7.991 s
+Average time: 0.008 s
+
+Test n° 631
+Number of successes: 631
+Success rate: 100.0 %
+Total number of iterations: 7572
+Average number of iterations: 12
+Total time: 8.005 s
+Average time: 0.008 s
+
+Test n° 632
+Number of successes: 632
+Success rate: 100.0 %
+Total number of iterations: 7584
+Average number of iterations: 12
+Total time: 8.017 s
+Average time: 0.008 s
+
+Test n° 633
+Number of successes: 633
+Success rate: 100.0 %
+Total number of iterations: 7596
+Average number of iterations: 12
+Total time: 8.03 s
+Average time: 0.008 s
+
+Test n° 634
+Number of successes: 634
+Success rate: 100.0 %
+Total number of iterations: 7608
+Average number of iterations: 12
+Total time: 8.043 s
+Average time: 0.008 s
+
+Test n° 635
+Number of successes: 635
+Success rate: 100.0 %
+Total number of iterations: 7620
+Average number of iterations: 12
+Total time: 8.055 s
+Average time: 0.008 s
+
+Test n° 636
+Number of successes: 636
+Success rate: 100.0 %
+Total number of iterations: 7632
+Average number of iterations: 12
+Total time: 8.068 s
+Average time: 0.008 s
+
+Test n° 637
+Number of successes: 637
+Success rate: 100.0 %
+Total number of iterations: 7644
+Average number of iterations: 12
+Total time: 8.081 s
+Average time: 0.008 s
+
+Test n° 638
+Number of successes: 638
+Success rate: 100.0 %
+Total number of iterations: 7656
+Average number of iterations: 12
+Total time: 8.093 s
+Average time: 0.008 s
+
+Test n° 639
+Number of successes: 639
+Success rate: 100.0 %
+Total number of iterations: 7668
+Average number of iterations: 12
+Total time: 8.106 s
+Average time: 0.008 s
+
+Test n° 640
+Number of successes: 640
+Success rate: 100.0 %
+Total number of iterations: 7680
+Average number of iterations: 12
+Total time: 8.12 s
+Average time: 0.008 s
+
+Test n° 641
+Number of successes: 641
+Success rate: 100.0 %
+Total number of iterations: 7692
+Average number of iterations: 12
+Total time: 8.132 s
+Average time: 0.008 s
+
+Test n° 642
+Number of successes: 642
+Success rate: 100.0 %
+Total number of iterations: 7704
+Average number of iterations: 12
+Total time: 8.15 s
+Average time: 0.008 s
+
+Test n° 643
+Number of successes: 643
+Success rate: 100.0 %
+Total number of iterations: 7716
+Average number of iterations: 12
+Total time: 8.163 s
+Average time: 0.008 s
+
+Test n° 644
+Number of successes: 644
+Success rate: 100.0 %
+Total number of iterations: 7728
+Average number of iterations: 12
+Total time: 8.176 s
+Average time: 0.008 s
+
+Test n° 645
+Number of successes: 645
+Success rate: 100.0 %
+Total number of iterations: 7740
+Average number of iterations: 12
+Total time: 8.189 s
+Average time: 0.008 s
+
+Test n° 646
+Number of successes: 646
+Success rate: 100.0 %
+Total number of iterations: 7752
+Average number of iterations: 12
+Total time: 8.202 s
+Average time: 0.008 s
+
+Test n° 647
+Number of successes: 647
+Success rate: 100.0 %
+Total number of iterations: 7764
+Average number of iterations: 12
+Total time: 8.214 s
+Average time: 0.008 s
+
+Test n° 648
+Number of successes: 648
+Success rate: 100.0 %
+Total number of iterations: 7776
+Average number of iterations: 12
+Total time: 8.228 s
+Average time: 0.008 s
+
+Test n° 649
+Number of successes: 649
+Success rate: 100.0 %
+Total number of iterations: 7788
+Average number of iterations: 12
+Total time: 8.241 s
+Average time: 0.008 s
+
+Test n° 650
+Number of successes: 650
+Success rate: 100.0 %
+Total number of iterations: 7800
+Average number of iterations: 12
+Total time: 8.254 s
+Average time: 0.008 s
+
+Test n° 651
+Number of successes: 651
+Success rate: 100.0 %
+Total number of iterations: 7812
+Average number of iterations: 12
+Total time: 8.266 s
+Average time: 0.008 s
+
+Test n° 652
+Number of successes: 652
+Success rate: 100.0 %
+Total number of iterations: 7824
+Average number of iterations: 12
+Total time: 8.279 s
+Average time: 0.008 s
+
+Test n° 653
+Number of successes: 653
+Success rate: 100.0 %
+Total number of iterations: 7836
+Average number of iterations: 12
+Total time: 8.292 s
+Average time: 0.008 s
+
+Test n° 654
+Number of successes: 654
+Success rate: 100.0 %
+Total number of iterations: 7848
+Average number of iterations: 12
+Total time: 8.304 s
+Average time: 0.008 s
+
+Test n° 655
+Number of successes: 655
+Success rate: 100.0 %
+Total number of iterations: 7860
+Average number of iterations: 12
+Total time: 8.317 s
+Average time: 0.008 s
+
+Test n° 656
+Number of successes: 656
+Success rate: 100.0 %
+Total number of iterations: 7872
+Average number of iterations: 12
+Total time: 8.33 s
+Average time: 0.008 s
+
+Test n° 657
+Number of successes: 657
+Success rate: 100.0 %
+Total number of iterations: 7884
+Average number of iterations: 12
+Total time: 8.342 s
+Average time: 0.008 s
+
+Test n° 658
+Number of successes: 658
+Success rate: 100.0 %
+Total number of iterations: 7896
+Average number of iterations: 12
+Total time: 8.355 s
+Average time: 0.008 s
+
+Test n° 659
+Number of successes: 659
+Success rate: 100.0 %
+Total number of iterations: 7908
+Average number of iterations: 12
+Total time: 8.368 s
+Average time: 0.008 s
+
+Test n° 660
+Number of successes: 660
+Success rate: 100.0 %
+Total number of iterations: 7920
+Average number of iterations: 12
+Total time: 8.38 s
+Average time: 0.008 s
+
+Test n° 661
+Number of successes: 661
+Success rate: 100.0 %
+Total number of iterations: 7932
+Average number of iterations: 12
+Total time: 8.393 s
+Average time: 0.008 s
+
+Test n° 662
+Number of successes: 662
+Success rate: 100.0 %
+Total number of iterations: 7944
+Average number of iterations: 12
+Total time: 8.405 s
+Average time: 0.008 s
+
+Test n° 663
+Number of successes: 663
+Success rate: 100.0 %
+Total number of iterations: 7956
+Average number of iterations: 12
+Total time: 8.418 s
+Average time: 0.008 s
+
+Test n° 664
+Number of successes: 664
+Success rate: 100.0 %
+Total number of iterations: 7968
+Average number of iterations: 12
+Total time: 8.43 s
+Average time: 0.008 s
+
+Test n° 665
+Number of successes: 665
+Success rate: 100.0 %
+Total number of iterations: 7980
+Average number of iterations: 12
+Total time: 8.443 s
+Average time: 0.008 s
+
+Test n° 666
+Number of successes: 666
+Success rate: 100.0 %
+Total number of iterations: 7992
+Average number of iterations: 12
+Total time: 8.455 s
+Average time: 0.008 s
+
+Test n° 667
+Number of successes: 667
+Success rate: 100.0 %
+Total number of iterations: 8004
+Average number of iterations: 12
+Total time: 8.468 s
+Average time: 0.008 s
+
+Test n° 668
+Number of successes: 668
+Success rate: 100.0 %
+Total number of iterations: 8016
+Average number of iterations: 12
+Total time: 8.48 s
+Average time: 0.008 s
+
+Test n° 669
+Number of successes: 669
+Success rate: 100.0 %
+Total number of iterations: 8028
+Average number of iterations: 12
+Total time: 8.492 s
+Average time: 0.008 s
+
+Test n° 670
+Number of successes: 670
+Success rate: 100.0 %
+Total number of iterations: 8040
+Average number of iterations: 12
+Total time: 8.505 s
+Average time: 0.009 s
+
+Test n° 671
+Number of successes: 671
+Success rate: 100.0 %
+Total number of iterations: 8052
+Average number of iterations: 12
+Total time: 8.517 s
+Average time: 0.009 s
+
+Test n° 672
+Number of successes: 672
+Success rate: 100.0 %
+Total number of iterations: 8064
+Average number of iterations: 12
+Total time: 8.53 s
+Average time: 0.009 s
+
+Test n° 673
+Number of successes: 673
+Success rate: 100.0 %
+Total number of iterations: 8076
+Average number of iterations: 12
+Total time: 8.542 s
+Average time: 0.009 s
+
+Test n° 674
+Number of successes: 674
+Success rate: 100.0 %
+Total number of iterations: 8088
+Average number of iterations: 12
+Total time: 8.555 s
+Average time: 0.009 s
+
+Test n° 675
+Number of successes: 675
+Success rate: 100.0 %
+Total number of iterations: 8100
+Average number of iterations: 12
+Total time: 8.567 s
+Average time: 0.009 s
+
+Test n° 676
+Number of successes: 676
+Success rate: 100.0 %
+Total number of iterations: 8112
+Average number of iterations: 12
+Total time: 8.579 s
+Average time: 0.009 s
+
+Test n° 677
+Number of successes: 677
+Success rate: 100.0 %
+Total number of iterations: 8124
+Average number of iterations: 12
+Total time: 8.592 s
+Average time: 0.009 s
+
+Test n° 678
+Number of successes: 678
+Success rate: 100.0 %
+Total number of iterations: 8136
+Average number of iterations: 12
+Total time: 8.605 s
+Average time: 0.009 s
+
+Test n° 679
+Number of successes: 679
+Success rate: 100.0 %
+Total number of iterations: 8148
+Average number of iterations: 12
+Total time: 8.618 s
+Average time: 0.009 s
+
+Test n° 680
+Number of successes: 680
+Success rate: 100.0 %
+Total number of iterations: 8160
+Average number of iterations: 12
+Total time: 8.631 s
+Average time: 0.009 s
+
+Test n° 681
+Number of successes: 681
+Success rate: 100.0 %
+Total number of iterations: 8172
+Average number of iterations: 12
+Total time: 8.643 s
+Average time: 0.009 s
+
+Test n° 682
+Number of successes: 682
+Success rate: 100.0 %
+Total number of iterations: 8184
+Average number of iterations: 12
+Total time: 8.656 s
+Average time: 0.009 s
+
+Test n° 683
+Number of successes: 683
+Success rate: 100.0 %
+Total number of iterations: 8196
+Average number of iterations: 12
+Total time: 8.669 s
+Average time: 0.009 s
+
+Test n° 684
+Number of successes: 684
+Success rate: 100.0 %
+Total number of iterations: 8208
+Average number of iterations: 12
+Total time: 8.682 s
+Average time: 0.009 s
+
+Test n° 685
+Number of successes: 685
+Success rate: 100.0 %
+Total number of iterations: 8220
+Average number of iterations: 12
+Total time: 8.695 s
+Average time: 0.009 s
+
+Test n° 686
+Number of successes: 686
+Success rate: 100.0 %
+Total number of iterations: 8232
+Average number of iterations: 12
+Total time: 8.708 s
+Average time: 0.009 s
+
+Test n° 687
+Number of successes: 687
+Success rate: 100.0 %
+Total number of iterations: 8244
+Average number of iterations: 12
+Total time: 8.721 s
+Average time: 0.009 s
+
+Test n° 688
+Number of successes: 688
+Success rate: 100.0 %
+Total number of iterations: 8256
+Average number of iterations: 12
+Total time: 8.733 s
+Average time: 0.009 s
+
+Test n° 689
+Number of successes: 689
+Success rate: 100.0 %
+Total number of iterations: 8268
+Average number of iterations: 12
+Total time: 8.746 s
+Average time: 0.009 s
+
+Test n° 690
+Number of successes: 690
+Success rate: 100.0 %
+Total number of iterations: 8280
+Average number of iterations: 12
+Total time: 8.759 s
+Average time: 0.009 s
+
+Test n° 691
+Number of successes: 691
+Success rate: 100.0 %
+Total number of iterations: 8292
+Average number of iterations: 12
+Total time: 8.772 s
+Average time: 0.009 s
+
+Test n° 692
+Number of successes: 692
+Success rate: 100.0 %
+Total number of iterations: 8304
+Average number of iterations: 12
+Total time: 8.785 s
+Average time: 0.009 s
+
+Test n° 693
+Number of successes: 693
+Success rate: 100.0 %
+Total number of iterations: 8316
+Average number of iterations: 12
+Total time: 8.797 s
+Average time: 0.009 s
+
+Test n° 694
+Number of successes: 694
+Success rate: 100.0 %
+Total number of iterations: 8328
+Average number of iterations: 12
+Total time: 8.81 s
+Average time: 0.009 s
+
+Test n° 695
+Number of successes: 695
+Success rate: 100.0 %
+Total number of iterations: 8340
+Average number of iterations: 12
+Total time: 8.822 s
+Average time: 0.009 s
+
+Test n° 696
+Number of successes: 696
+Success rate: 100.0 %
+Total number of iterations: 8352
+Average number of iterations: 12
+Total time: 8.835 s
+Average time: 0.009 s
+
+Test n° 697
+Number of successes: 697
+Success rate: 100.0 %
+Total number of iterations: 8364
+Average number of iterations: 12
+Total time: 8.847 s
+Average time: 0.009 s
+
+Test n° 698
+Number of successes: 698
+Success rate: 100.0 %
+Total number of iterations: 8376
+Average number of iterations: 12
+Total time: 8.86 s
+Average time: 0.009 s
+
+Test n° 699
+Number of successes: 699
+Success rate: 100.0 %
+Total number of iterations: 8388
+Average number of iterations: 12
+Total time: 8.872 s
+Average time: 0.009 s
+
+Test n° 700
+Number of successes: 700
+Success rate: 100.0 %
+Total number of iterations: 8400
+Average number of iterations: 12
+Total time: 8.885 s
+Average time: 0.009 s
+
+Test n° 701
+Number of successes: 701
+Success rate: 100.0 %
+Total number of iterations: 8412
+Average number of iterations: 12
+Total time: 8.898 s
+Average time: 0.009 s
+
+Test n° 702
+Number of successes: 702
+Success rate: 100.0 %
+Total number of iterations: 8424
+Average number of iterations: 12
+Total time: 8.911 s
+Average time: 0.009 s
+
+Test n° 703
+Number of successes: 703
+Success rate: 100.0 %
+Total number of iterations: 8436
+Average number of iterations: 12
+Total time: 8.923 s
+Average time: 0.009 s
+
+Test n° 704
+Number of successes: 704
+Success rate: 100.0 %
+Total number of iterations: 8448
+Average number of iterations: 12
+Total time: 8.936 s
+Average time: 0.009 s
+
+Test n° 705
+Number of successes: 705
+Success rate: 100.0 %
+Total number of iterations: 8460
+Average number of iterations: 12
+Total time: 8.949 s
+Average time: 0.009 s
+
+Test n° 706
+Number of successes: 706
+Success rate: 100.0 %
+Total number of iterations: 8472
+Average number of iterations: 12
+Total time: 8.961 s
+Average time: 0.009 s
+
+Test n° 707
+Number of successes: 707
+Success rate: 100.0 %
+Total number of iterations: 8484
+Average number of iterations: 12
+Total time: 8.974 s
+Average time: 0.009 s
+
+Test n° 708
+Number of successes: 708
+Success rate: 100.0 %
+Total number of iterations: 8496
+Average number of iterations: 12
+Total time: 8.986 s
+Average time: 0.009 s
+
+Test n° 709
+Number of successes: 709
+Success rate: 100.0 %
+Total number of iterations: 8508
+Average number of iterations: 12
+Total time: 8.999 s
+Average time: 0.009 s
+
+Test n° 710
+Number of successes: 710
+Success rate: 100.0 %
+Total number of iterations: 8520
+Average number of iterations: 12
+Total time: 9.011 s
+Average time: 0.009 s
+
+Test n° 711
+Number of successes: 711
+Success rate: 100.0 %
+Total number of iterations: 8532
+Average number of iterations: 12
+Total time: 9.024 s
+Average time: 0.009 s
+
+Test n° 712
+Number of successes: 712
+Success rate: 100.0 %
+Total number of iterations: 8544
+Average number of iterations: 12
+Total time: 9.036 s
+Average time: 0.009 s
+
+Test n° 713
+Number of successes: 713
+Success rate: 100.0 %
+Total number of iterations: 8556
+Average number of iterations: 12
+Total time: 9.049 s
+Average time: 0.009 s
+
+Test n° 714
+Number of successes: 714
+Success rate: 100.0 %
+Total number of iterations: 8568
+Average number of iterations: 12
+Total time: 9.062 s
+Average time: 0.009 s
+
+Test n° 715
+Number of successes: 715
+Success rate: 100.0 %
+Total number of iterations: 8580
+Average number of iterations: 12
+Total time: 9.074 s
+Average time: 0.009 s
+
+Test n° 716
+Number of successes: 716
+Success rate: 100.0 %
+Total number of iterations: 8592
+Average number of iterations: 12
+Total time: 9.087 s
+Average time: 0.009 s
+
+Test n° 717
+Number of successes: 717
+Success rate: 100.0 %
+Total number of iterations: 8604
+Average number of iterations: 12
+Total time: 9.1 s
+Average time: 0.009 s
+
+Test n° 718
+Number of successes: 718
+Success rate: 100.0 %
+Total number of iterations: 8616
+Average number of iterations: 12
+Total time: 9.113 s
+Average time: 0.009 s
+
+Test n° 719
+Number of successes: 719
+Success rate: 100.0 %
+Total number of iterations: 8628
+Average number of iterations: 12
+Total time: 9.127 s
+Average time: 0.009 s
+
+Test n° 720
+Number of successes: 720
+Success rate: 100.0 %
+Total number of iterations: 8640
+Average number of iterations: 12
+Total time: 9.139 s
+Average time: 0.009 s
+
+Test n° 721
+Number of successes: 721
+Success rate: 100.0 %
+Total number of iterations: 8652
+Average number of iterations: 12
+Total time: 9.152 s
+Average time: 0.009 s
+
+Test n° 722
+Number of successes: 722
+Success rate: 100.0 %
+Total number of iterations: 8664
+Average number of iterations: 12
+Total time: 9.165 s
+Average time: 0.009 s
+
+Test n° 723
+Number of successes: 723
+Success rate: 100.0 %
+Total number of iterations: 8676
+Average number of iterations: 12
+Total time: 9.177 s
+Average time: 0.009 s
+
+Test n° 724
+Number of successes: 724
+Success rate: 100.0 %
+Total number of iterations: 8688
+Average number of iterations: 12
+Total time: 9.19 s
+Average time: 0.009 s
+
+Test n° 725
+Number of successes: 725
+Success rate: 100.0 %
+Total number of iterations: 8700
+Average number of iterations: 12
+Total time: 9.204 s
+Average time: 0.009 s
+
+Test n° 726
+Number of successes: 726
+Success rate: 100.0 %
+Total number of iterations: 8712
+Average number of iterations: 12
+Total time: 9.217 s
+Average time: 0.009 s
+
+Test n° 727
+Number of successes: 727
+Success rate: 100.0 %
+Total number of iterations: 8724
+Average number of iterations: 12
+Total time: 9.229 s
+Average time: 0.009 s
+
+Test n° 728
+Number of successes: 728
+Success rate: 100.0 %
+Total number of iterations: 8736
+Average number of iterations: 12
+Total time: 9.241 s
+Average time: 0.009 s
+
+Test n° 729
+Number of successes: 729
+Success rate: 100.0 %
+Total number of iterations: 8748
+Average number of iterations: 12
+Total time: 9.254 s
+Average time: 0.009 s
+
+Test n° 730
+Number of successes: 730
+Success rate: 100.0 %
+Total number of iterations: 8760
+Average number of iterations: 12
+Total time: 9.266 s
+Average time: 0.009 s
+
+Test n° 731
+Number of successes: 731
+Success rate: 100.0 %
+Total number of iterations: 8772
+Average number of iterations: 12
+Total time: 9.278 s
+Average time: 0.009 s
+
+Test n° 732
+Number of successes: 732
+Success rate: 100.0 %
+Total number of iterations: 8784
+Average number of iterations: 12
+Total time: 9.291 s
+Average time: 0.009 s
+
+Test n° 733
+Number of successes: 733
+Success rate: 100.0 %
+Total number of iterations: 8796
+Average number of iterations: 12
+Total time: 9.304 s
+Average time: 0.009 s
+
+Test n° 734
+Number of successes: 734
+Success rate: 100.0 %
+Total number of iterations: 8808
+Average number of iterations: 12
+Total time: 9.316 s
+Average time: 0.009 s
+
+Test n° 735
+Number of successes: 735
+Success rate: 100.0 %
+Total number of iterations: 8820
+Average number of iterations: 12
+Total time: 9.329 s
+Average time: 0.009 s
+
+Test n° 736
+Number of successes: 736
+Success rate: 100.0 %
+Total number of iterations: 8832
+Average number of iterations: 12
+Total time: 9.341 s
+Average time: 0.009 s
+
+Test n° 737
+Number of successes: 737
+Success rate: 100.0 %
+Total number of iterations: 8844
+Average number of iterations: 12
+Total time: 9.354 s
+Average time: 0.009 s
+
+Test n° 738
+Number of successes: 738
+Success rate: 100.0 %
+Total number of iterations: 8856
+Average number of iterations: 12
+Total time: 9.366 s
+Average time: 0.009 s
+
+Test n° 739
+Number of successes: 739
+Success rate: 100.0 %
+Total number of iterations: 8868
+Average number of iterations: 12
+Total time: 9.379 s
+Average time: 0.009 s
+
+Test n° 740
+Number of successes: 740
+Success rate: 100.0 %
+Total number of iterations: 8880
+Average number of iterations: 12
+Total time: 9.391 s
+Average time: 0.009 s
+
+Test n° 741
+Number of successes: 741
+Success rate: 100.0 %
+Total number of iterations: 8892
+Average number of iterations: 12
+Total time: 9.404 s
+Average time: 0.009 s
+
+Test n° 742
+Number of successes: 742
+Success rate: 100.0 %
+Total number of iterations: 8904
+Average number of iterations: 12
+Total time: 9.416 s
+Average time: 0.009 s
+
+Test n° 743
+Number of successes: 743
+Success rate: 100.0 %
+Total number of iterations: 8916
+Average number of iterations: 12
+Total time: 9.429 s
+Average time: 0.009 s
+
+Test n° 744
+Number of successes: 744
+Success rate: 100.0 %
+Total number of iterations: 8928
+Average number of iterations: 12
+Total time: 9.441 s
+Average time: 0.009 s
+
+Test n° 745
+Number of successes: 745
+Success rate: 100.0 %
+Total number of iterations: 8940
+Average number of iterations: 12
+Total time: 9.455 s
+Average time: 0.009 s
+
+Test n° 746
+Number of successes: 746
+Success rate: 100.0 %
+Total number of iterations: 8952
+Average number of iterations: 12
+Total time: 9.468 s
+Average time: 0.009 s
+
+Test n° 747
+Number of successes: 747
+Success rate: 100.0 %
+Total number of iterations: 8964
+Average number of iterations: 12
+Total time: 9.481 s
+Average time: 0.009 s
+
+Test n° 748
+Number of successes: 748
+Success rate: 100.0 %
+Total number of iterations: 8976
+Average number of iterations: 12
+Total time: 9.494 s
+Average time: 0.009 s
+
+Test n° 749
+Number of successes: 749
+Success rate: 100.0 %
+Total number of iterations: 8988
+Average number of iterations: 12
+Total time: 9.507 s
+Average time: 0.01 s
+
+Test n° 750
+Number of successes: 750
+Success rate: 100.0 %
+Total number of iterations: 9000
+Average number of iterations: 12
+Total time: 9.52 s
+Average time: 0.01 s
+
+Test n° 751
+Number of successes: 751
+Success rate: 100.0 %
+Total number of iterations: 9012
+Average number of iterations: 12
+Total time: 9.532 s
+Average time: 0.01 s
+
+Test n° 752
+Number of successes: 752
+Success rate: 100.0 %
+Total number of iterations: 9024
+Average number of iterations: 12
+Total time: 9.544 s
+Average time: 0.01 s
+
+Test n° 753
+Number of successes: 753
+Success rate: 100.0 %
+Total number of iterations: 9036
+Average number of iterations: 12
+Total time: 9.558 s
+Average time: 0.01 s
+
+Test n° 754
+Number of successes: 754
+Success rate: 100.0 %
+Total number of iterations: 9048
+Average number of iterations: 12
+Total time: 9.571 s
+Average time: 0.01 s
+
+Test n° 755
+Number of successes: 755
+Success rate: 100.0 %
+Total number of iterations: 9060
+Average number of iterations: 12
+Total time: 9.582 s
+Average time: 0.01 s
+
+Test n° 756
+Number of successes: 756
+Success rate: 100.0 %
+Total number of iterations: 9072
+Average number of iterations: 12
+Total time: 9.595 s
+Average time: 0.01 s
+
+Test n° 757
+Number of successes: 757
+Success rate: 100.0 %
+Total number of iterations: 9084
+Average number of iterations: 12
+Total time: 9.607 s
+Average time: 0.01 s
+
+Test n° 758
+Number of successes: 758
+Success rate: 100.0 %
+Total number of iterations: 9096
+Average number of iterations: 12
+Total time: 9.62 s
+Average time: 0.01 s
+
+Test n° 759
+Number of successes: 759
+Success rate: 100.0 %
+Total number of iterations: 9108
+Average number of iterations: 12
+Total time: 9.633 s
+Average time: 0.01 s
+
+Test n° 760
+Number of successes: 760
+Success rate: 100.0 %
+Total number of iterations: 9120
+Average number of iterations: 12
+Total time: 9.645 s
+Average time: 0.01 s
+
+Test n° 761
+Number of successes: 761
+Success rate: 100.0 %
+Total number of iterations: 9132
+Average number of iterations: 12
+Total time: 9.658 s
+Average time: 0.01 s
+
+Test n° 762
+Number of successes: 762
+Success rate: 100.0 %
+Total number of iterations: 9144
+Average number of iterations: 12
+Total time: 9.67 s
+Average time: 0.01 s
+
+Test n° 763
+Number of successes: 763
+Success rate: 100.0 %
+Total number of iterations: 9156
+Average number of iterations: 12
+Total time: 9.683 s
+Average time: 0.01 s
+
+Test n° 764
+Number of successes: 764
+Success rate: 100.0 %
+Total number of iterations: 9168
+Average number of iterations: 12
+Total time: 9.695 s
+Average time: 0.01 s
+
+Test n° 765
+Number of successes: 765
+Success rate: 100.0 %
+Total number of iterations: 9180
+Average number of iterations: 12
+Total time: 9.708 s
+Average time: 0.01 s
+
+Test n° 766
+Number of successes: 766
+Success rate: 100.0 %
+Total number of iterations: 9192
+Average number of iterations: 12
+Total time: 9.721 s
+Average time: 0.01 s
+
+Test n° 767
+Number of successes: 767
+Success rate: 100.0 %
+Total number of iterations: 9204
+Average number of iterations: 12
+Total time: 9.734 s
+Average time: 0.01 s
+
+Test n° 768
+Number of successes: 768
+Success rate: 100.0 %
+Total number of iterations: 9216
+Average number of iterations: 12
+Total time: 9.746 s
+Average time: 0.01 s
+
+Test n° 769
+Number of successes: 769
+Success rate: 100.0 %
+Total number of iterations: 9228
+Average number of iterations: 12
+Total time: 9.759 s
+Average time: 0.01 s
+
+Test n° 770
+Number of successes: 770
+Success rate: 100.0 %
+Total number of iterations: 9240
+Average number of iterations: 12
+Total time: 9.772 s
+Average time: 0.01 s
+
+Test n° 771
+Number of successes: 771
+Success rate: 100.0 %
+Total number of iterations: 9252
+Average number of iterations: 12
+Total time: 9.784 s
+Average time: 0.01 s
+
+Test n° 772
+Number of successes: 772
+Success rate: 100.0 %
+Total number of iterations: 9264
+Average number of iterations: 12
+Total time: 9.797 s
+Average time: 0.01 s
+
+Test n° 773
+Number of successes: 773
+Success rate: 100.0 %
+Total number of iterations: 9276
+Average number of iterations: 12
+Total time: 9.809 s
+Average time: 0.01 s
+
+Test n° 774
+Number of successes: 774
+Success rate: 100.0 %
+Total number of iterations: 9288
+Average number of iterations: 12
+Total time: 9.822 s
+Average time: 0.01 s
+
+Test n° 775
+Number of successes: 775
+Success rate: 100.0 %
+Total number of iterations: 9300
+Average number of iterations: 12
+Total time: 9.834 s
+Average time: 0.01 s
+
+Test n° 776
+Number of successes: 776
+Success rate: 100.0 %
+Total number of iterations: 9312
+Average number of iterations: 12
+Total time: 9.847 s
+Average time: 0.01 s
+
+Test n° 777
+Number of successes: 777
+Success rate: 100.0 %
+Total number of iterations: 9324
+Average number of iterations: 12
+Total time: 9.86 s
+Average time: 0.01 s
+
+Test n° 778
+Number of successes: 778
+Success rate: 100.0 %
+Total number of iterations: 9336
+Average number of iterations: 12
+Total time: 9.872 s
+Average time: 0.01 s
+
+Test n° 779
+Number of successes: 779
+Success rate: 100.0 %
+Total number of iterations: 9348
+Average number of iterations: 12
+Total time: 9.885 s
+Average time: 0.01 s
+
+Test n° 780
+Number of successes: 780
+Success rate: 100.0 %
+Total number of iterations: 9360
+Average number of iterations: 12
+Total time: 9.898 s
+Average time: 0.01 s
+
+Test n° 781
+Number of successes: 781
+Success rate: 100.0 %
+Total number of iterations: 9372
+Average number of iterations: 12
+Total time: 9.91 s
+Average time: 0.01 s
+
+Test n° 782
+Number of successes: 782
+Success rate: 100.0 %
+Total number of iterations: 9384
+Average number of iterations: 12
+Total time: 9.923 s
+Average time: 0.01 s
+
+Test n° 783
+Number of successes: 783
+Success rate: 100.0 %
+Total number of iterations: 9396
+Average number of iterations: 12
+Total time: 9.935 s
+Average time: 0.01 s
+
+Test n° 784
+Number of successes: 784
+Success rate: 100.0 %
+Total number of iterations: 9408
+Average number of iterations: 12
+Total time: 9.948 s
+Average time: 0.01 s
+
+Test n° 785
+Number of successes: 785
+Success rate: 100.0 %
+Total number of iterations: 9420
+Average number of iterations: 12
+Total time: 9.961 s
+Average time: 0.01 s
+
+Test n° 786
+Number of successes: 786
+Success rate: 100.0 %
+Total number of iterations: 9432
+Average number of iterations: 12
+Total time: 9.975 s
+Average time: 0.01 s
+
+Test n° 787
+Number of successes: 787
+Success rate: 100.0 %
+Total number of iterations: 9444
+Average number of iterations: 12
+Total time: 9.988 s
+Average time: 0.01 s
+
+Test n° 788
+Number of successes: 788
+Success rate: 100.0 %
+Total number of iterations: 9456
+Average number of iterations: 12
+Total time: 10.001 s
+Average time: 0.01 s
+
+Test n° 789
+Number of successes: 789
+Success rate: 100.0 %
+Total number of iterations: 9468
+Average number of iterations: 12
+Total time: 10.014 s
+Average time: 0.01 s
+
+Test n° 790
+Number of successes: 790
+Success rate: 100.0 %
+Total number of iterations: 9480
+Average number of iterations: 12
+Total time: 10.028 s
+Average time: 0.01 s
+
+Test n° 791
+Number of successes: 791
+Success rate: 100.0 %
+Total number of iterations: 9492
+Average number of iterations: 12
+Total time: 10.04 s
+Average time: 0.01 s
+
+Test n° 792
+Number of successes: 792
+Success rate: 100.0 %
+Total number of iterations: 9504
+Average number of iterations: 12
+Total time: 10.053 s
+Average time: 0.01 s
+
+Test n° 793
+Number of successes: 793
+Success rate: 100.0 %
+Total number of iterations: 9516
+Average number of iterations: 12
+Total time: 10.065 s
+Average time: 0.01 s
+
+Test n° 794
+Number of successes: 794
+Success rate: 100.0 %
+Total number of iterations: 9528
+Average number of iterations: 12
+Total time: 10.077 s
+Average time: 0.01 s
+
+Test n° 795
+Number of successes: 795
+Success rate: 100.0 %
+Total number of iterations: 9540
+Average number of iterations: 12
+Total time: 10.089 s
+Average time: 0.01 s
+
+Test n° 796
+Number of successes: 796
+Success rate: 100.0 %
+Total number of iterations: 9552
+Average number of iterations: 12
+Total time: 10.102 s
+Average time: 0.01 s
+
+Test n° 797
+Number of successes: 797
+Success rate: 100.0 %
+Total number of iterations: 9564
+Average number of iterations: 12
+Total time: 10.114 s
+Average time: 0.01 s
+
+Test n° 798
+Number of successes: 798
+Success rate: 100.0 %
+Total number of iterations: 9576
+Average number of iterations: 12
+Total time: 10.126 s
+Average time: 0.01 s
+
+Test n° 799
+Number of successes: 799
+Success rate: 100.0 %
+Total number of iterations: 9588
+Average number of iterations: 12
+Total time: 10.139 s
+Average time: 0.01 s
+
+Test n° 800
+Number of successes: 800
+Success rate: 100.0 %
+Total number of iterations: 9600
+Average number of iterations: 12
+Total time: 10.152 s
+Average time: 0.01 s
+
+Test n° 801
+Number of successes: 801
+Success rate: 100.0 %
+Total number of iterations: 9612
+Average number of iterations: 12
+Total time: 10.165 s
+Average time: 0.01 s
+
+Test n° 802
+Number of successes: 802
+Success rate: 100.0 %
+Total number of iterations: 9624
+Average number of iterations: 12
+Total time: 10.177 s
+Average time: 0.01 s
+
+Test n° 803
+Number of successes: 803
+Success rate: 100.0 %
+Total number of iterations: 9636
+Average number of iterations: 12
+Total time: 10.19 s
+Average time: 0.01 s
+
+Test n° 804
+Number of successes: 804
+Success rate: 100.0 %
+Total number of iterations: 9648
+Average number of iterations: 12
+Total time: 10.202 s
+Average time: 0.01 s
+
+Test n° 805
+Number of successes: 805
+Success rate: 100.0 %
+Total number of iterations: 9660
+Average number of iterations: 12
+Total time: 10.215 s
+Average time: 0.01 s
+
+Test n° 806
+Number of successes: 806
+Success rate: 100.0 %
+Total number of iterations: 9672
+Average number of iterations: 12
+Total time: 10.228 s
+Average time: 0.01 s
+
+Test n° 807
+Number of successes: 807
+Success rate: 100.0 %
+Total number of iterations: 9684
+Average number of iterations: 12
+Total time: 10.24 s
+Average time: 0.01 s
+
+Test n° 808
+Number of successes: 808
+Success rate: 100.0 %
+Total number of iterations: 9696
+Average number of iterations: 12
+Total time: 10.252 s
+Average time: 0.01 s
+
+Test n° 809
+Number of successes: 809
+Success rate: 100.0 %
+Total number of iterations: 9708
+Average number of iterations: 12
+Total time: 10.266 s
+Average time: 0.01 s
+
+Test n° 810
+Number of successes: 810
+Success rate: 100.0 %
+Total number of iterations: 9720
+Average number of iterations: 12
+Total time: 10.278 s
+Average time: 0.01 s
+
+Test n° 811
+Number of successes: 811
+Success rate: 100.0 %
+Total number of iterations: 9732
+Average number of iterations: 12
+Total time: 10.291 s
+Average time: 0.01 s
+
+Test n° 812
+Number of successes: 812
+Success rate: 100.0 %
+Total number of iterations: 9744
+Average number of iterations: 12
+Total time: 10.304 s
+Average time: 0.01 s
+
+Test n° 813
+Number of successes: 813
+Success rate: 100.0 %
+Total number of iterations: 9756
+Average number of iterations: 12
+Total time: 10.317 s
+Average time: 0.01 s
+
+Test n° 814
+Number of successes: 814
+Success rate: 100.0 %
+Total number of iterations: 9768
+Average number of iterations: 12
+Total time: 10.329 s
+Average time: 0.01 s
+
+Test n° 815
+Number of successes: 815
+Success rate: 100.0 %
+Total number of iterations: 9780
+Average number of iterations: 12
+Total time: 10.342 s
+Average time: 0.01 s
+
+Test n° 816
+Number of successes: 816
+Success rate: 100.0 %
+Total number of iterations: 9792
+Average number of iterations: 12
+Total time: 10.354 s
+Average time: 0.01 s
+
+Test n° 817
+Number of successes: 817
+Success rate: 100.0 %
+Total number of iterations: 9804
+Average number of iterations: 12
+Total time: 10.367 s
+Average time: 0.01 s
+
+Test n° 818
+Number of successes: 818
+Success rate: 100.0 %
+Total number of iterations: 9816
+Average number of iterations: 12
+Total time: 10.381 s
+Average time: 0.01 s
+
+Test n° 819
+Number of successes: 819
+Success rate: 100.0 %
+Total number of iterations: 9828
+Average number of iterations: 12
+Total time: 10.394 s
+Average time: 0.01 s
+
+Test n° 820
+Number of successes: 820
+Success rate: 100.0 %
+Total number of iterations: 9840
+Average number of iterations: 12
+Total time: 10.407 s
+Average time: 0.01 s
+
+Test n° 821
+Number of successes: 821
+Success rate: 100.0 %
+Total number of iterations: 9852
+Average number of iterations: 12
+Total time: 10.42 s
+Average time: 0.01 s
+
+Test n° 822
+Number of successes: 822
+Success rate: 100.0 %
+Total number of iterations: 9864
+Average number of iterations: 12
+Total time: 10.433 s
+Average time: 0.01 s
+
+Test n° 823
+Number of successes: 823
+Success rate: 100.0 %
+Total number of iterations: 9876
+Average number of iterations: 12
+Total time: 10.446 s
+Average time: 0.01 s
+
+Test n° 824
+Number of successes: 824
+Success rate: 100.0 %
+Total number of iterations: 9888
+Average number of iterations: 12
+Total time: 10.459 s
+Average time: 0.01 s
+
+Test n° 825
+Number of successes: 825
+Success rate: 100.0 %
+Total number of iterations: 9900
+Average number of iterations: 12
+Total time: 10.471 s
+Average time: 0.01 s
+
+Test n° 826
+Number of successes: 826
+Success rate: 100.0 %
+Total number of iterations: 9912
+Average number of iterations: 12
+Total time: 10.483 s
+Average time: 0.01 s
+
+Test n° 827
+Number of successes: 827
+Success rate: 100.0 %
+Total number of iterations: 9924
+Average number of iterations: 12
+Total time: 10.496 s
+Average time: 0.01 s
+
+Test n° 828
+Number of successes: 828
+Success rate: 100.0 %
+Total number of iterations: 9936
+Average number of iterations: 12
+Total time: 10.509 s
+Average time: 0.011 s
+
+Test n° 829
+Number of successes: 829
+Success rate: 100.0 %
+Total number of iterations: 9948
+Average number of iterations: 12
+Total time: 10.522 s
+Average time: 0.011 s
+
+Test n° 830
+Number of successes: 830
+Success rate: 100.0 %
+Total number of iterations: 9960
+Average number of iterations: 12
+Total time: 10.535 s
+Average time: 0.011 s
+
+Test n° 831
+Number of successes: 831
+Success rate: 100.0 %
+Total number of iterations: 9972
+Average number of iterations: 12
+Total time: 10.547 s
+Average time: 0.011 s
+
+Test n° 832
+Number of successes: 832
+Success rate: 100.0 %
+Total number of iterations: 9984
+Average number of iterations: 12
+Total time: 10.56 s
+Average time: 0.011 s
+
+Test n° 833
+Number of successes: 833
+Success rate: 100.0 %
+Total number of iterations: 9996
+Average number of iterations: 12
+Total time: 10.573 s
+Average time: 0.011 s
+
+Test n° 834
+Number of successes: 834
+Success rate: 100.0 %
+Total number of iterations: 10008
+Average number of iterations: 12
+Total time: 10.586 s
+Average time: 0.011 s
+
+Test n° 835
+Number of successes: 835
+Success rate: 100.0 %
+Total number of iterations: 10020
+Average number of iterations: 12
+Total time: 10.599 s
+Average time: 0.011 s
+
+Test n° 836
+Number of successes: 836
+Success rate: 100.0 %
+Total number of iterations: 10032
+Average number of iterations: 12
+Total time: 10.611 s
+Average time: 0.011 s
+
+Test n° 837
+Number of successes: 837
+Success rate: 100.0 %
+Total number of iterations: 10044
+Average number of iterations: 12
+Total time: 10.624 s
+Average time: 0.011 s
+
+Test n° 838
+Number of successes: 838
+Success rate: 100.0 %
+Total number of iterations: 10056
+Average number of iterations: 12
+Total time: 10.637 s
+Average time: 0.011 s
+
+Test n° 839
+Number of successes: 839
+Success rate: 100.0 %
+Total number of iterations: 10068
+Average number of iterations: 12
+Total time: 10.649 s
+Average time: 0.011 s
+
+Test n° 840
+Number of successes: 840
+Success rate: 100.0 %
+Total number of iterations: 10080
+Average number of iterations: 12
+Total time: 10.662 s
+Average time: 0.011 s
+
+Test n° 841
+Number of successes: 841
+Success rate: 100.0 %
+Total number of iterations: 10092
+Average number of iterations: 12
+Total time: 10.675 s
+Average time: 0.011 s
+
+Test n° 842
+Number of successes: 842
+Success rate: 100.0 %
+Total number of iterations: 10104
+Average number of iterations: 12
+Total time: 10.688 s
+Average time: 0.011 s
+
+Test n° 843
+Number of successes: 843
+Success rate: 100.0 %
+Total number of iterations: 10116
+Average number of iterations: 12
+Total time: 10.701 s
+Average time: 0.011 s
+
+Test n° 844
+Number of successes: 844
+Success rate: 100.0 %
+Total number of iterations: 10128
+Average number of iterations: 12
+Total time: 10.713 s
+Average time: 0.011 s
+
+Test n° 845
+Number of successes: 845
+Success rate: 100.0 %
+Total number of iterations: 10140
+Average number of iterations: 12
+Total time: 10.726 s
+Average time: 0.011 s
+
+Test n° 846
+Number of successes: 846
+Success rate: 100.0 %
+Total number of iterations: 10152
+Average number of iterations: 12
+Total time: 10.739 s
+Average time: 0.011 s
+
+Test n° 847
+Number of successes: 847
+Success rate: 100.0 %
+Total number of iterations: 10164
+Average number of iterations: 12
+Total time: 10.751 s
+Average time: 0.011 s
+
+Test n° 848
+Number of successes: 848
+Success rate: 100.0 %
+Total number of iterations: 10176
+Average number of iterations: 12
+Total time: 10.764 s
+Average time: 0.011 s
+
+Test n° 849
+Number of successes: 849
+Success rate: 100.0 %
+Total number of iterations: 10188
+Average number of iterations: 12
+Total time: 10.776 s
+Average time: 0.011 s
+
+Test n° 850
+Number of successes: 850
+Success rate: 100.0 %
+Total number of iterations: 10200
+Average number of iterations: 12
+Total time: 10.789 s
+Average time: 0.011 s
+
+Test n° 851
+Number of successes: 851
+Success rate: 100.0 %
+Total number of iterations: 10212
+Average number of iterations: 12
+Total time: 10.801 s
+Average time: 0.011 s
+
+Test n° 852
+Number of successes: 852
+Success rate: 100.0 %
+Total number of iterations: 10224
+Average number of iterations: 12
+Total time: 10.814 s
+Average time: 0.011 s
+
+Test n° 853
+Number of successes: 853
+Success rate: 100.0 %
+Total number of iterations: 10236
+Average number of iterations: 12
+Total time: 10.826 s
+Average time: 0.011 s
+
+Test n° 854
+Number of successes: 854
+Success rate: 100.0 %
+Total number of iterations: 10248
+Average number of iterations: 12
+Total time: 10.839 s
+Average time: 0.011 s
+
+Test n° 855
+Number of successes: 855
+Success rate: 100.0 %
+Total number of iterations: 10260
+Average number of iterations: 12
+Total time: 10.851 s
+Average time: 0.011 s
+
+Test n° 856
+Number of successes: 856
+Success rate: 100.0 %
+Total number of iterations: 10272
+Average number of iterations: 12
+Total time: 10.863 s
+Average time: 0.011 s
+
+Test n° 857
+Number of successes: 857
+Success rate: 100.0 %
+Total number of iterations: 10284
+Average number of iterations: 12
+Total time: 10.875 s
+Average time: 0.011 s
+
+Test n° 858
+Number of successes: 858
+Success rate: 100.0 %
+Total number of iterations: 10296
+Average number of iterations: 12
+Total time: 10.887 s
+Average time: 0.011 s
+
+Test n° 859
+Number of successes: 859
+Success rate: 100.0 %
+Total number of iterations: 10308
+Average number of iterations: 12
+Total time: 10.899 s
+Average time: 0.011 s
+
+Test n° 860
+Number of successes: 860
+Success rate: 100.0 %
+Total number of iterations: 10320
+Average number of iterations: 12
+Total time: 10.912 s
+Average time: 0.011 s
+
+Test n° 861
+Number of successes: 861
+Success rate: 100.0 %
+Total number of iterations: 10332
+Average number of iterations: 12
+Total time: 10.924 s
+Average time: 0.011 s
+
+Test n° 862
+Number of successes: 862
+Success rate: 100.0 %
+Total number of iterations: 10344
+Average number of iterations: 12
+Total time: 10.936 s
+Average time: 0.011 s
+
+Test n° 863
+Number of successes: 863
+Success rate: 100.0 %
+Total number of iterations: 10356
+Average number of iterations: 12
+Total time: 10.948 s
+Average time: 0.011 s
+
+Test n° 864
+Number of successes: 864
+Success rate: 100.0 %
+Total number of iterations: 10368
+Average number of iterations: 12
+Total time: 10.96 s
+Average time: 0.011 s
+
+Test n° 865
+Number of successes: 865
+Success rate: 100.0 %
+Total number of iterations: 10380
+Average number of iterations: 12
+Total time: 10.973 s
+Average time: 0.011 s
+
+Test n° 866
+Number of successes: 866
+Success rate: 100.0 %
+Total number of iterations: 10392
+Average number of iterations: 12
+Total time: 10.985 s
+Average time: 0.011 s
+
+Test n° 867
+Number of successes: 867
+Success rate: 100.0 %
+Total number of iterations: 10404
+Average number of iterations: 12
+Total time: 10.998 s
+Average time: 0.011 s
+
+Test n° 868
+Number of successes: 868
+Success rate: 100.0 %
+Total number of iterations: 10416
+Average number of iterations: 12
+Total time: 11.011 s
+Average time: 0.011 s
+
+Test n° 869
+Number of successes: 869
+Success rate: 100.0 %
+Total number of iterations: 10428
+Average number of iterations: 12
+Total time: 11.025 s
+Average time: 0.011 s
+
+Test n° 870
+Number of successes: 870
+Success rate: 100.0 %
+Total number of iterations: 10440
+Average number of iterations: 12
+Total time: 11.037 s
+Average time: 0.011 s
+
+Test n° 871
+Number of successes: 871
+Success rate: 100.0 %
+Total number of iterations: 10452
+Average number of iterations: 12
+Total time: 11.05 s
+Average time: 0.011 s
+
+Test n° 872
+Number of successes: 872
+Success rate: 100.0 %
+Total number of iterations: 10464
+Average number of iterations: 12
+Total time: 11.062 s
+Average time: 0.011 s
+
+Test n° 873
+Number of successes: 873
+Success rate: 100.0 %
+Total number of iterations: 10476
+Average number of iterations: 12
+Total time: 11.074 s
+Average time: 0.011 s
+
+Test n° 874
+Number of successes: 874
+Success rate: 100.0 %
+Total number of iterations: 10488
+Average number of iterations: 12
+Total time: 11.087 s
+Average time: 0.011 s
+
+Test n° 875
+Number of successes: 875
+Success rate: 100.0 %
+Total number of iterations: 10500
+Average number of iterations: 12
+Total time: 11.1 s
+Average time: 0.011 s
+
+Test n° 876
+Number of successes: 876
+Success rate: 100.0 %
+Total number of iterations: 10512
+Average number of iterations: 12
+Total time: 11.112 s
+Average time: 0.011 s
+
+Test n° 877
+Number of successes: 877
+Success rate: 100.0 %
+Total number of iterations: 10524
+Average number of iterations: 12
+Total time: 11.125 s
+Average time: 0.011 s
+
+Test n° 878
+Number of successes: 878
+Success rate: 100.0 %
+Total number of iterations: 10536
+Average number of iterations: 12
+Total time: 11.138 s
+Average time: 0.011 s
+
+Test n° 879
+Number of successes: 879
+Success rate: 100.0 %
+Total number of iterations: 10548
+Average number of iterations: 12
+Total time: 11.152 s
+Average time: 0.011 s
+
+Test n° 880
+Number of successes: 880
+Success rate: 100.0 %
+Total number of iterations: 10560
+Average number of iterations: 12
+Total time: 11.164 s
+Average time: 0.011 s
+
+Test n° 881
+Number of successes: 881
+Success rate: 100.0 %
+Total number of iterations: 10572
+Average number of iterations: 12
+Total time: 11.177 s
+Average time: 0.011 s
+
+Test n° 882
+Number of successes: 882
+Success rate: 100.0 %
+Total number of iterations: 10584
+Average number of iterations: 12
+Total time: 11.19 s
+Average time: 0.011 s
+
+Test n° 883
+Number of successes: 883
+Success rate: 100.0 %
+Total number of iterations: 10596
+Average number of iterations: 12
+Total time: 11.202 s
+Average time: 0.011 s
+
+Test n° 884
+Number of successes: 884
+Success rate: 100.0 %
+Total number of iterations: 10608
+Average number of iterations: 12
+Total time: 11.215 s
+Average time: 0.011 s
+
+Test n° 885
+Number of successes: 885
+Success rate: 100.0 %
+Total number of iterations: 10620
+Average number of iterations: 12
+Total time: 11.228 s
+Average time: 0.011 s
+
+Test n° 886
+Number of successes: 886
+Success rate: 100.0 %
+Total number of iterations: 10632
+Average number of iterations: 12
+Total time: 11.24 s
+Average time: 0.011 s
+
+Test n° 887
+Number of successes: 887
+Success rate: 100.0 %
+Total number of iterations: 10644
+Average number of iterations: 12
+Total time: 11.252 s
+Average time: 0.011 s
+
+Test n° 888
+Number of successes: 888
+Success rate: 100.0 %
+Total number of iterations: 10656
+Average number of iterations: 12
+Total time: 11.265 s
+Average time: 0.011 s
+
+Test n° 889
+Number of successes: 889
+Success rate: 100.0 %
+Total number of iterations: 10668
+Average number of iterations: 12
+Total time: 11.278 s
+Average time: 0.011 s
+
+Test n° 890
+Number of successes: 890
+Success rate: 100.0 %
+Total number of iterations: 10680
+Average number of iterations: 12
+Total time: 11.29 s
+Average time: 0.011 s
+
+Test n° 891
+Number of successes: 891
+Success rate: 100.0 %
+Total number of iterations: 10692
+Average number of iterations: 12
+Total time: 11.303 s
+Average time: 0.011 s
+
+Test n° 892
+Number of successes: 892
+Success rate: 100.0 %
+Total number of iterations: 10704
+Average number of iterations: 12
+Total time: 11.315 s
+Average time: 0.011 s
+
+Test n° 893
+Number of successes: 893
+Success rate: 100.0 %
+Total number of iterations: 10716
+Average number of iterations: 12
+Total time: 11.328 s
+Average time: 0.011 s
+
+Test n° 894
+Number of successes: 894
+Success rate: 100.0 %
+Total number of iterations: 10728
+Average number of iterations: 12
+Total time: 11.34 s
+Average time: 0.011 s
+
+Test n° 895
+Number of successes: 895
+Success rate: 100.0 %
+Total number of iterations: 10740
+Average number of iterations: 12
+Total time: 11.353 s
+Average time: 0.011 s
+
+Test n° 896
+Number of successes: 896
+Success rate: 100.0 %
+Total number of iterations: 10752
+Average number of iterations: 12
+Total time: 11.365 s
+Average time: 0.011 s
+
+Test n° 897
+Number of successes: 897
+Success rate: 100.0 %
+Total number of iterations: 10764
+Average number of iterations: 12
+Total time: 11.377 s
+Average time: 0.011 s
+
+Test n° 898
+Number of successes: 898
+Success rate: 100.0 %
+Total number of iterations: 10776
+Average number of iterations: 12
+Total time: 11.39 s
+Average time: 0.011 s
+
+Test n° 899
+Number of successes: 899
+Success rate: 100.0 %
+Total number of iterations: 10788
+Average number of iterations: 12
+Total time: 11.402 s
+Average time: 0.011 s
+
+Test n° 900
+Number of successes: 900
+Success rate: 100.0 %
+Total number of iterations: 10800
+Average number of iterations: 12
+Total time: 11.414 s
+Average time: 0.011 s
+
+Test n° 901
+Number of successes: 901
+Success rate: 100.0 %
+Total number of iterations: 10812
+Average number of iterations: 12
+Total time: 11.426 s
+Average time: 0.011 s
+
+Test n° 902
+Number of successes: 902
+Success rate: 100.0 %
+Total number of iterations: 10824
+Average number of iterations: 12
+Total time: 11.439 s
+Average time: 0.011 s
+
+Test n° 903
+Number of successes: 903
+Success rate: 100.0 %
+Total number of iterations: 10836
+Average number of iterations: 12
+Total time: 11.452 s
+Average time: 0.011 s
+
+Test n° 904
+Number of successes: 904
+Success rate: 100.0 %
+Total number of iterations: 10848
+Average number of iterations: 12
+Total time: 11.464 s
+Average time: 0.011 s
+
+Test n° 905
+Number of successes: 905
+Success rate: 100.0 %
+Total number of iterations: 10860
+Average number of iterations: 12
+Total time: 11.476 s
+Average time: 0.011 s
+
+Test n° 906
+Number of successes: 906
+Success rate: 100.0 %
+Total number of iterations: 10872
+Average number of iterations: 12
+Total time: 11.488 s
+Average time: 0.011 s
+
+Test n° 907
+Number of successes: 907
+Success rate: 100.0 %
+Total number of iterations: 10884
+Average number of iterations: 12
+Total time: 11.5 s
+Average time: 0.012 s
+
+Test n° 908
+Number of successes: 908
+Success rate: 100.0 %
+Total number of iterations: 10896
+Average number of iterations: 12
+Total time: 11.514 s
+Average time: 0.012 s
+
+Test n° 909
+Number of successes: 909
+Success rate: 100.0 %
+Total number of iterations: 10908
+Average number of iterations: 12
+Total time: 11.527 s
+Average time: 0.012 s
+
+Test n° 910
+Number of successes: 910
+Success rate: 100.0 %
+Total number of iterations: 10920
+Average number of iterations: 12
+Total time: 11.539 s
+Average time: 0.012 s
+
+Test n° 911
+Number of successes: 911
+Success rate: 100.0 %
+Total number of iterations: 10932
+Average number of iterations: 12
+Total time: 11.552 s
+Average time: 0.012 s
+
+Test n° 912
+Number of successes: 912
+Success rate: 100.0 %
+Total number of iterations: 10944
+Average number of iterations: 12
+Total time: 11.566 s
+Average time: 0.012 s
+
+Test n° 913
+Number of successes: 913
+Success rate: 100.0 %
+Total number of iterations: 10956
+Average number of iterations: 12
+Total time: 11.578 s
+Average time: 0.012 s
+
+Test n° 914
+Number of successes: 914
+Success rate: 100.0 %
+Total number of iterations: 10968
+Average number of iterations: 12
+Total time: 11.591 s
+Average time: 0.012 s
+
+Test n° 915
+Number of successes: 915
+Success rate: 100.0 %
+Total number of iterations: 10980
+Average number of iterations: 12
+Total time: 11.604 s
+Average time: 0.012 s
+
+Test n° 916
+Number of successes: 916
+Success rate: 100.0 %
+Total number of iterations: 10992
+Average number of iterations: 12
+Total time: 11.617 s
+Average time: 0.012 s
+
+Test n° 917
+Number of successes: 917
+Success rate: 100.0 %
+Total number of iterations: 11004
+Average number of iterations: 12
+Total time: 11.63 s
+Average time: 0.012 s
+
+Test n° 918
+Number of successes: 918
+Success rate: 100.0 %
+Total number of iterations: 11016
+Average number of iterations: 12
+Total time: 11.643 s
+Average time: 0.012 s
+
+Test n° 919
+Number of successes: 919
+Success rate: 100.0 %
+Total number of iterations: 11028
+Average number of iterations: 12
+Total time: 11.657 s
+Average time: 0.012 s
+
+Test n° 920
+Number of successes: 920
+Success rate: 100.0 %
+Total number of iterations: 11040
+Average number of iterations: 12
+Total time: 11.671 s
+Average time: 0.012 s
+
+Test n° 921
+Number of successes: 921
+Success rate: 100.0 %
+Total number of iterations: 11052
+Average number of iterations: 12
+Total time: 11.683 s
+Average time: 0.012 s
+
+Test n° 922
+Number of successes: 922
+Success rate: 100.0 %
+Total number of iterations: 11064
+Average number of iterations: 12
+Total time: 11.696 s
+Average time: 0.012 s
+
+Test n° 923
+Number of successes: 923
+Success rate: 100.0 %
+Total number of iterations: 11076
+Average number of iterations: 12
+Total time: 11.708 s
+Average time: 0.012 s
+
+Test n° 924
+Number of successes: 924
+Success rate: 100.0 %
+Total number of iterations: 11088
+Average number of iterations: 12
+Total time: 11.721 s
+Average time: 0.012 s
+
+Test n° 925
+Number of successes: 925
+Success rate: 100.0 %
+Total number of iterations: 11100
+Average number of iterations: 12
+Total time: 11.734 s
+Average time: 0.012 s
+
+Test n° 926
+Number of successes: 926
+Success rate: 100.0 %
+Total number of iterations: 11112
+Average number of iterations: 12
+Total time: 11.747 s
+Average time: 0.012 s
+
+Test n° 927
+Number of successes: 927
+Success rate: 100.0 %
+Total number of iterations: 11124
+Average number of iterations: 12
+Total time: 11.76 s
+Average time: 0.012 s
+
+Test n° 928
+Number of successes: 928
+Success rate: 100.0 %
+Total number of iterations: 11136
+Average number of iterations: 12
+Total time: 11.773 s
+Average time: 0.012 s
+
+Test n° 929
+Number of successes: 929
+Success rate: 100.0 %
+Total number of iterations: 11148
+Average number of iterations: 12
+Total time: 11.785 s
+Average time: 0.012 s
+
+Test n° 930
+Number of successes: 930
+Success rate: 100.0 %
+Total number of iterations: 11160
+Average number of iterations: 12
+Total time: 11.798 s
+Average time: 0.012 s
+
+Test n° 931
+Number of successes: 931
+Success rate: 100.0 %
+Total number of iterations: 11172
+Average number of iterations: 12
+Total time: 11.81 s
+Average time: 0.012 s
+
+Test n° 932
+Number of successes: 932
+Success rate: 100.0 %
+Total number of iterations: 11184
+Average number of iterations: 12
+Total time: 11.823 s
+Average time: 0.012 s
+
+Test n° 933
+Number of successes: 933
+Success rate: 100.0 %
+Total number of iterations: 11196
+Average number of iterations: 12
+Total time: 11.835 s
+Average time: 0.012 s
+
+Test n° 934
+Number of successes: 934
+Success rate: 100.0 %
+Total number of iterations: 11208
+Average number of iterations: 12
+Total time: 11.848 s
+Average time: 0.012 s
+
+Test n° 935
+Number of successes: 935
+Success rate: 100.0 %
+Total number of iterations: 11220
+Average number of iterations: 12
+Total time: 11.861 s
+Average time: 0.012 s
+
+Test n° 936
+Number of successes: 936
+Success rate: 100.0 %
+Total number of iterations: 11232
+Average number of iterations: 12
+Total time: 11.873 s
+Average time: 0.012 s
+
+Test n° 937
+Number of successes: 937
+Success rate: 100.0 %
+Total number of iterations: 11244
+Average number of iterations: 12
+Total time: 11.886 s
+Average time: 0.012 s
+
+Test n° 938
+Number of successes: 938
+Success rate: 100.0 %
+Total number of iterations: 11256
+Average number of iterations: 12
+Total time: 11.899 s
+Average time: 0.012 s
+
+Test n° 939
+Number of successes: 939
+Success rate: 100.0 %
+Total number of iterations: 11268
+Average number of iterations: 12
+Total time: 11.912 s
+Average time: 0.012 s
+
+Test n° 940
+Number of successes: 940
+Success rate: 100.0 %
+Total number of iterations: 11280
+Average number of iterations: 12
+Total time: 11.925 s
+Average time: 0.012 s
+
+Test n° 941
+Number of successes: 941
+Success rate: 100.0 %
+Total number of iterations: 11292
+Average number of iterations: 12
+Total time: 11.938 s
+Average time: 0.012 s
+
+Test n° 942
+Number of successes: 942
+Success rate: 100.0 %
+Total number of iterations: 11304
+Average number of iterations: 12
+Total time: 11.951 s
+Average time: 0.012 s
+
+Test n° 943
+Number of successes: 943
+Success rate: 100.0 %
+Total number of iterations: 11316
+Average number of iterations: 12
+Total time: 11.964 s
+Average time: 0.012 s
+
+Test n° 944
+Number of successes: 944
+Success rate: 100.0 %
+Total number of iterations: 11328
+Average number of iterations: 12
+Total time: 11.976 s
+Average time: 0.012 s
+
+Test n° 945
+Number of successes: 945
+Success rate: 100.0 %
+Total number of iterations: 11340
+Average number of iterations: 12
+Total time: 11.99 s
+Average time: 0.012 s
+
+Test n° 946
+Number of successes: 946
+Success rate: 100.0 %
+Total number of iterations: 11352
+Average number of iterations: 12
+Total time: 12.002 s
+Average time: 0.012 s
+
+Test n° 947
+Number of successes: 947
+Success rate: 100.0 %
+Total number of iterations: 11364
+Average number of iterations: 12
+Total time: 12.015 s
+Average time: 0.012 s
+
+Test n° 948
+Number of successes: 948
+Success rate: 100.0 %
+Total number of iterations: 11376
+Average number of iterations: 12
+Total time: 12.029 s
+Average time: 0.012 s
+
+Test n° 949
+Number of successes: 949
+Success rate: 100.0 %
+Total number of iterations: 11388
+Average number of iterations: 12
+Total time: 12.042 s
+Average time: 0.012 s
+
+Test n° 950
+Number of successes: 950
+Success rate: 100.0 %
+Total number of iterations: 11400
+Average number of iterations: 12
+Total time: 12.057 s
+Average time: 0.012 s
+
+Test n° 951
+Number of successes: 951
+Success rate: 100.0 %
+Total number of iterations: 11412
+Average number of iterations: 12
+Total time: 12.07 s
+Average time: 0.012 s
+
+Test n° 952
+Number of successes: 952
+Success rate: 100.0 %
+Total number of iterations: 11424
+Average number of iterations: 12
+Total time: 12.082 s
+Average time: 0.012 s
+
+Test n° 953
+Number of successes: 953
+Success rate: 100.0 %
+Total number of iterations: 11436
+Average number of iterations: 12
+Total time: 12.095 s
+Average time: 0.012 s
+
+Test n° 954
+Number of successes: 954
+Success rate: 100.0 %
+Total number of iterations: 11448
+Average number of iterations: 12
+Total time: 12.107 s
+Average time: 0.012 s
+
+Test n° 955
+Number of successes: 955
+Success rate: 100.0 %
+Total number of iterations: 11460
+Average number of iterations: 12
+Total time: 12.12 s
+Average time: 0.012 s
+
+Test n° 956
+Number of successes: 956
+Success rate: 100.0 %
+Total number of iterations: 11472
+Average number of iterations: 12
+Total time: 12.132 s
+Average time: 0.012 s
+
+Test n° 957
+Number of successes: 957
+Success rate: 100.0 %
+Total number of iterations: 11484
+Average number of iterations: 12
+Total time: 12.146 s
+Average time: 0.012 s
+
+Test n° 958
+Number of successes: 958
+Success rate: 100.0 %
+Total number of iterations: 11496
+Average number of iterations: 12
+Total time: 12.159 s
+Average time: 0.012 s
+
+Test n° 959
+Number of successes: 959
+Success rate: 100.0 %
+Total number of iterations: 11508
+Average number of iterations: 12
+Total time: 12.172 s
+Average time: 0.012 s
+
+Test n° 960
+Number of successes: 960
+Success rate: 100.0 %
+Total number of iterations: 11520
+Average number of iterations: 12
+Total time: 12.185 s
+Average time: 0.012 s
+
+Test n° 961
+Number of successes: 961
+Success rate: 100.0 %
+Total number of iterations: 11532
+Average number of iterations: 12
+Total time: 12.198 s
+Average time: 0.012 s
+
+Test n° 962
+Number of successes: 962
+Success rate: 100.0 %
+Total number of iterations: 11544
+Average number of iterations: 12
+Total time: 12.21 s
+Average time: 0.012 s
+
+Test n° 963
+Number of successes: 963
+Success rate: 100.0 %
+Total number of iterations: 11556
+Average number of iterations: 12
+Total time: 12.223 s
+Average time: 0.012 s
+
+Test n° 964
+Number of successes: 964
+Success rate: 100.0 %
+Total number of iterations: 11568
+Average number of iterations: 12
+Total time: 12.236 s
+Average time: 0.012 s
+
+Test n° 965
+Number of successes: 965
+Success rate: 100.0 %
+Total number of iterations: 11580
+Average number of iterations: 12
+Total time: 12.248 s
+Average time: 0.012 s
+
+Test n° 966
+Number of successes: 966
+Success rate: 100.0 %
+Total number of iterations: 11592
+Average number of iterations: 12
+Total time: 12.261 s
+Average time: 0.012 s
+
+Test n° 967
+Number of successes: 967
+Success rate: 100.0 %
+Total number of iterations: 11604
+Average number of iterations: 12
+Total time: 12.273 s
+Average time: 0.012 s
+
+Test n° 968
+Number of successes: 968
+Success rate: 100.0 %
+Total number of iterations: 11616
+Average number of iterations: 12
+Total time: 12.286 s
+Average time: 0.012 s
+
+Test n° 969
+Number of successes: 969
+Success rate: 100.0 %
+Total number of iterations: 11628
+Average number of iterations: 12
+Total time: 12.299 s
+Average time: 0.012 s
+
+Test n° 970
+Number of successes: 970
+Success rate: 100.0 %
+Total number of iterations: 11640
+Average number of iterations: 12
+Total time: 12.311 s
+Average time: 0.012 s
+
+Test n° 971
+Number of successes: 971
+Success rate: 100.0 %
+Total number of iterations: 11652
+Average number of iterations: 12
+Total time: 12.324 s
+Average time: 0.012 s
+
+Test n° 972
+Number of successes: 972
+Success rate: 100.0 %
+Total number of iterations: 11664
+Average number of iterations: 12
+Total time: 12.336 s
+Average time: 0.012 s
+
+Test n° 973
+Number of successes: 973
+Success rate: 100.0 %
+Total number of iterations: 11676
+Average number of iterations: 12
+Total time: 12.348 s
+Average time: 0.012 s
+
+Test n° 974
+Number of successes: 974
+Success rate: 100.0 %
+Total number of iterations: 11688
+Average number of iterations: 12
+Total time: 12.36 s
+Average time: 0.012 s
+
+Test n° 975
+Number of successes: 975
+Success rate: 100.0 %
+Total number of iterations: 11700
+Average number of iterations: 12
+Total time: 12.373 s
+Average time: 0.012 s
+
+Test n° 976
+Number of successes: 976
+Success rate: 100.0 %
+Total number of iterations: 11712
+Average number of iterations: 12
+Total time: 12.386 s
+Average time: 0.012 s
+
+Test n° 977
+Number of successes: 977
+Success rate: 100.0 %
+Total number of iterations: 11724
+Average number of iterations: 12
+Total time: 12.398 s
+Average time: 0.012 s
+
+Test n° 978
+Number of successes: 978
+Success rate: 100.0 %
+Total number of iterations: 11736
+Average number of iterations: 12
+Total time: 12.41 s
+Average time: 0.012 s
+
+Test n° 979
+Number of successes: 979
+Success rate: 100.0 %
+Total number of iterations: 11748
+Average number of iterations: 12
+Total time: 12.423 s
+Average time: 0.012 s
+
+Test n° 980
+Number of successes: 980
+Success rate: 100.0 %
+Total number of iterations: 11760
+Average number of iterations: 12
+Total time: 12.436 s
+Average time: 0.012 s
+
+Test n° 981
+Number of successes: 981
+Success rate: 100.0 %
+Total number of iterations: 11772
+Average number of iterations: 12
+Total time: 12.449 s
+Average time: 0.012 s
+
+Test n° 982
+Number of successes: 982
+Success rate: 100.0 %
+Total number of iterations: 11784
+Average number of iterations: 12
+Total time: 12.461 s
+Average time: 0.012 s
+
+Test n° 983
+Number of successes: 983
+Success rate: 100.0 %
+Total number of iterations: 11796
+Average number of iterations: 12
+Total time: 12.473 s
+Average time: 0.012 s
+
+Test n° 984
+Number of successes: 984
+Success rate: 100.0 %
+Total number of iterations: 11808
+Average number of iterations: 12
+Total time: 12.486 s
+Average time: 0.012 s
+
+Test n° 985
+Number of successes: 985
+Success rate: 100.0 %
+Total number of iterations: 11820
+Average number of iterations: 12
+Total time: 12.499 s
+Average time: 0.012 s
+
+Test n° 986
+Number of successes: 986
+Success rate: 100.0 %
+Total number of iterations: 11832
+Average number of iterations: 12
+Total time: 12.511 s
+Average time: 0.013 s
+
+Test n° 987
+Number of successes: 987
+Success rate: 100.0 %
+Total number of iterations: 11844
+Average number of iterations: 12
+Total time: 12.524 s
+Average time: 0.013 s
+
+Test n° 988
+Number of successes: 988
+Success rate: 100.0 %
+Total number of iterations: 11856
+Average number of iterations: 12
+Total time: 12.536 s
+Average time: 0.013 s
+
+Test n° 989
+Number of successes: 989
+Success rate: 100.0 %
+Total number of iterations: 11868
+Average number of iterations: 12
+Total time: 12.549 s
+Average time: 0.013 s
+
+Test n° 990
+Number of successes: 990
+Success rate: 100.0 %
+Total number of iterations: 11880
+Average number of iterations: 12
+Total time: 12.561 s
+Average time: 0.013 s
+
+Test n° 991
+Number of successes: 991
+Success rate: 100.0 %
+Total number of iterations: 11892
+Average number of iterations: 12
+Total time: 12.574 s
+Average time: 0.013 s
+
+Test n° 992
+Number of successes: 992
+Success rate: 100.0 %
+Total number of iterations: 11904
+Average number of iterations: 12
+Total time: 12.587 s
+Average time: 0.013 s
+
+Test n° 993
+Number of successes: 993
+Success rate: 100.0 %
+Total number of iterations: 11916
+Average number of iterations: 12
+Total time: 12.599 s
+Average time: 0.013 s
+
+Test n° 994
+Number of successes: 994
+Success rate: 100.0 %
+Total number of iterations: 11928
+Average number of iterations: 12
+Total time: 12.612 s
+Average time: 0.013 s
+
+Test n° 995
+Number of successes: 995
+Success rate: 100.0 %
+Total number of iterations: 11940
+Average number of iterations: 12
+Total time: 12.624 s
+Average time: 0.013 s
+
+Test n° 996
+Number of successes: 996
+Success rate: 100.0 %
+Total number of iterations: 11952
+Average number of iterations: 12
+Total time: 12.638 s
+Average time: 0.013 s
+
+Test n° 997
+Number of successes: 997
+Success rate: 100.0 %
+Total number of iterations: 11964
+Average number of iterations: 12
+Total time: 12.65 s
+Average time: 0.013 s
+
+Test n° 998
+Number of successes: 998
+Success rate: 100.0 %
+Total number of iterations: 11976
+Average number of iterations: 12
+Total time: 12.662 s
+Average time: 0.013 s
+
+Test n° 999
+Number of successes: 999
+Success rate: 100.0 %
+Total number of iterations: 11988
+Average number of iterations: 12
+Total time: 12.675 s
+Average time: 0.013 s
+
+Test n° 1000
+Number of successes: 1000
+Success rate: 100.0 %
+Total number of iterations: 12000
+Average number of iterations: 12
+Total time: 12.687 s
+Average time: 0.013 s
+
+Number of teams: 6
+Tabu list length: 24
+Maximum number of iterations: 10000
+Number of tests: 1000
+Number of successes: 1000
+Success rate: 100.0 %
+Total number of iterations: 12000
+Average number of iterations: 12
+Total time: 12.687 s
+Average time: 0.013 s
+

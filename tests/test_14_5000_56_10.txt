@@ -1,0 +1,90 @@
+Number of teams: 14
+Tabu list length: 56
+
+Test n° 1
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 170.133 s
+Average time: 170.133 s
+
+Test n° 2
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 341.583 s
+Average time: 170.792 s
+
+Test n° 3
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 514.958 s
+Average time: 171.653 s
+
+Test n° 4
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 679.19 s
+Average time: 169.798 s
+
+Test n° 5
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 842.251 s
+Average time: 168.45 s
+
+Test n° 6
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 1012.324 s
+Average time: 168.721 s
+
+Test n° 7
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 1182.5 s
+Average time: 168.929 s
+
+Test n° 8
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 1352.163 s
+Average time: 169.02 s
+
+Test n° 9
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 1518.577 s
+Average time: 168.731 s
+
+Test n° 10
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0
+Average number of iterations_: 0
+Total time: 1685.33 s
+Average time: 168.533 s
+
+Number of teams: 14
+Tabu list length: 56
+Maximum number of iterations: 5000
+Number of tests: 10
+Number of successes: 0
+Success rate: 0.0 %
+Total number of iterations: 0

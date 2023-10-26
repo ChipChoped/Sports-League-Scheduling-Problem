@@ -1,0 +1,94 @@
+Number of teams: 12
+Tabu list length: 48
+
+Test n° 1
+Number of successes: 1
+Success rate: 100.0 %
+Total number of iterations: 2443
+Average number of iterations: 2443
+Total time: 44.253 s
+Average time: 44.253 s
+
+Test n° 2
+Number of successes: 2
+Success rate: 100.0 %
+Total number of iterations: 4307
+Average number of iterations: 2153
+Total time: 79.617 s
+Average time: 39.808 s
+
+Test n° 3
+Number of successes: 2
+Success rate: 66.66666666666666 %
+Total number of iterations: 4307
+Average number of iterations: 1435
+Total time: 170.954 s
+Average time: 56.985 s
+
+Test n° 4
+Number of successes: 2
+Success rate: 50.0 %
+Total number of iterations: 4307
+Average number of iterations: 1076
+Total time: 259.477 s
+Average time: 64.869 s
+
+Test n° 5
+Number of successes: 2
+Success rate: 40.0 %
+Total number of iterations: 4307
+Average number of iterations: 861
+Total time: 350.784 s
+Average time: 70.157 s
+
+Test n° 6
+Number of successes: 2
+Success rate: 33.33333333333333 %
+Total number of iterations: 4307
+Average number of iterations: 717
+Total time: 439.361 s
+Average time: 73.227 s
+
+Test n° 7
+Number of successes: 2
+Success rate: 28.57142857142857 %
+Total number of iterations: 4307
+Average number of iterations: 615
+Total time: 526.493 s
+Average time: 75.213 s
+
+Test n° 8
+Number of successes: 2
+Success rate: 25.0 %
+Total number of iterations: 4307
+Average number of iterations: 538
+Total time: 616.083 s
+Average time: 77.01 s
+
+Test n° 9
+Number of successes: 3
+Success rate: 33.33333333333333 %
+Total number of iterations: 5557
+Average number of iterations: 617
+Total time: 641.095 s
+Average time: 71.233 s
+
+Test n° 10
+Number of successes: 4
+Success rate: 40.0 %
+Total number of iterations: 6456
+Average number of iterations: 645
+Total time: 658.697 s
+Average time: 65.87 s
+
+Number of teams: 12
+Tabu list length: 48
+Maximum number of iterations: 5000
+Number of tests: 10
+Number of successes: 4
+Success rate: 40.0 %
+Total number of iterations: 6456
+Average number of iterations: 1614
+Total time: 658.697 s
+Average time: 65.87 s
+
