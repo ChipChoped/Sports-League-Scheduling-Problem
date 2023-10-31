@@ -1,3 +1,4 @@
+import sys
 import numpy as np
 import networkx as nx
 from matplotlib import pyplot as plt
@@ -105,5 +106,5 @@ class Schedule:
 
 
 if __name__ == '__main__':
-    schedule = Schedule(8)
+    schedule = Schedule(int(sys.argv[1]))
     schedule.show_as_graph()
