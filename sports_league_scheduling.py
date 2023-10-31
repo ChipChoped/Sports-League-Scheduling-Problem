@@ -1,7 +1,6 @@
 import sys
 import time
 import random
-from typing import Tuple
 
 import numpy as np
 
@@ -10,11 +9,13 @@ from schedule import Schedule
 
 
 def find_matches_in_conflict(schedule: Schedule) -> set[tuple[Match, Match]]:
+    # Find the matches in conflict in a schedule
+
     conflicting_matches: dict[int] = dict()
 
     for period in schedule.matches.T:
         for match_1 in period:
-            # A match is in conflict if one of the two teams is already playing two times in the period
+            # Count the number of conflicts for each team in the match
             team_1_conflicts_number: int = 0
             team_2_conflicts_number: int = 0
 
@@ -32,6 +33,8 @@ def find_matches_in_conflict(schedule: Schedule) -> set[tuple[Match, Match]]:
                 if conflict[1]:
                     team_2_conflicts_number += 1
 
+                # If a team is in conflict more than once, the match is in conflict in the schedule
+                # and the loop can be stopped
                 if team_1_conflicts_number > 1 or team_2_conflicts_number > 1:
                     match_is_in_conflict = True
                     break
@@ -60,6 +63,8 @@ def find_matches_in_conflict(schedule: Schedule) -> set[tuple[Match, Match]]:
 
 def get_swappable_matches(matches_in_conflict: set[tuple[Match, Match]], tabu_list: list[tuple[Match, Match]]) \
         -> set[tuple[Match, Match]]:
+    # Remove from the set of tuples of matches in conflict the ones that are in the tabu list
+
     swappable_matches: set[tuple[Match, Match]] = matches_in_conflict.copy()
 
     for match_1, match_2 in tabu_list:
@@ -74,14 +79,19 @@ def get_swappable_matches(matches_in_conflict: set[tuple[Match, Match]], tabu_li
 def best_neighbour_schedule(schedule: Schedule, matches_in_conflict: set[tuple[Match, Match]],
                             tabu_list: list[tuple[Match, Match]]) \
         -> tuple[tuple[Match, Match], Schedule, set[tuple[Match, Match]], set[tuple[Match, Match]]]:
+    # Search for the swap leading to the least conflicting neighbourhood
+
+    # Get the set of swappable matches for the current schedule
     updated_swappable_matches: set[tuple[Match, Match]] = get_swappable_matches(matches_in_conflict, tabu_list)
 
+    # If no swappable matches are found, remove the oldest element from the tabu list and try again
     while len(updated_swappable_matches) == 0:
         tabu_list.pop(0)
         tabu_list.append((Match(0, 0), Match(0, 0)))
 
         updated_swappable_matches = get_swappable_matches(matches_in_conflict, tabu_list)
 
+    # Choose the first swap from the set of swappable matches as the best swap temporarily
     best_swap = next(iter(updated_swappable_matches))
 
     match_1_i, match_1_j = np.where(schedule.matches == best_swap[0])
@@ -97,9 +107,9 @@ def best_neighbour_schedule(schedule: Schedule, matches_in_conflict: set[tuple[M
     best_neighbour_swappable_matches: set[tuple[Match, Match]] = \
         get_swappable_matches(best_neighbour_matches_in_conflict, tabu_list)
 
-    # Search for the swap leading to the least conflicting neighbourhood
     updated_swappable_matches.remove(best_swap)
 
+    # Search for the best swap in the neighbourhood
     for swap in updated_swappable_matches:
         match_1_i, match_1_j = np.where(schedule.matches == swap[0])
         match_2_i, match_2_j = np.where(schedule.matches == swap[1])
@@ -114,6 +124,7 @@ def best_neighbour_schedule(schedule: Schedule, matches_in_conflict: set[tuple[M
         neighbour_swappable_matches: set[tuple[Match, Match]] = \
             get_swappable_matches(neighbour_matches_in_conflict, tabu_list)
 
+        # If the number of conflicts is lower, update the best swap
         if len(neighbour_matches_in_conflict) < len(best_neighbour_matches_in_conflict):
             best_swap = swap
             best_neighbour = neighbour
@@ -128,6 +139,7 @@ def random_swap(schedule: Schedule, matches_in_conflict: set[tuple[Match, Match]
     updated_swappable_matches: set[tuple[Match, Match]] = \
         get_swappable_matches(matches_in_conflict, tabu_list)
 
+    # If no swappable matches are found, remove the oldest element from the tabu list and try again
     while len(updated_swappable_matches) == 0:
         tabu_list.pop(0)
         tabu_list.append((Match(0, 0), Match(0, 0)))
@@ -135,26 +147,13 @@ def random_swap(schedule: Schedule, matches_in_conflict: set[tuple[Match, Match]
         updated_swappable_matches = \
             get_swappable_matches(matches_in_conflict, tabu_list)
 
+    # Choose a random swap from the set of swappable matches
     swap = random.choice(tuple(updated_swappable_matches))
 
     match_1_i, match_1_j = np.where(schedule.matches == swap[0])
     match_2_i, match_2_j = np.where(schedule.matches == swap[1])
 
-    # random_week = schedule.matches[random.randint(0, schedule.n_teams - 2)]
-    # random_match_1 = random_week[random.randint(0, int(schedule.n_teams / 2) - 1)]
-    #
-    # random_week_copy = random_week.copy()
-    # random_week_copy = np.delete(random_week_copy, np.where(random_week_copy == random_match_1))
-    #
-    # random_match_2 = random_week_copy[random.randint(0, int(schedule.n_teams / 2) - 2)]
-    #
-    # match_1_i, match_1_j = np.where(schedule.matches == random_match_1)
-    # match_2_i, match_2_j = np.where(schedule.matches == random_match_2)
-
     neighbour: Schedule = schedule.deepcopy()
-
-    # neighbour.matches[match_1_i[0]][match_1_j[0]] = random_match_2
-    # neighbour.matches[match_2_i[0]][match_2_j[0]] = random_match_1
 
     neighbour.matches[match_1_i[0]][match_1_j[0]] = swap[1]
     neighbour.matches[match_2_i[0]][match_2_j[0]] = swap[0]
@@ -164,12 +163,14 @@ def random_swap(schedule: Schedule, matches_in_conflict: set[tuple[Match, Match]
     neighbour_swappable_matches: set[tuple[Match, Match]] = \
         get_swappable_matches(neighbour_matches_in_conflict, tabu_list)
 
-    # return (random_match_1, random_match_2), neighbour, neighbour_matches_in_conflict, neighbour_swappable_matches
     return swap, neighbour, neighbour_matches_in_conflict, neighbour_swappable_matches
 
 
-def evaluate_neighbour_schedule(schedule: Schedule) -> int:
+def evaluate_neighbour_schedule(schedule: Schedule) -> tuple[int, tuple[int, int] | None]:
+    # Evaluate the number of conflicts in a schedule
+
     conflicts: int = 0
+    t = None
 
     for period in schedule.matches.T:
         for team in range(schedule.n_teams):
@@ -179,23 +180,27 @@ def evaluate_neighbour_schedule(schedule: Schedule) -> int:
                 if team in match:
                     c += 1
 
+            # Check if the team is playing more than two times in the period
             if c > 2:
                 conflicts += c - 2
+                t = (period, team)
 
-    return conflicts
+    return conflicts, t
 
 
 def tabu_search(init_schedule: Schedule, tabu_list_length: int, max_iterations: int) -> tuple[Schedule, int, bool]:
+    # Perform a tabu search on a schedule
+
     tabu_list: list[tuple[Match, Match]] = list()  # List of tabu matches
     schedule: Schedule = init_schedule.deepcopy()  # Copy of the initial schedule
-    iteration: int = 0
-    swap: tuple[Match, Match] = (Match(0, 0), Match(0, 0))
+    iteration: int = 0  # Current iteration
+    swap: tuple[Match, Match] = (Match(0, 0), Match(0, 0))  # Last swap performed
 
     # Flag to check if the schedule verifies all constraints
     schedule_is_valid: bool = False
     best_schedule: Schedule = schedule.deepcopy()
 
-    stagnation_counter: int = 0
+    stagnation_counter: int = 0  # Counter to check if the algorithm is stuck in a local minimum
 
     # Initialize the tabu_list queue with placeholders
     for _ in range(tabu_list_length - 1):
@@ -216,6 +221,7 @@ def tabu_search(init_schedule: Schedule, tabu_list_length: int, max_iterations: 
 
     # Perform the tabu search until the schedule is valid and the max number of iterations is reached
     while not schedule_is_valid and iteration < max_iterations:
+        # Mean to avoid being stuck in a local minimum
         if stagnation_counter > tabu_list_length * 4:
             schedule = best_schedule.deepcopy()
             matches_in_conflict = find_matches_in_conflict(schedule)
@@ -228,28 +234,35 @@ def tabu_search(init_schedule: Schedule, tabu_list_length: int, max_iterations: 
 
             # tabu_list = tabu_list_initialization(tabu_list_length)
             stagnation_counter = 0
+
+        # Get a new schedule
         else:
             swap, schedule, matches_in_conflict, swappable_matches = \
                 best_neighbour_schedule(schedule, matches_in_conflict, tabu_list)
 
+        # Check if the schedule is valid
         if len(matches_in_conflict) == 0:
             schedule_is_valid = True
+        # Remove the oldest element from the tabu list if not empty
         elif len(tabu_list) > 0:
             tabu_list.pop(0)
 
+        # Save the best schedule if found and reset the stagnation counter
         if len(matches_in_conflict) < best_value:
             best_schedule = schedule.deepcopy()
             best_value = len(matches_in_conflict)
             stagnation_counter = 0
+        # Increment the stagnation counter if no improvement is found
         else:
             stagnation_counter += 1
 
+        # Add the new swap to the tabu list
         tabu_list.append(swap)
 
         # print("i =", iteration)
         # print("t =", len(tabu_list), tabu_list)
-        # print("c =", len(matches_in_conflict), matches_in_conflict)
-        # print("s =", len(swappable_matches), swappable_matches)
+        # print("c =", len(matches_in_conflict))
+        # print("s =", len(swappable_matches))
         # print("m =", swap)
         # print("e =", evaluate_neighbour_schedule(schedule))
         # # print(schedule.matches)
@@ -296,6 +309,8 @@ def main(argv):
         valid_schedule, iteration, schedule_is_valide = tabu_search(schedule, tabu_list_length, max_iterations)
         end: time = time.time()
 
+        tuples = valid_schedule.matches_to_tuples()
+
         if is_test:
             total_time += end - start
 
@@ -319,31 +334,28 @@ def main(argv):
             print("Average number of iterations_:", int(total_iterations / (test_iterations + 1)))
             print("Total time:", round(total_time, 3), "s")
             print("Average time:", round(total_time / (test_iterations + 1), 3), "s")
-            print("")
         else:
             tuples = valid_schedule.matches_to_tuples()
-            print(evaluate_neighbour_schedule(valid_schedule) == 0)
+            # print(evaluate_neighbour_schedule(valid_schedule))
 
             print("Number of teams:", n_teams)
             print("Tabu list length:", tabu_list_length)
             print("Iterations:", iteration + 1, "/", max_iterations)
             print("Time:", round(end - start, 3), "s")
 
-            if schedule_is_valide:
-                print("A solution was found:")
-            else:
-                print("No solution was found under", max_iterations, "iterations", "\nThe best schedule found is:")
+        if schedule_is_valide:
+            print("A solution was found:")
+        else:
+            print("Number of conflicts to resolve:", evaluate_neighbour_schedule(valid_schedule))
+            print("No solution was found under", max_iterations, "iterations", "\nThe best schedule found is:")
 
-            for j in range(0, n_teams - 1):
-                for i in range(0, int(n_teams / 2)):
-                    print(tuples[j * int(n_teams / 2) + i], end=' ')
-
-                print("")
-
-            if not schedule_is_valide:
-                print("Number of conflicts to resolve:", evaluate_neighbour_schedule(valid_schedule))
+        for j in range(0, n_teams - 1):
+            for i in range(0, int(n_teams / 2)):
+                print(tuples[j * int(n_teams / 2) + i], end=' ')
 
             print("")
+
+        print("")
 
         test_iterations += 1
 
